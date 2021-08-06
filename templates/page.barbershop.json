@@ -1,5 +1,15 @@
 {
   "sections": {
+    "1628278188a3a19b75": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/Untitled_design_-_2020-05-16T001455.638.png",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "Video presentation of dillingers barbershop",
+        "full_width": false
+      }
+    },
     "16282780497614c9f4": {
       "type": "rich-text",
       "blocks": {
@@ -35,38 +45,6 @@
         "full_width": true
       }
     },
-    "1628277772b4d0b726": {
-      "type": "collage",
-      "blocks": {
-        "1628277772b4d0b726-0": {
-          "type": "video",
-          "settings": {
-            "cover_image": "shopify:\/\/shop_images\/Untitled_design_-_2020-05-16T001455.638.png",
-            "video_url": "https:\/\/youtu.be\/8NGM5e-60H8",
-            "description": "Describe the video for customers using screen readers",
-            "image_padding": false
-          }
-        },
-        "1628277772b4d0b726-1": {
-          "type": "product",
-          "settings": {
-            "product": "nelson-floyd-savon-a-barbe-old-tom-110-ml",
-            "secondary_background": false,
-            "second_image": false,
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "1628277772b4d0b726-0",
-        "1628277772b4d0b726-1"
-      ],
-      "settings": {
-        "heading": "THE MENS GROOMING SANCTUARY",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
-      }
-    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -74,8 +52,8 @@
     }
   },
   "order": [
+    "1628278188a3a19b75",
     "16282780497614c9f4",
-    "1628277772b4d0b726",
     "main"
   ]
 }
