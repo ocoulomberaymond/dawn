@@ -62,14 +62,14 @@
         "16282781904aff6db8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>We are your new one stop shop for everything from a tailored haircut, hot towel shave to our wide selection of beard, hair, skincare and shaving products that will help you bring your grooming ritual to the next level.<\/p>"
           }
         },
         "16282781904aff6db8-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "VISIT OUR ONLINE STORE",
+            "button_link": "shopify:\/\/collections"
           }
         }
       },
