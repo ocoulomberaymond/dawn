@@ -49,11 +49,47 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "16282781904aff6db8": {
+      "type": "image-with-text",
+      "blocks": {
+        "16282781904aff6db8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "So much more than a Barbershop!"
+          }
+        },
+        "16282781904aff6db8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16282781904aff6db8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16282781904aff6db8-0",
+        "16282781904aff6db8-1",
+        "16282781904aff6db8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dillinger-15_1.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
     "1628278188a3a19b75",
     "16282780497614c9f4",
-    "main"
+    "main",
+    "16282781904aff6db8"
   ]
 }
