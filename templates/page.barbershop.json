@@ -45,11 +45,6 @@
         "full_width": true
       }
     },
-    "main": {
-      "type": "main-page",
-      "settings": {
-      }
-    },
     "16282781904aff6db8": {
       "type": "image-with-text",
       "blocks": {
@@ -84,12 +79,67 @@
         "color_scheme": "background-1",
         "layout": "image_first"
       }
+    },
+    "1628278298baf1e149": {
+      "type": "multicolumn",
+      "blocks": {
+        "1628278298baf1e149-0": {
+          "type": "column",
+          "settings": {
+            "title": "HUGO",
+            "text": "<p>Très bon service et produits, staff super sympa !<\/p>"
+          }
+        },
+        "1628278298baf1e149-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1628278298baf1e149-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "89f9391e-a13d-475c-bcdb-7e8fccbc4a3a": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1628278298baf1e149-0",
+        "1628278298baf1e149-1",
+        "1628278298baf1e149-2",
+        "89f9391e-a13d-475c-bcdb-7e8fccbc4a3a"
+      ],
+      "settings": {
+        "title": "SEE WHAT PEOPLE ARE SAYING!",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
     }
   },
   "order": [
     "1628278188a3a19b75",
     "16282780497614c9f4",
-    "main",
-    "16282781904aff6db8"
+    "16282781904aff6db8",
+    "1628278298baf1e149",
+    "main"
   ]
 }
