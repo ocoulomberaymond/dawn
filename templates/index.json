@@ -206,8 +206,8 @@
         "16282767578a916cae-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "SHOP SHAVING",
+            "button_link": "shopify:\/\/collections\/produits-de-rasage"
           }
         }
       },
@@ -217,6 +217,7 @@
         "16282767578a916cae-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/shaving-kit_0403a3e8-4210-4fa0-a9c4-6bf177662f50.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
