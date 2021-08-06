@@ -86,15 +86,15 @@
         "1628278298baf1e149-0": {
           "type": "column",
           "settings": {
-            "title": "HUGO",
+            "title": "Hugo",
             "text": "<p>Très bon service et produits, staff super sympa !<\/p>"
           }
         },
         "1628278298baf1e149-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "Francis Riel",
+            "text": "<p>Très bonne expérience, beaucoup de produit très intéressant.<\/p>"
           }
         },
         "1628278298baf1e149-2": {
@@ -107,8 +107,8 @@
         "89f9391e-a13d-475c-bcdb-7e8fccbc4a3a": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "title": "Nancy V.",
+            "text": "<p>Les gars sont très sympas et très professionnel, j'adore ma coupe pour la première fois de ma vie 😀<\/p>"
           }
         }
       },
@@ -124,7 +124,7 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
       }
