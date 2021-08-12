@@ -233,11 +233,6 @@
         "layout": "image_first"
       }
     },
-    "main": {
-      "type": "main-page",
-      "settings": {
-      }
-    },
     "1628804250dd5b25a2": {
       "type": "newsletter",
       "blocks": {
@@ -268,6 +263,11 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -278,7 +278,7 @@
     "1628803000fd1f1b3b",
     "1628803003e52b1a8c",
     "1628803052f8535be1",
-    "main",
-    "1628804250dd5b25a2"
+    "1628804250dd5b25a2",
+    "main"
   ]
 }
