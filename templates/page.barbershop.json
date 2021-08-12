@@ -1,5 +1,10 @@
 {
   "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
     "1628278188a3a19b75": {
       "type": "video",
       "settings": {
@@ -263,14 +268,10 @@
         "color_scheme": "background-1",
         "full_width": true
       }
-    },
-    "main": {
-      "type": "main-page",
-      "settings": {
-      }
     }
   },
   "order": [
+    "main",
     "1628278188a3a19b75",
     "16282780497614c9f4",
     "16282781904aff6db8",
@@ -278,7 +279,6 @@
     "1628803000fd1f1b3b",
     "1628803003e52b1a8c",
     "1628803052f8535be1",
-    "1628804250dd5b25a2",
-    "main"
+    "1628804250dd5b25a2"
   ]
 }
