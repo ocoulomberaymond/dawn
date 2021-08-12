@@ -205,11 +205,6 @@
         "swipe_on_mobile": false
       }
     },
-    "main": {
-      "type": "main-page",
-      "settings": {
-      }
-    },
     "1628803052f8535be1": {
       "type": "image-with-text",
       "blocks": {
@@ -232,9 +227,15 @@
         "1628803052f8535be1-2"
       ],
       "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
+        "image": "shopify:\/\/shop_images\/DLGR-HiRes-900_1.jpg",
+        "height": "small",
+        "color_scheme": "accent-1",
         "layout": "image_first"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
       }
     }
   },
@@ -245,7 +246,7 @@
     "1628278298baf1e149",
     "1628803000fd1f1b3b",
     "1628803003e52b1a8c",
-    "main",
-    "1628803052f8535be1"
+    "1628803052f8535be1",
+    "main"
   ]
 }
