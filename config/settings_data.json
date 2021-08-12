@@ -13,6 +13,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
+              "heading": "Welcome to our store",
               "color_scheme": "accent-1",
               "link": ""
             }
@@ -30,7 +31,7 @@
           "logo": "shopify:\/\/shop_images\/dillingers-logo-2.0fondblanc_843a78de-af86-4bca-8896-efd03422f392.png",
           "logo_width": 150,
           "logo_position": "middle-left",
-          "menu": "boutique",
+          "menu": "dawn-menu",
           "show_line_separator": true,
           "enable_sticky_header": true
         }

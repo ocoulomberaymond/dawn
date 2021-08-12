@@ -1,17 +1,53 @@
 {
   "sections": {
     "main": {
-      "type": "main-page"
+      "type": "main-page",
+      "settings": {
+      }
     },
     "form": {
       "type": "contact-form",
       "settings": {
-        "heading": ""
+        "heading": "We usually return all messages within 24 to 48 hours"
+      }
+    },
+    "1628806316826b165f": {
+      "type": "multicolumn",
+      "blocks": {
+        "1628806316826b165f-0": {
+          "type": "column",
+          "settings": {
+            "title": "Opening Hours",
+            "text": "<p>Tue - Wed : 12pm - 7pm<br\/>Tue-Fri: 12pm - 9pm<br\/>Sat: 10am-6pm<br\/>Sun - Mon: CLOSED<br\/><\/p>"
+          }
+        },
+        "1628806316826b165f-1": {
+          "type": "column",
+          "settings": {
+            "title": "Contact Information",
+            "text": "<p>📍  4352 rue Wellington, Verdun, Qc, H4G 1W4<\/p><p><\/p><p>📞  +1 (438) 497-9111<\/p><p>📩  info@dillingers.ca<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1628806316826b165f-0",
+        "1628806316826b165f-1"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     }
   },
   "order": [
     "main",
-    "form"
+    "form",
+    "1628806316826b165f"
   ]
 }
