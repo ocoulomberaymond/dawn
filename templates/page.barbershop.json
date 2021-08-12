@@ -237,6 +237,37 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "1628804250dd5b25a2": {
+      "type": "newsletter",
+      "blocks": {
+        "1628804250dd5b25a2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join the HAIR MILES CLUB"
+          }
+        },
+        "1628804250dd5b25a2-1": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "<p>Get exclusive discount codes, be notified when new videos are uploaded and more! Sign Up Now!<\/p>"
+          }
+        },
+        "1628804250dd5b25a2-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1628804250dd5b25a2-0",
+        "1628804250dd5b25a2-1",
+        "1628804250dd5b25a2-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -247,6 +278,7 @@
     "1628803000fd1f1b3b",
     "1628803003e52b1a8c",
     "1628803052f8535be1",
-    "main"
+    "main",
+    "1628804250dd5b25a2"
   ]
 }
