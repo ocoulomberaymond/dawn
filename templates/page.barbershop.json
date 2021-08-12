@@ -129,9 +129,112 @@
         "swipe_on_mobile": false
       }
     },
+    "1628803000fd1f1b3b": {
+      "type": "rich-text",
+      "blocks": {
+        "240f4bcc-ba1b-459e-95ae-032956426dcf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Services",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "240f4bcc-ba1b-459e-95ae-032956426dcf"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "1628803003e52b1a8c": {
+      "type": "multicolumn",
+      "blocks": {
+        "1628803003e52b1a8c-0": {
+          "type": "column",
+          "settings": {
+            "title": "Precision Haircut & Skinfades",
+            "text": "<p>Tailored haircut, adapted to your morphologie<\/p><p><strong>Price<\/strong>: Starting at <strong>35$<\/strong><\/p><p><strong>Duration<\/strong>: 40 min<br\/><\/p>"
+          }
+        },
+        "1628803003e52b1a8c-1": {
+          "type": "column",
+          "settings": {
+            "title": "Beard Trim & Line Up",
+            "text": "<p>From the express clipper and shaver beard trim to the hot towel treatment straight blade finish<br\/><\/p><p><strong>Price<\/strong>: Starting at 17.50$<\/p><p><strong>Duration: <\/strong>15-30 min<\/p>"
+          }
+        },
+        "1628803003e52b1a8c-2": {
+          "type": "column",
+          "settings": {
+            "title": "Shaves",
+            "text": "<p>Quick express shave, classic shave, head shave<\/p><p><\/p><p><strong>Price<\/strong>: Starting at 17.50$<\/p><p><strong>Duration<\/strong>: 15-30 min<br\/><\/p>"
+          }
+        },
+        "7bc338ec-3e1d-43de-a7b7-06a991ac22ad": {
+          "type": "column",
+          "settings": {
+            "title": "Combos",
+            "text": "<p>Combine services and save!<\/p><p><strong>Price<\/strong>: Starting at 42$<\/p><p><strong>Duration<\/strong>: 45min - 1h15<br\/><br\/><\/p>"
+          }
+        },
+        "30329f11-6750-49aa-9467-e9b8398e388d": {
+          "type": "column",
+          "settings": {
+            "title": "Extras",
+            "text": "<p>Our add ons will get you<\/p><p><\/p><p>-&gt; Face massage - 5 min - 5$<\/p><p>-&gt; Facial scrub - 5 min - 5$<\/p><p>-&gt; Black mask - 15 min - 25$<\/p><p>-&gt; Anti wrinkle Moisturizer - 5 min - 5$<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1628803003e52b1a8c-0",
+        "1628803003e52b1a8c-1",
+        "1628803003e52b1a8c-2",
+        "7bc338ec-3e1d-43de-a7b7-06a991ac22ad",
+        "30329f11-6750-49aa-9467-e9b8398e388d"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "BOOK NOW",
+        "button_link": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109",
+        "swipe_on_mobile": false
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
+      }
+    },
+    "1628803052f8535be1": {
+      "type": "image-with-text",
+      "blocks": {
+        "1628803052f8535be1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Le personnel est super, ambiance #1. Plus que satisfait de ma coupe de cheveux et barbe.<\/p><p>La boutique est génial et à beacoup de produits québécois, quoi demande de plus 😎😜\"<br\/>⭐️⭐️⭐️⭐️⭐️<br\/><strong>Sébastien G.<\/strong><\/p><p><\/p><p><strong>\"<\/strong>Le Dillinger's c'est comme un Toyz-r-us pour boyz\"<br\/>⭐️⭐️⭐️⭐️⭐️<br\/><strong>Le roi de la sauce<\/strong><br\/><\/p><p><strong><br\/><\/strong><br\/><\/p>"
+          }
+        },
+        "1628803052f8535be1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK NOW",
+            "button_link": "https:\/\/login.meevo.com\/dillingers\/ob?locationId=301109"
+          }
+        }
+      },
+      "block_order": [
+        "1628803052f8535be1-1",
+        "1628803052f8535be1-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
       }
     }
   },
@@ -140,6 +243,9 @@
     "16282780497614c9f4",
     "16282781904aff6db8",
     "1628278298baf1e149",
-    "main"
+    "1628803000fd1f1b3b",
+    "1628803003e52b1a8c",
+    "main",
+    "1628803052f8535be1"
   ]
 }
