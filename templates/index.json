@@ -256,6 +256,7 @@
   },
   "order": [
     "image_banner",
+    "rich_text",
     "featured_products",
     "image_text",
     "1628276279d0771e33",
