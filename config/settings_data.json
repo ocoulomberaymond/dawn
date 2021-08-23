@@ -1,5 +1,4 @@
 {
-
   "current": {
     "type_header_font": "arvo_n7",
     "type_body_font": "daytona_n4",
@@ -18,7 +17,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "heading": "SUMMER PROMO: BUY 3 OR MORE PRODUCTS AND SAVE 15%!",
+              "text": "SUMMER PROMO: BUY 3 OR MORE PRODUCTS AND SAVE 15%!",
               "color_scheme": "accent-1",
               "link": ""
             }
@@ -77,6 +76,5 @@
     "content_for_index": [
 
     ]
-
   }
 }
