@@ -72,7 +72,7 @@
     if (localStorage && localStorage.getItem('boldSubscriptionsSubscriptionGroups')) {
         window.BOLD.subscriptions.data.subscriptionGroups = JSON.parse(localStorage.getItem('boldSubscriptionsSubscriptionGroups'));
     } else {
-        window.BOLD.subscriptions.data.subscriptionGroups = [{"id":20231,"billing_rules":[{"id":42265,"subscription_group_id":20231,"interval_name":"Monthly","billing_rule":"FREQ=MONTHLY","custom_billing_rule":""}],"is_subscription_only":false,"allow_prepaid":false,"is_prepaid_only":false,"should_continue_prepaid":true,"continue_prepaid_type":"as_prepaid","prepaid_durations":[{"id":20137,"subscription_group_id":20231,"total_duration":1,"discount_type":"percentage","discount_value":0}],"selection_options":[{"platform_entity_id":"6597432410177"}],"discount_type":"percentage","percent_discount":10,"fixed_discount":0,"can_add_to_cart":true}];
+        window.BOLD.subscriptions.data.subscriptionGroups = [];
     }
 
     window.BOLD.subscriptions.isFeatureFlagEnabled = function (featureFlag) {
