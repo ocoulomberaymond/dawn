@@ -39,7 +39,7 @@
     window.BOLD.subscriptions.config.lineItemNameSelectors = window.BOLD.subscriptions.config.lineItemNameSelectors || [];
     window.BOLD.subscriptions.config.checkoutButtonSelectors = window.BOLD.subscriptions.config.checkoutButtonSelectors || [];
 
-    window.BOLD.subscriptions.config.featureFlags = window.BOLD.subscriptions.config.featureFlags || ["BS2-1698-get-paypal-methods-from-cashier","BS2-1699-select-payment-methods-msp","BS2-1882-gen-settings-tz","BS2-3318-prepaid-import-recurrence-fix","BS2-3021-recurrence-start-date-cart-param","BS2-3432-ignore-cc-email-for-free-prepaid","bs2-3977-fix-grand-total","bs2-4074-weekly-buffer-days-on-shopify","BS2-1699-edit-payment-methods-admin","bs2-1804-cancellation-management-page","BS2-3651-orderstream-webhook-source-validation","bs2-3051-shopify-buffer-days","BS2-3660-delete-line-items-command","BS2-3564-validations-for-deleted-orders"];
+    window.BOLD.subscriptions.config.featureFlags = window.BOLD.subscriptions.config.featureFlags || ["BS2-1698-get-paypal-methods-from-cashier","BS2-1699-select-payment-methods-msp","BS2-1882-gen-settings-tz","BS2-3318-prepaid-import-recurrence-fix","BS2-3021-recurrence-start-date-cart-param","BS2-3432-ignore-cc-email-for-free-prepaid","bs2-3977-fix-grand-total","BS2-1699-edit-payment-methods-admin","bs2-1804-cancellation-management-page","BS2-3651-orderstream-webhook-source-validation","BS2-3660-delete-line-items-command"];
     window.BOLD.subscriptions.config.subscriptionProcessingFrequency = '60';
     window.BOLD.subscriptions.config.requireMSPInitialLoadingMessage = true;
     window.BOLD.subscriptions.data = window.BOLD.subscriptions.data || {};
@@ -72,7 +72,7 @@
     if (localStorage && localStorage.getItem('boldSubscriptionsSubscriptionGroups')) {
         window.BOLD.subscriptions.data.subscriptionGroups = JSON.parse(localStorage.getItem('boldSubscriptionsSubscriptionGroups'));
     } else {
-        window.BOLD.subscriptions.data.subscriptionGroups = [];
+        window.BOLD.subscriptions.data.subscriptionGroups = [{"id":20438,"billing_rules":[{"id":42725,"subscription_group_id":20438,"interval_name":"Every 2 months","billing_rule":"FREQ=MONTHLY;INTERVAL=2","custom_billing_rule":""},{"id":42726,"subscription_group_id":20438,"interval_name":"3 months","billing_rule":"FREQ=MONTHLY;INTERVAL=3","custom_billing_rule":""}],"is_subscription_only":false,"allow_prepaid":false,"is_prepaid_only":false,"should_continue_prepaid":true,"continue_prepaid_type":"as_prepaid","prepaid_durations":[{"id":20345,"subscription_group_id":20438,"total_duration":1,"discount_type":"percentage","discount_value":0}],"selection_options":[{"platform_entity_id":"6596169400385"}],"discount_type":"no_discount","percent_discount":0,"fixed_discount":0,"can_add_to_cart":true}];
     }
 
     window.BOLD.subscriptions.isFeatureFlagEnabled = function (featureFlag) {
