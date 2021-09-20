@@ -38,12 +38,6 @@
           "settings": {
           }
         },
-        "2acbd1ef-55a5-4186-bc8d-c3bfb30023bd": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "{% render 'bsub-widget' %}"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -69,7 +63,6 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "2acbd1ef-55a5-4186-bc8d-c3bfb30023bd",
         "buy_buttons",
         "description",
         "share"
