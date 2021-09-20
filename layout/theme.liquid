@@ -123,7 +123,9 @@
     <script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
   
                     {% include 'omg-facebook-chat' %}
-                  {%- render 'bold-subscription-widget' -%}
+                  <!--{%- render 'bold-subscription-widget' -%}-->
+{{ 'bsub.js' | asset_url | script_tag }} 
+{{ 'bsub.scss.css' | asset_url | stylesheet_tag }}
 </head>
 
   <body class="gradient">
