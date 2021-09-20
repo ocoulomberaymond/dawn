@@ -130,6 +130,7 @@
                 </div>
               </details>
             </div>
+        {% render 'bsub-widget' %}
           {%- when 'quantity_selector' -%}
             <div class="product-form__input product-form__quantity" {{ block.shopify_attributes }}>
               <label class="form__label" for="Quantity-{{ section.id }}">
