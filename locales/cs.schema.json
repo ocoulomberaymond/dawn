@@ -558,7 +558,7 @@
         },
         "show_rating": {
           "label": "Zobrazit hodnocení produktů",
-          "info": "Pokud chcete zobrazovat hodnocení, přidejte si aplikaci pro hodnocení produktů. [Zjistit více](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
+          "info": "Pokud chcete zobrazovat hodnocení, přidejte si aplikaci pro hodnocení produktů. [Zjistit více](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-collection-show-product-rating)"
         }
       },
       "presets": {
@@ -948,7 +948,7 @@
               "content": "Pokud v příspěvcích na sociálních sítích uvedete odkaz, jako náhledový obrázek se zobrazí propagovaný obrázek stránky. [Zjistit více](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "title_info": {
-              "content": "U náhledového obrázku je uveden také název a popis obchodu. [Zjistit více](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "U náhledového obrázku je uveden také název a popis obchodu. [Zjistit více](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
             },
             "text": {
               "label": "Text"
@@ -1091,7 +1091,7 @@
         },
         "show_rating": {
           "label": "Zobrazit hodnocení produktů",
-          "info": "Pokud chcete zobrazovat hodnocení, přidejte si aplikaci pro hodnocení produktů. [Zjistit více](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
+          "info": "Pokud chcete zobrazovat hodnocení, přidejte si aplikaci pro hodnocení produktů. [Zjistit více](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-grid-show-product-rating)"
         }
       }
     },
@@ -1286,7 +1286,7 @@
               "content": "Pokud v příspěvcích na sociálních sítích uvedete odkaz, jako náhledový obrázek se zobrazí propagovaný obrázek stránky. [Zjistit více](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "title_info": {
-              "content": "U náhledového obrázku je uveden také název a popis obchodu. [Zjistit více](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "U náhledového obrázku je uveden také název a popis obchodu. [Zjistit více](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
             },
             "text": {
               "label": "Text"
@@ -1407,7 +1407,7 @@
           "name": "Hodnocení produktů",
           "settings": {
             "paragraph": {
-              "content": "Pokud chcete zobrazovat hodnocení, přidejte si aplikaci pro hodnocení produktů. [Zjistit více](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-rating-block)"
+              "content": "Pokud chcete zobrazovat hodnocení, přidejte si aplikaci pro hodnocení produktů. [Zjistit více](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-rating-block)"
             }
           }
         }
@@ -1469,7 +1469,7 @@
         },
         "show_rating": {
           "label": "Zobrazit hodnocení produktů",
-          "info": "Pokud chcete zobrazovat hodnocení, přidejte si aplikaci pro hodnocení produktů. [Zjistit více](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
+          "info": "Pokud chcete zobrazovat hodnocení, přidejte si aplikaci pro hodnocení produktů. [Zjistit více](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#search-results-show-product-rating)"
         }
       }
     },
@@ -1666,7 +1666,7 @@
         },
         "show_rating": {
           "label": "Zobrazit hodnocení produktů",
-          "info": "Pokud chcete zobrazovat hodnocení, přidejte si aplikaci pro hodnocení produktů. [Zjistit více](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
+          "info": "Pokud chcete zobrazovat hodnocení, přidejte si aplikaci pro hodnocení produktů. [Zjistit více](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-recommendations-show-product-rating)"
         }
       }
     },
@@ -1846,10 +1846,10 @@
           "name": "Sdílet",
           "settings": {
             "featured_image_info": {
-              "content": "Pokud v příspěvcích na sociálních sítích uvedete odkaz, jako náhledový obrázek se zobrazí propagovaný obrázek stránky. [Zjistit více](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)"
+              "content": "Pokud v příspěvcích na sociálních sítích uvedete odkaz, jako náhledový obrázek se zobrazí propagovaný obrázek stránky. [Zjistit více](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)"
             },
             "title_info": {
-              "content": "U náhledového obrázku je uveden také název a popis obchodu. [Zjistit více](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "U náhledového obrázku je uveden také název a popis obchodu. [Zjistit více](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
             },
             "text": {
               "label": "Text"
@@ -1868,7 +1868,7 @@
           "name": "Hodnocení produktů",
           "settings": {
             "paragraph": {
-              "content": "Pokud chcete zobrazovat hodnocení, přidejte si aplikaci pro hodnocení produktů. [Zjistit více](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-product-rating)"
+              "content": "Pokud chcete zobrazovat hodnocení, přidejte si aplikaci pro hodnocení produktů. [Zjistit více](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-product-rating)"
             }
           }
         }

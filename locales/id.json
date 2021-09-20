@@ -142,7 +142,7 @@
       },
       "view_full_details": "Lihat detail lengkap",
       "include_taxes": "Termasuk pajak.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Biaya pengiriman</a> dihitung saat checkout."
+      "shipping_policy_html": "<a href=\"{{ link }}\">Biaya pengiriman<\/a> dihitung saat checkout."
     },
     "modal": {
       "label": "Galeri media"

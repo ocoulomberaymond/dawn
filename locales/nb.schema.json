@@ -558,7 +558,7 @@
         },
         "show_rating": {
           "label": "Vis produktvurdering",
-          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
+          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-collection-show-product-rating)"
         }
       },
       "presets": {
@@ -948,7 +948,7 @@
               "content": "Hvis du inkluderer en kobling i innlegg på sosiale medier, vil sidens fremhevede bilde vises som forhåndsvisningsbilde. [Finn ut mer](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "title_info": {
-              "content": "En butikktittel og -beskrivelse inkluderes med forhåndsvisningsbildet. [Finn ut mer](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "En butikktittel og -beskrivelse inkluderes med forhåndsvisningsbildet. [Finn ut mer](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
             },
             "text": {
               "label": "Tekst"
@@ -1091,7 +1091,7 @@
         },
         "show_rating": {
           "label": "Vis produktvurdering",
-          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
+          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-grid-show-product-rating)"
         }
       }
     },
@@ -1281,7 +1281,7 @@
               "content": "Hvis du inkluderer en kobling i innlegg på sosiale medier, vil sidens fremhevede bilde vises som forhåndsvisningsbilde. [Finn ut mer](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "title_info": {
-              "content": "En butikktittel og -beskrivelse inkluderes med forhåndsvisningsbildet. [Finn ut mer](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "En butikktittel og -beskrivelse inkluderes med forhåndsvisningsbildet. [Finn ut mer](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
             },
             "text": {
               "label": "Tekst"
@@ -1402,7 +1402,7 @@
           "name": "Produktvurdering",
           "settings": {
             "paragraph": {
-              "content": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-rating-block)"
+              "content": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-rating-block)"
             }
           }
         }
@@ -1465,7 +1465,7 @@
         },
         "show_rating": {
           "label": "Vis produktvurdering",
-          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
+          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#search-results-show-product-rating)"
         }
       }
     },
@@ -1658,7 +1658,7 @@
         },
         "show_rating": {
           "label": "Vis produktvurdering",
-          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
+          "info": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-recommendations-show-product-rating)"
         }
       }
     },
@@ -1838,10 +1838,10 @@
           "name": "Del",
           "settings": {
             "featured_image_info": {
-              "content": "Hvis du inkluderer en kobling i innlegg på sosiale medier, vil sidens fremhevede bilde vises som forhåndsvisningsbilde. [Finn ut mer](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)"
+              "content": "Hvis du inkluderer en kobling i innlegg på sosiale medier, vil sidens fremhevede bilde vises som forhåndsvisningsbilde. [Finn ut mer](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)"
             },
             "title_info": {
-              "content": "En butikktittel og -beskrivelse inkluderes med forhåndsvisningsbildet. [Finn ut mer](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "En butikktittel og -beskrivelse inkluderes med forhåndsvisningsbildet. [Finn ut mer](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
             },
             "text": {
               "label": "Tekst"
@@ -1860,7 +1860,7 @@
           "name": "Produktvurdering",
           "settings": {
             "paragraph": {
-              "content": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-product-rating)"
+              "content": "Legg til en produktvurderingsapp for å vise en vurdering. [Finn ut mer](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-product-rating)"
             }
           }
         }

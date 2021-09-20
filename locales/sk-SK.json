@@ -73,7 +73,7 @@
     "of": "z",
     "skip_to_product_info": "Prejsť na informácie o produkte",
     "total_reviews": "celkový počet recenzií",
-    "star_reviews_info": "Počet hviezdičiek: {{ rating_value }}/{{ rating_max }}"
+    "star_reviews_info": "Počet hviezdičiek: {{ rating_value }}\/{{ rating_max }}"
   },
   "blogs": {
     "article": {
@@ -144,7 +144,7 @@
       },
       "view_full_details": "Zobraziť všetky podrobnosti",
       "include_taxes": "Vrátane dane.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Doprava</a> sa vypočíta pri platbe."
+      "shipping_policy_html": "<a href=\"{{ link }}\">Doprava<\/a> sa vypočíta pri platbe."
     },
     "modal": {
       "label": "Galéria médií"

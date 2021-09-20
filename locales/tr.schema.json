@@ -570,7 +570,7 @@
         },
         "show_rating": {
           "label": "Ürün puanlarını göster",
-          "info": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
+          "info": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-collection-show-product-rating)"
         }
       },
       "presets": {
@@ -960,7 +960,7 @@
               "content": "Sosyal medya gönderilerine bağlantı eklerseniz sayfanın öne çıkan görseli, önizleme görseli olarak gösterilir. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "title_info": {
-              "content": "Mağaza başlığı ve açıklaması, önizleme görseline dahildir. [Daha fazla bilgi edinin](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "Mağaza başlığı ve açıklaması, önizleme görseline dahildir. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
             },
             "text": {
               "label": "Metin"
@@ -1103,7 +1103,7 @@
         },
         "show_rating": {
           "label": "Ürün puanlarını göster",
-          "info": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
+          "info": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-grid-show-product-rating)"
         }
       }
     },
@@ -1293,7 +1293,7 @@
               "content": "Sosyal medya gönderilerine bağlantı eklerseniz sayfanın öne çıkan görseli, önizleme görseli olarak gösterilir. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "title_info": {
-              "content": "Mağaza başlığı ve açıklaması, önizleme görseline dahildir. [Daha fazla bilgi edinin](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "Mağaza başlığı ve açıklaması, önizleme görseline dahildir. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
             },
             "text": {
               "label": "Metin"
@@ -1414,7 +1414,7 @@
           "name": "Ürün puanı",
           "settings": {
             "paragraph": {
-              "content": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-rating-block)"
+              "content": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-rating-block)"
             }
           }
         }
@@ -1477,7 +1477,7 @@
         },
         "show_rating": {
           "label": "Ürün puanlarını göster",
-          "info": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
+          "info": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#search-results-show-product-rating)"
         }
       }
     },
@@ -1671,7 +1671,7 @@
         },
         "show_rating": {
           "label": "Ürün puanlarını göster",
-          "info": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
+          "info": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-recommendations-show-product-rating)"
         }
       }
     },
@@ -1851,10 +1851,10 @@
           "name": "Paylaş",
           "settings": {
             "featured_image_info": {
-              "content": "Sosyal medya gönderilerine bağlantı eklerseniz sayfanın öne çıkan görseli, önizleme görseli olarak gösterilir. [Daha fazla bilgi edinin](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)"
+              "content": "Sosyal medya gönderilerine bağlantı eklerseniz sayfanın öne çıkan görseli, önizleme görseli olarak gösterilir. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)"
             },
             "title_info": {
-              "content": "Mağaza başlığı ve açıklaması, önizleme görseline dahildir. [Daha fazla bilgi edinin](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "Mağaza başlığı ve açıklaması, önizleme görseline dahildir. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
             },
             "text": {
               "label": "Metin rengi"
@@ -1873,7 +1873,7 @@
           "name": "Ürün puanı",
           "settings": {
             "paragraph": {
-              "content": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-product-rating)"
+              "content": "Puan göstermek için bir ürün puanlandırma uygulaması ekleyin. [Daha fazla bilgi edinin](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-product-rating)"
             }
           }
         }

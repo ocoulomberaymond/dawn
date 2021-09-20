@@ -570,7 +570,7 @@
         },
         "show_rating": {
           "label": "Pokaż ocenę produktu",
-          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
+          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-collection-show-product-rating)"
         }
       },
       "presets": {
@@ -1103,7 +1103,7 @@
         },
         "show_rating": {
           "label": "Pokaż ocenę produktu",
-          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
+          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-grid-show-product-rating)"
         }
       }
     },
@@ -1419,7 +1419,7 @@
           "name": "Ocena produktu",
           "settings": {
             "paragraph": {
-              "content": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-rating-block)"
+              "content": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-rating-block)"
             }
           }
         }
@@ -1481,7 +1481,7 @@
         },
         "show_rating": {
           "label": "Pokaż ocenę produktu",
-          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
+          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#search-results-show-product-rating)"
         }
       }
     },
@@ -1678,7 +1678,7 @@
         },
         "show_rating": {
           "label": "Pokaż ocenę produktu",
-          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
+          "info": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-recommendations-show-product-rating)"
         }
       }
     },
@@ -1858,10 +1858,10 @@
           "name": "Udostępnij",
           "settings": {
             "featured_image_info": {
-              "content": "Jeśli dodasz link w postach mediów społecznościowych, wyróżniony obraz strony będzie wyświetlany jako obraz podglądu. [Dowiedz się więcej](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)"
+              "content": "Jeśli dodasz link w postach mediów społecznościowych, wyróżniony obraz strony będzie wyświetlany jako obraz podglądu. [Dowiedz się więcej](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)"
             },
             "title_info": {
-              "content": "Tytuł i opis strony są dodawane wraz z obrazem podglądu. [Dowiedz się więcej](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "Tytuł i opis strony są dodawane wraz z obrazem podglądu. [Dowiedz się więcej](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
             },
             "text": {
               "label": "Tekst"
@@ -1880,7 +1880,7 @@
           "name": "Ocena produktu",
           "settings": {
             "paragraph": {
-              "content": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-product-rating)"
+              "content": "Aby wyświetlić ocenę, dodaj aplikację do oceny produktów. [Dowiedz się więcej](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-product-rating)"
             }
           }
         }

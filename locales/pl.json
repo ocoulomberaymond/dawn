@@ -144,7 +144,7 @@
       },
       "view_full_details": "Pokaż kompletne dane",
       "include_taxes": "Z wliczonym podatkiem.",
-      "shipping_policy_html": "<a href=\"{{ link }}\">Koszt wysyłki</a> obliczony przy realizacji zakupu."
+      "shipping_policy_html": "<a href=\"{{ link }}\">Koszt wysyłki<\/a> obliczony przy realizacji zakupu."
     },
     "modal": {
       "label": "Galeria multimediów"

@@ -39,7 +39,7 @@
     window.BOLD.subscriptions.config.lineItemNameSelectors = window.BOLD.subscriptions.config.lineItemNameSelectors || [];
     window.BOLD.subscriptions.config.checkoutButtonSelectors = window.BOLD.subscriptions.config.checkoutButtonSelectors || [];
 
-    window.BOLD.subscriptions.config.featureFlags = window.BOLD.subscriptions.config.featureFlags || ["BS2-1698-get-paypal-methods-from-cashier","BS2-1699-select-payment-methods-msp","BS2-1882-gen-settings-tz","BS2-3318-prepaid-import-recurrence-fix","BS2-3021-recurrence-start-date-cart-param","BS2-3432-ignore-cc-email-for-free-prepaid","bs2-3977-fix-grand-total","BS2-1699-edit-payment-methods-admin","bs2-1804-cancellation-management-page","BS2-3651-orderstream-webhook-source-validation","BS2-3660-delete-line-items-command"];
+    window.BOLD.subscriptions.config.featureFlags = window.BOLD.subscriptions.config.featureFlags || ["BS2-1698-get-paypal-methods-from-cashier","BS2-1699-select-payment-methods-msp","BS2-1882-gen-settings-tz","BS2-3318-prepaid-import-recurrence-fix","BS2-3021-recurrence-start-date-cart-param","BS2-3432-ignore-cc-email-for-free-prepaid","BS2-4071-add-with-trash-billing-rules","BS2-3778-login-as-customer","BS2-4260-clean-up-removed-line-items","BS2-1699-edit-payment-methods-admin","bs2-1804-cancellation-management-page","BS2-3651-orderstream-webhook-source-validation","BS2-3660-delete-line-items-command"];
     window.BOLD.subscriptions.config.subscriptionProcessingFrequency = '60';
     window.BOLD.subscriptions.config.requireMSPInitialLoadingMessage = true;
     window.BOLD.subscriptions.data = window.BOLD.subscriptions.data || {};
@@ -589,7 +589,9 @@
         for (var i = 0; i < idInputs.length; i++) {
             var idInput = idInputs[i];
             var form = idInput.closest('form:not(.bold-subscriptions-no-widget)');
-            forms.push(form);
+            if (form) {
+                forms.push(form);
+            }
         }
 
         return forms;

@@ -558,7 +558,7 @@
         },
         "show_rating": {
           "label": "Geef productbeoordeling weer",
-          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-collection-show-product-rating)"
         }
       },
       "presets": {
@@ -948,7 +948,7 @@
               "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "title_info": {
-              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
             },
             "text": {
               "label": "Tekst"
@@ -1091,7 +1091,7 @@
         },
         "show_rating": {
           "label": "Geef productbeoordeling weer",
-          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-grid-show-product-rating)"
         }
       }
     },
@@ -1286,7 +1286,7 @@
               "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "title_info": {
-              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
             },
             "text": {
               "label": "Tekst"
@@ -1407,7 +1407,7 @@
           "name": "Productbeoordeling",
           "settings": {
             "paragraph": {
-              "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-rating-block)"
+              "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-rating-block)"
             }
           }
         }
@@ -1469,7 +1469,7 @@
         },
         "show_rating": {
           "label": "Geef productbeoordeling weer",
-          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#search-results-show-product-rating)"
         }
       }
     },
@@ -1665,7 +1665,7 @@
         },
         "show_rating": {
           "label": "Geef productbeoordeling weer",
-          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/page-types#product-recommendations-show-product-rating)"
         }
       }
     },
@@ -1845,10 +1845,10 @@
           "name": "Delen",
           "settings": {
             "featured_image_info": {
-              "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)"
+              "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)"
             },
             "title_info": {
-              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
             },
             "text": {
               "label": "Tekstkleur"
@@ -1867,7 +1867,7 @@
           "name": "Productbeoordeling",
           "settings": {
             "paragraph": {
-              "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-product-rating)"
+              "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn\/sections#featured-product-rating)"
             }
           }
         }
