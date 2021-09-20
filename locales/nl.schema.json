@@ -193,6 +193,25 @@
           }
         }
       }
+    },
+    "search_input": {
+      "name": "Input zoeken",
+      "settings": {
+        "header": {
+          "content": "Productsuggesties"
+        },
+        "predictive_search_enabled": {
+          "label": "Productsuggesties inschakelen"
+        },
+        "predictive_search_show_vendor": {
+          "label": "Verkoper weergeven",
+          "info": "Zichtbaar als productsuggesties zijn ingeschakeld."
+        },
+        "predictive_search_show_price": {
+          "label": "Prijs tonen",
+          "info": "Zichtbaar als productsuggesties zijn ingeschakeld."
+        }
+      }
     }
   },
   "sections": {
@@ -432,7 +451,8 @@
       "name": "Aangepaste Liquid",
       "settings": {
         "custom_liquid": {
-          "label": "Aangepaste Liquid"
+          "label": "Aangepaste Liquid",
+          "info": "Voeg app-fragmenten of andere Liquid-code toe om geavanceerde aanpassingen aan te maken."
         }
       },
       "presets": {
@@ -535,6 +555,10 @@
         },
         "show_image_outline": {
           "label": "Toon afbeeldingsrand"
+        },
+        "show_rating": {
+          "label": "Geef productbeoordeling weer",
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
         }
       },
       "presets": {
@@ -549,7 +573,7 @@
           "settings": {
             "heading": {
               "label": "Opschrift",
-              "info": "Er is een kop nodig om het menu weer te geven."
+              "info": "Hoofdtekst verplicht om menu weer te geven"
             },
             "menu": {
               "label": "Menu",
@@ -662,6 +686,24 @@
         "enable_sticky_header": {
           "label": "Sticky header inschakelen",
           "info": "De kop verschijnt op het scherm als de klanten omhoog scrollen."
+        },
+        "color_scheme": {
+          "options__1": {
+            "label": "Accent 1"
+          },
+          "options__2": {
+            "label": "Accent 2"
+          },
+          "options__3": {
+            "label": "Achtergrond 1"
+          },
+          "options__4": {
+            "label": "Achtergrond 2"
+          },
+          "options__5": {
+            "label": "Omkeren"
+          },
+          "label": "Kleurschema"
         }
       }
     },
@@ -702,13 +744,26 @@
           "options__5": {
             "label": "Omkeren"
           },
-          "label": "Kleurschema"
+          "label": "Kleurschema",
+          "info": "Zichtbaar als het tekstvak weergegeven is"
         },
         "stack_images_on_mobile": {
           "label": "Afbeeldingen stapelen op mobiel"
         },
         "adapt_height_first_image": {
           "label": "Sectiehoogte aanpassen aan grootte eerste afbeelding"
+        },
+        "show_text_box": {
+          "label": "Geef het tekstvak weer op het bureaublad"
+        },
+        "image_overlay_opacity": {
+          "label": "Doorzichtigheid van afbeeldingsoverlay"
+        },
+        "header": {
+          "content": "Mobiele opmaak"
+        },
+        "show_text_below": {
+          "label": "Geef tekst weer onder afbeeldingen"
         }
       },
       "blocks": {
@@ -717,6 +772,15 @@
           "settings": {
             "heading": {
               "label": "Opschrift"
+            },
+            "heading_size": {
+              "options__1": {
+                "label": "Gemiddeld"
+              },
+              "options__2": {
+                "label": "Groot"
+              },
+              "label": "Grootte lettertype kop"
             }
           }
         },
@@ -884,7 +948,10 @@
               "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "title_info": {
-              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+            },
+            "text": {
+              "label": "Tekst"
             }
           }
         }
@@ -1021,6 +1088,10 @@
         },
         "collapse_on_larger_devices": {
           "label": "Inklappen op grotere schermen"
+        },
+        "show_rating": {
+          "label": "Geef productbeoordeling weer",
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
         }
       }
     },
@@ -1215,7 +1286,10 @@
               "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "title_info": {
-              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+            },
+            "text": {
+              "label": "Tekst"
             }
           }
         },
@@ -1324,7 +1398,16 @@
           "name": "Aangepaste liquid",
           "settings": {
             "custom_liquid": {
-              "label": "Aangepaste liquid"
+              "label": "Aangepaste liquid",
+              "info": "Voeg app-fragmenten of andere Liquid-code toe om geavanceerde aanpassingen aan te maken."
+            }
+          }
+        },
+        "rating": {
+          "name": "Productbeoordeling",
+          "settings": {
+            "paragraph": {
+              "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-rating-block)"
             }
           }
         }
@@ -1339,6 +1422,9 @@
         },
         "enable_sticky_info": {
           "label": "Schakel plakbare productinformatie in op grote schermen"
+        },
+        "hide_variants": {
+          "label": "De media van andere varianten verbergen na het selecteren van een variant"
         }
       }
     },
@@ -1380,6 +1466,10 @@
         },
         "show_image_outline": {
           "label": "Toon afbeeldingsrand"
+        },
+        "show_rating": {
+          "label": "Geef productbeoordeling weer",
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
         }
       }
     },
@@ -1572,6 +1662,10 @@
         },
         "show_image_outline": {
           "label": "Toon afbeeldingsrand"
+        },
+        "show_rating": {
+          "label": "Geef productbeoordeling weer",
+          "info": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
         }
       }
     },
@@ -1751,10 +1845,13 @@
           "name": "Delen",
           "settings": {
             "featured_image_info": {
-              "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
+              "content": "De uitgelichte afbeelding van de pagina wordt weergegeven als een voorbeeldafbeelding als je een link in je posts op social media plaatst. [Meer informatie](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)"
             },
             "title_info": {
-              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)"
+              "content": "Een winkelnaam en beschrijving worden weergegeven in de voorbeeldafbeelding. [Meer informatie](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+            },
+            "text": {
+              "label": "Tekstkleur"
             }
           }
         },
@@ -1763,6 +1860,14 @@
           "settings": {
             "custom_liquid": {
               "label": "Aangepaste liquid"
+            }
+          }
+        },
+        "rating": {
+          "name": "Productbeoordeling",
+          "settings": {
+            "paragraph": {
+              "content": "Voeg een app toe voor productbeoordelingen om deze weer te geven. [Meer informatie](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-product-rating)"
             }
           }
         }
@@ -1780,6 +1885,9 @@
         },
         "enable_video_looping": {
           "label": "Video-looping inschakelen"
+        },
+        "hide_variants": {
+          "label": "Niet geselecteerde media van varianten op bureaublad verbergen"
         }
       },
       "presets": {

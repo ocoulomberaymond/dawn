@@ -33,6 +33,18 @@
         },
         "colors_background_2": {
           "label": "背景 2"
+        },
+        "gradient_accent_1": {
+          "label": "强调色 1 渐变"
+        },
+        "gradient_accent_2": {
+          "label": "强调色 2 渐变"
+        },
+        "gradient_background_1": {
+          "label": "背景 1 渐变"
+        },
+        "gradient_background_2": {
+          "label": "背景 2 渐变"
         }
       }
     },
@@ -191,6 +203,25 @@
           "options__2": {
             "label": "1200px"
           }
+        }
+      }
+    },
+    "search_input": {
+      "name": "搜索输入",
+      "settings": {
+        "header": {
+          "content": "产品建议"
+        },
+        "predictive_search_enabled": {
+          "label": "启用产品建议"
+        },
+        "predictive_search_show_vendor": {
+          "label": "显示厂商",
+          "info": "在启用产品建议时可见。"
+        },
+        "predictive_search_show_price": {
+          "label": "显示价格",
+          "info": "在启用产品建议时可见。"
         }
       }
     }
@@ -541,6 +572,10 @@
         },
         "show_image_outline": {
           "label": "显示图片边框"
+        },
+        "show_rating": {
+          "label": "显示产品评分",
+          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
         }
       },
       "presets": {
@@ -669,6 +704,24 @@
         "enable_sticky_header": {
           "label": "启用粘性标头",
           "info": "在客户向上滑动时，屏幕上会显示标头。"
+        },
+        "color_scheme": {
+          "options__1": {
+            "label": "强调色 1"
+          },
+          "options__2": {
+            "label": "强调色 2"
+          },
+          "options__3": {
+            "label": "背景 1"
+          },
+          "options__4": {
+            "label": "背景 2"
+          },
+          "options__5": {
+            "label": "反转"
+          },
+          "label": "配色方案"
         }
       }
     },
@@ -709,13 +762,26 @@
           "options__5": {
             "label": "反转"
           },
-          "label": "配色方案"
+          "label": "配色方案",
+          "info": "在显示文本框时可见"
         },
         "stack_images_on_mobile": {
           "label": "在移动设备上堆叠图片"
         },
         "adapt_height_first_image": {
           "label": "使分区高度适应第一张图片大小"
+        },
+        "show_text_box": {
+          "label": "在桌面上显示文本框"
+        },
+        "image_overlay_opacity": {
+          "label": "图片叠加不透明度"
+        },
+        "header": {
+          "content": "移动布局"
+        },
+        "show_text_below": {
+          "label": "在图片下方显示文本"
         }
       },
       "blocks": {
@@ -723,6 +789,15 @@
           "settings": {
             "heading": {
               "label": "标题"
+            },
+            "heading_size": {
+              "options__1": {
+                "label": "中"
+              },
+              "options__2": {
+                "label": "大"
+              },
+              "label": "标题字体大小"
             }
           },
           "name": "标题"
@@ -1036,6 +1111,10 @@
         },
         "collapse_on_larger_devices": {
           "label": "在较大屏幕上时进行折叠"
+        },
+        "show_rating": {
+          "label": "显示产品评分",
+          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
         }
       }
     },
@@ -1346,6 +1425,14 @@
               "info": "添加应用代码片段或其他 Liquid 代码以创建高级自定义。"
             }
           }
+        },
+        "rating": {
+          "name": "产品评分",
+          "settings": {
+            "paragraph": {
+              "content": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-rating-block)"
+            }
+          }
         }
       },
       "settings": {
@@ -1402,6 +1489,10 @@
         },
         "show_image_outline": {
           "label": "显示图片边框"
+        },
+        "show_rating": {
+          "label": "显示产品评分",
+          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
         }
       }
     },
@@ -1598,6 +1689,10 @@
         },
         "show_image_outline": {
           "label": "显示图片边框"
+        },
+        "show_rating": {
+          "label": "显示产品评分",
+          "info": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
         }
       }
     },
@@ -1778,10 +1873,13 @@
           "name": "分享",
           "settings": {
             "featured_image_info": {
-              "content": "如果您在社交媒体帖子中包含链接，该页面的配图将作为预览图片显示。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)。"
+              "content": "如果您在社交媒体帖子中包含链接，该页面的配图将作为预览图片显示。[了解详细信息](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)"
             },
             "title_info": {
-              "content": "预览图片中包含商店标题和描述。[了解详细信息](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)。"
+              "content": "预览图片中包含商店标题和描述。[了解详细信息](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+            },
+            "text": {
+              "label": "文本"
             }
           }
         },
@@ -1790,6 +1888,14 @@
           "settings": {
             "custom_liquid": {
               "label": "自定义 liquid"
+            }
+          }
+        },
+        "rating": {
+          "name": "产品评分",
+          "settings": {
+            "paragraph": {
+              "content": "若要显示评分，请添加产品评分应用。[了解详细信息](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-product-rating)"
             }
           }
         }
@@ -1807,6 +1913,9 @@
         },
         "enable_video_looping": {
           "label": "启用视频循环"
+        },
+        "hide_variants": {
+          "label": "在桌面上隐藏未选择的多属性的媒体文件"
         }
       },
       "presets": {

@@ -33,6 +33,18 @@
         },
         "colors_background_2": {
           "label": "Sfondo 2"
+        },
+        "gradient_accent_1": {
+          "label": "Gradiente Elemento in risalto 1"
+        },
+        "gradient_accent_2": {
+          "label": "Gradiente Elemento in risalto 2"
+        },
+        "gradient_background_1": {
+          "label": "Gradiente Sfondo 1"
+        },
+        "gradient_background_2": {
+          "label": "Gradiente Sfondo 2"
         }
       }
     },
@@ -191,6 +203,25 @@
           "options__2": {
             "label": "1600px"
           }
+        }
+      }
+    },
+    "search_input": {
+      "name": "Ricerca input",
+      "settings": {
+        "header": {
+          "content": "Suggerimenti sui prodotti"
+        },
+        "predictive_search_enabled": {
+          "label": "Abilita suggerimenti sui prodotti"
+        },
+        "predictive_search_show_vendor": {
+          "label": "Mostra fornitore",
+          "info": "Visibile quando i suggerimenti sui prodotti sono abilitati."
+        },
+        "predictive_search_show_price": {
+          "label": "Mostra prezzo",
+          "info": "Visibile quando i suggerimenti sui prodotti sono abilitati."
         }
       }
     }
@@ -536,6 +567,10 @@
         },
         "show_image_outline": {
           "label": "Mostra bordo immagine"
+        },
+        "show_rating": {
+          "label": "Mostra valutazione del prodotto",
+          "info": "Per mostrare una valutazione, aggiungi un'app di valutazione del prodotto. [Maggiori informazioni](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
         }
       },
       "presets": {
@@ -663,6 +698,24 @@
         "enable_sticky_header": {
           "label": "Abilita header fisso",
           "info": "L'header viene mostrato sullo schermo quando i clienti scorrono verso l'alto."
+        },
+        "color_scheme": {
+          "options__1": {
+            "label": "Elemento in risalto 1"
+          },
+          "options__2": {
+            "label": "Elemento in risalto 2"
+          },
+          "options__3": {
+            "label": "Sfondo 1"
+          },
+          "options__4": {
+            "label": "Sfondo 2"
+          },
+          "options__5": {
+            "label": "Inverso"
+          },
+          "label": "Schema di colori"
         }
       }
     },
@@ -703,13 +756,26 @@
           "options__5": {
             "label": "Inverso"
           },
-          "label": "Schema di colori"
+          "label": "Schema di colori",
+          "info": "Visibile quando è visualizzata la casella di testo"
         },
         "stack_images_on_mobile": {
           "label": "Elenca immagini su dispositivo mobile"
         },
         "adapt_height_first_image": {
           "label": "Adatta l'altezza della sezione alle dimensioni della prima immagine"
+        },
+        "show_text_box": {
+          "label": "Mostra casella di testo sul desktop"
+        },
+        "image_overlay_opacity": {
+          "label": "Opacità della sovrapposizione immagine"
+        },
+        "header": {
+          "content": "Layout dispositivo mobile"
+        },
+        "show_text_below": {
+          "label": "Mostra testo sotto le immagini"
         }
       },
       "blocks": {
@@ -718,6 +784,15 @@
           "settings": {
             "heading": {
               "label": "Titolo"
+            },
+            "heading_size": {
+              "options__1": {
+                "label": "Medio"
+              },
+              "options__2": {
+                "label": "Grande"
+              },
+              "label": "Dimensione font titolo"
             }
           }
         },
@@ -1025,6 +1100,10 @@
         },
         "collapse_on_larger_devices": {
           "label": "Comprimi sugli schermi più grandi"
+        },
+        "show_rating": {
+          "label": "Mostra valutazione del prodotto",
+          "info": "Per mostrare una valutazione, aggiungi un'app di valutazione del prodotto. [Maggiori informazioni](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
         }
       }
     },
@@ -1037,16 +1116,16 @@
         "sort": {
           "label": "Ordina le collezioni per:",
           "options__1": {
-            "label": "In ordine alfabetico, A - Z"
+            "label": "In ordine alfabetico, A-Z"
           },
           "options__2": {
-            "label": "In ordine alfabetico, Z - A"
+            "label": "In ordine alfabetico, Z-A"
           },
           "options__3": {
-            "label": "Data, dal più recente al più vecchio"
+            "label": "Data, da più a meno recente"
           },
           "options__4": {
-            "label": "Data, dal più vecchio al più recente"
+            "label": "Data, da meno a più recente"
           },
           "options__5": {
             "label": "Conteggio prodotti decrescente"
@@ -1335,6 +1414,14 @@
               "info": "Aggiungi snippet di app o altro codice Liquid per creare personalizzazioni avanzate."
             }
           }
+        },
+        "rating": {
+          "name": "Valutazione del prodotto",
+          "settings": {
+            "paragraph": {
+              "content": "Per mostrare una valutazione, aggiungi un'app di valutazione del prodotto. [Maggiori informazioni](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-rating-block)"
+            }
+          }
         }
       },
       "settings": {
@@ -1391,6 +1478,10 @@
         },
         "show_image_outline": {
           "label": "Mostra bordo immagine"
+        },
+        "show_rating": {
+          "label": "Mostra valutazione del prodotto",
+          "info": "Per mostrare una valutazione, aggiungi un'app di valutazione del prodotto. [Maggiori informazioni](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
         }
       }
     },
@@ -1584,6 +1675,10 @@
         },
         "show_image_outline": {
           "label": "Mostra bordo immagine"
+        },
+        "show_rating": {
+          "label": "Mostra valutazione del prodotto",
+          "info": "Per mostrare una valutazione, aggiungi un'app di valutazione del prodotto. [Maggiori informazioni](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
         }
       }
     },
@@ -1752,7 +1847,7 @@
           "settings": {
             "show_dynamic_checkout": {
               "label": "Mostra pulsanti di check-out dinamico",
-              "info": "Utilizzando i metodi di pagamento disponibili sul tuo negozio, i clienti vedranno la propria opzione preferita, ad esempio PayPal o Apple Pay. [Maggiori informazioni](https:\/\/help.shopify.com\/it\/manual\/online-store\/themes\/dynamic-checkout)"
+              "info": "Utilizzando i metodi di pagamento disponibili sul tuo negozio, i clienti vedranno la propria opzione preferita, ad esempio PayPal o Apple Pay. [Maggiori informazioni](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
             }
           }
         },
@@ -1763,10 +1858,13 @@
           "name": "Condividi",
           "settings": {
             "featured_image_info": {
-              "content": "Se includi un link in post sui social media, l'immagine in evidenza della pagina verrà mostrata come immagine di anteprima. [Maggiori informazioni](https:\/\/help.shopify.com\/it\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
+              "content": "Se includi un link nei post sui social media, l'immagine in evidenza della pagina verrà mostrata come immagine di anteprima. [Maggiori informazioni](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)"
             },
             "title_info": {
-              "content": "Insieme all'immagine di anteprima sono inclusi un titolo e una descrizione del negozio. [Maggiori informazioni](https:\/\/help.shopify.com\/it\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "Insieme all'immagine di anteprima sono inclusi un titolo e una descrizione del negozio. [Maggiori informazioni](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+            },
+            "text": {
+              "label": "Testo"
             }
           }
         },
@@ -1775,6 +1873,14 @@
           "settings": {
             "custom_liquid": {
               "label": "Liquid personalizzato"
+            }
+          }
+        },
+        "rating": {
+          "name": "Valutazione del prodotto",
+          "settings": {
+            "paragraph": {
+              "content": "Per mostrare una valutazione, aggiungi un'app di valutazione del prodotto. [Maggiori informazioni](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-product-rating)"
             }
           }
         }
@@ -1788,10 +1894,13 @@
         },
         "header": {
           "content": "Contenuti multimediali",
-          "info": "Scopri di più sui [tipi di media](https:\/\/help.shopify.com\/it\/manual\/products\/product-media)"
+          "info": "Maggiori informazioni sui [tipi di media](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_video_looping": {
           "label": "Abilita la riproduzione in loop dei video"
+        },
+        "hide_variants": {
+          "label": "Nascondi contenuti multimediali delle varianti non selezionate sul desktop"
         }
       },
       "presets": {

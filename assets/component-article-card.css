@@ -66,7 +66,7 @@
 }
 
 .article-content img {
-  transition: transform var(--duration-default) ease;
+  transition: transform var(--duration-long) ease;
 }
 
 .article-content:hover img {
@@ -100,7 +100,7 @@
 }
 
 .article-card__header h2 {
-  margin: 0 0 0.2rem;
+  margin: 0 0 0.6rem;
 }
 
 .article-card__header h2:only-child {

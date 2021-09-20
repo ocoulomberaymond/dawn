@@ -1,11 +1,11 @@
 [
   {
     "name": "theme_info",
-    "theme_author": "Shopify",
-    "theme_documentation_url": "https:\/\/shopify.dev\/themes\/tools\/dawn",
     "theme_name": "Dawn",
-    "theme_support_url": "https:\/\/support.shopify.com\/",
-    "theme_version": "1.1.0"
+    "theme_version": "2.1.0",
+    "theme_author": "Shopify",
+    "theme_documentation_url": "https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn",
+    "theme_support_url": "https://support.shopify.com/"
   },
   {
     "name": "t:settings_schema.colors.name",
@@ -247,6 +247,35 @@
         "info": "t:settings_schema.social-media.settings.social_vimeo_link.info",
         "label": "t:settings_schema.social-media.settings.social_vimeo_link.label",
         "type": "text"
+      }
+    ]
+  },
+  {
+    "name": "t:settings_schema.search_input.name",
+    "settings": [
+      {
+        "type": "header",
+        "content": "t:settings_schema.search_input.settings.header.content"
+      },
+      {
+        "type": "checkbox",
+        "id": "predictive_search_enabled",
+        "default": true,
+        "label": "t:settings_schema.search_input.settings.predictive_search_enabled.label"
+      },
+      {
+        "type": "checkbox",
+        "id": "predictive_search_show_vendor",
+        "default": false,
+        "label": "t:settings_schema.search_input.settings.predictive_search_show_vendor.label",
+        "info": "t:settings_schema.search_input.settings.predictive_search_show_vendor.info"
+      },
+      {
+        "type": "checkbox",
+        "id": "predictive_search_show_price",
+        "default": true,
+        "label": "t:settings_schema.search_input.settings.predictive_search_show_price.label",
+        "info": "t:settings_schema.search_input.settings.predictive_search_show_price.info"
       }
     ]
   },

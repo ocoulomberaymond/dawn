@@ -33,6 +33,18 @@
         },
         "colors_background_2": {
           "label": "Bakgrund 2"
+        },
+        "gradient_accent_1": {
+          "label": "Tonad accent 1"
+        },
+        "gradient_accent_2": {
+          "label": "Tonad accent 2"
+        },
+        "gradient_background_1": {
+          "label": "Tonad bakgrund 1"
+        },
+        "gradient_background_2": {
+          "label": "Tonad bakgrund 2"
         }
       }
     },
@@ -191,6 +203,25 @@
           "options__2": {
             "label": "1 600 px"
           }
+        }
+      }
+    },
+    "search_input": {
+      "name": "Sök indata",
+      "settings": {
+        "header": {
+          "content": "Produktförslag"
+        },
+        "predictive_search_enabled": {
+          "label": "Aktivera produktförslag"
+        },
+        "predictive_search_show_vendor": {
+          "label": "Visa säljare",
+          "info": "Synlig när produktförslag är aktiverat."
+        },
+        "predictive_search_show_price": {
+          "label": "Visa pris",
+          "info": "Synlig när produktförslag är aktiverat."
         }
       }
     }
@@ -435,7 +466,8 @@
       "name": "Anpassa Liquid",
       "settings": {
         "custom_liquid": {
-          "label": "Anpassa Liquid"
+          "label": "Anpassa Liquid",
+          "info": "Lägg till appfragment eller annan Liquid-kod för att skapa avancerade anpassningar."
         }
       },
       "presets": {
@@ -540,6 +572,10 @@
         },
         "show_image_outline": {
           "label": "Visa bildgräns"
+        },
+        "show_rating": {
+          "label": "Visa produktbetyg",
+          "info": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-collection-show-product-rating)"
         }
       },
       "presets": {
@@ -554,7 +590,7 @@
           "settings": {
             "heading": {
               "label": "Rubrik",
-              "info": "Det krävs en rubrik för att visa menyn."
+              "info": "Det krävs rubrik för att visa menyn."
             },
             "menu": {
               "label": "Meny",
@@ -648,7 +684,7 @@
           "label": "Anpassad logotypsbredd"
         },
         "logo_position": {
-          "label": "Logotypposition på stor skärm",
+          "label": "Logotyp-position på stora skärmar",
           "options__1": {
             "label": "Mitten till vänster"
           },
@@ -668,6 +704,24 @@
         "enable_sticky_header": {
           "label": "Aktivera fast rubrik",
           "info": "Rubrik visas på skärmen när kunder skrollar upp."
+        },
+        "color_scheme": {
+          "options__1": {
+            "label": "Accent 1"
+          },
+          "options__2": {
+            "label": "Accent 2"
+          },
+          "options__3": {
+            "label": "Bakgrund 1"
+          },
+          "options__4": {
+            "label": "Bakgrund 2"
+          },
+          "options__5": {
+            "label": "Omvänd"
+          },
+          "label": "Färgschema"
         }
       }
     },
@@ -708,13 +762,26 @@
           "options__5": {
             "label": "Omvänd"
           },
-          "label": "Färgschema"
+          "label": "Färgschema",
+          "info": "Synlig när textruta visas"
         },
         "stack_images_on_mobile": {
           "label": "Stapla bilder på mobil"
         },
         "adapt_height_first_image": {
           "label": "Anpassa avsnittets höjd till storleken på första bilden."
+        },
+        "show_text_box": {
+          "label": "Visa textruta på dator"
+        },
+        "image_overlay_opacity": {
+          "label": "Bildens opacitet för överlagring"
+        },
+        "header": {
+          "content": "Mobil layout"
+        },
+        "show_text_below": {
+          "label": "Visa text under bilder"
         }
       },
       "blocks": {
@@ -722,6 +789,15 @@
           "settings": {
             "heading": {
               "label": "Rubrik"
+            },
+            "heading_size": {
+              "options__1": {
+                "label": "Medel"
+              },
+              "options__2": {
+                "label": "Stor"
+              },
+              "label": "Rubrikens typsnittsstorlek"
             }
           },
           "name": "Rubrik"
@@ -892,7 +968,10 @@
               "content": "Om du inkluderar en länk i inlägg på sociala medier kommer sidans utvalda bild att visas som förhandsgranskningsbild. [Läs mer](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "title_info": {
-              "content": "Ett butiksnamn och en beskrivning inkluderas med förhandsgranskningsbilden. [Läs mer](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "Ett butiksnamn och en beskrivning inkluderas med förhandsgranskningsbilden. [Läs mer](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+            },
+            "text": {
+              "label": "Text"
             }
           }
         }
@@ -1032,6 +1111,10 @@
         },
         "collapse_on_larger_devices": {
           "label": "Dölj på större skärmar"
+        },
+        "show_rating": {
+          "label": "Visa produktbetyg",
+          "info": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-grid-show-product-rating)"
         }
       }
     },
@@ -1210,7 +1293,10 @@
               "content": "Om du inkluderar en länk i inlägg på sociala medier kommer sidans utvalda bild att visas som förhandsgranskningsbild. [Läs mer](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
             },
             "title_info": {
-              "content": "Ett butiksnamn och en beskrivning inkluderas med förhandsgranskningsbilden. [Läs mer](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "Ett butiksnamn och en beskrivning inkluderas med förhandsgranskningsbilden. [Läs mer](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)."
+            },
+            "text": {
+              "label": "Text"
             }
           },
           "name": "Dela"
@@ -1335,7 +1421,16 @@
           "name": "Anpassa Liquid",
           "settings": {
             "custom_liquid": {
-              "label": "Anpassa Liquid"
+              "label": "Anpassa Liquid",
+              "info": "Lägg till appfragment eller annan Liquid-kod för att skapa avancerade anpassningar."
+            }
+          }
+        },
+        "rating": {
+          "name": "Produktbetyg",
+          "settings": {
+            "paragraph": {
+              "content": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-rating-block)"
             }
           }
         }
@@ -1350,6 +1445,9 @@
         },
         "enable_sticky_info": {
           "label": "Aktivera fast produktinformation på stora skärmar"
+        },
+        "hide_variants": {
+          "label": "Dölj andra varianters media efter att du valt en variant"
         }
       }
     },
@@ -1391,6 +1489,10 @@
         },
         "show_image_outline": {
           "label": "Visa bildgräns"
+        },
+        "show_rating": {
+          "label": "Visa produktbetyg",
+          "info": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#search-results-show-product-rating)"
         }
       }
     },
@@ -1587,6 +1689,10 @@
         },
         "show_image_outline": {
           "label": "Visa bildgräns"
+        },
+        "show_rating": {
+          "label": "Visa produktbetyg",
+          "info": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/page-types#product-recommendations-show-product-rating)"
         }
       }
     },
@@ -1767,10 +1873,13 @@
           "name": "Dela",
           "settings": {
             "featured_image_info": {
-              "content": "Om du inkluderar en länk i inlägg på sociala medier kommer sidans utvalda bild att visas som förhandsgranskningsbild. [Mer information](https:\/\/help.shopify.com\/en\/manual\/online-store\/images\/showing-social-media-thumbnail-images)."
+              "content": "Om du inkluderar en länk i inlägg på sociala medier kommer sidans utvalda bild att visas som förhandsgranskningsbild. [Mer information](https://help.shopify.com/en/manual/online-store/images/showing-social-media-thumbnail-images)"
             },
             "title_info": {
-              "content": "Ett butiksnamn och en beskrivning inkluderas med förhandsgranskningsbilden. [Mer information](https:\/\/help.shopify.com\/en\/manual\/promoting-marketing\/seo\/adding-keywords#set-a-title-and-description-for-your-online-store)."
+              "content": "Ett butiksnamn och en beskrivning inkluderas med förhandsgranskningsbilden. [Mer information](https://help.shopify.com/en/manual/promoting-marketing/seo/adding-keywords#set-a-title-and-description-for-your-online-store)"
+            },
+            "text": {
+              "label": "Text"
             }
           }
         },
@@ -1779,6 +1888,14 @@
           "settings": {
             "custom_liquid": {
               "label": "Anpassa Liquid"
+            }
+          }
+        },
+        "rating": {
+          "name": "Produktbetyg",
+          "settings": {
+            "paragraph": {
+              "content": "Lägg till en produktbedömningsapp för att visa ett betyg. [Mer information](https://help.shopify.com/manual/online-store/themes/os20/themes-by-shopify/dawn/sections#featured-product-rating)"
             }
           }
         }
@@ -1792,10 +1909,13 @@
         },
         "header": {
           "content": "Media",
-          "info": "Mer information om [mediatyper](https:\/\/help.shopify.com\/manual\/products\/product-media)"
+          "info": "Läs mer om [mediatyper](https://help.shopify.com/manual/products/product-media)"
         },
         "enable_video_looping": {
           "label": "Aktivera videoslingor"
+        },
+        "hide_variants": {
+          "label": "Dölj media för varianter som inte har valts på datorn"
         }
       },
       "presets": {

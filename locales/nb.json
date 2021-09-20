@@ -47,11 +47,9 @@
       "copy_to_clipboard": "Kopier kobling",
       "share": "Del",
       "share_url": "Kobling",
-      "success_message": "Koblingen er kopiert til utklippstavlen!"
+      "success_message": "Koblingen er kopiert til utklippstavlen",
+      "close": "Lukk deling"
     }
-  },
-  "date_formats": {
-    "month_year": "%B %Y"
   },
   "newsletter": {
     "label": "E-post",
@@ -73,7 +71,9 @@
     "previous_slide": "Bla til venstre",
     "loading": "Laster inn …",
     "of": "av",
-    "skip_to_product_info": "Hopp til produktinformasjon"
+    "skip_to_product_info": "Hopp til produktinformasjon",
+    "total_reviews": "totale omtaler",
+    "star_reviews_info": "{{ rating_value }} av {{ rating_max }} stjerner"
   },
   "blogs": {
     "article": {
@@ -140,10 +140,39 @@
         "play_model": "Spill 3D-visning",
         "play_video": "Spill av video"
       },
-      "view_full_details": "Vis alle detaljer"
+      "view_full_details": "Vis alle detaljer",
+      "include_taxes": "Avgift inkludert.",
+      "shipping_policy_html": "<a href=\"{{ link }}\">Frakt</a> beregnes ved kassen."
     },
     "modal": {
       "label": "Mediegalleri"
+    },
+    "facets": {
+      "apply": "Bruk",
+      "clear": "Fjern",
+      "clear_all": "Fjern alle",
+      "from": "Fra",
+      "filter_and_sort": "Filtrer og sorter",
+      "filter_by_label": "Filter:",
+      "filter_button": "Filter",
+      "filters_selected": {
+        "one": "{{ count }} valgt",
+        "other": "{{ count }} valgte"
+      },
+      "max_price": "Den høyeste prisen er {{ price }}",
+      "product_count": {
+        "one": "{{ product_count }} av {{ count }} produkt",
+        "other": "{{ product_count }} av {{ count }} produkter"
+      },
+      "product_count_simple": {
+        "one": "{{ count }} produkt",
+        "other": "{{ count }} produkter"
+      },
+      "reset": "Tilbakestill",
+      "sort_button": "Sorter",
+      "sort_by_label": "Sorter etter:",
+      "to": "Til",
+      "clear_filter": "Fjern filter"
     }
   },
   "templates": {
@@ -151,10 +180,16 @@
       "no_results": "Fant ingen resultater for «{{ terms }}». Kontroller stavemåten, eller bruk et annet ord.",
       "page": "Side",
       "results_with_count": {
+        "one": "{{ count }} resultat",
+        "other": "{{ count }} resultater"
+      },
+      "title": "Søkeresultater",
+      "products": "Produkter",
+      "search_for": "Søk etter «{{ terms }}»",
+      "results_with_count_and_term": {
         "one": "Fant {{ count }} resultat for {{ terms }}",
         "other": "Fant {{ count }} resultater for {{ terms }}"
-      },
-      "title": "Søkeresultater"
+      }
     },
     "cart": {
       "cart": "Handlekurv"
@@ -229,12 +264,6 @@
     },
     "collection_template": {
       "title": "Samling",
-      "sort_by_label": "Sorter etter:",
-      "sort_button": "Sorter",
-      "product_count": {
-        "one": "{{ product_count }} av {{ count }} produkt",
-        "other": "{{ product_count }} av {{ count }} produkter"
-      },
       "empty": "Ingen produkter funnet",
       "apply": "Bruk",
       "clear": "Fjern",
