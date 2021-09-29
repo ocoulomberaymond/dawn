@@ -291,7 +291,9 @@
                 {%- form 'product', product, data-productid: product.id, id: product_form_id, class: 'form', novalidate: 'novalidate', data-type: 'add-to-cart-form' -%}
                   <input type="hidden" name="id" data-productid="{{ product.id }}" value="{{ product.selected_or_first_available_variant.id }}">
                   <div class="product-form__buttons">
-                    
+                    <!-- SEAL -->
+                    <div class="sealsubs-target-element" data-product="{{ product | json | escape }}" data-handle="{{ product.handle }}"></div>
+                    <!---------->
                     
                     <button
                       type="submit"
