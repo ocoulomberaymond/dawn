@@ -134,45 +134,82 @@
         "layout": "text_first"
       }
     },
-    "1633193873b63ea30e": {
-      "type": "multicolumn",
+    "1633194461bc7d424b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Subscription boxes",
+        "collection": "after-shave",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "163319449709613cc0": {
+      "type": "image-with-text",
       "blocks": {
-        "1633193873b63ea30e-0": {
-          "type": "column",
+        "163319449709613cc0-0": {
+          "type": "heading",
           "settings": {
-            "title": "Testimonial #1",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "heading": "\"Wow very cool\""
           }
         },
-        "1633193873b63ea30e-1": {
-          "type": "column",
+        "163319449709613cc0-1": {
+          "type": "text",
           "settings": {
-            "title": "Testimonial #2",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1633193873b63ea30e-2": {
-          "type": "column",
-          "settings": {
-            "title": "Testimonial #3",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p><br\/>“What’s really cool about this mascara is it doesn’t get clumpy like so many others do. Also, I noticed this the other day when I was wearing it for the first time, it’s really moisturizing... It gives it that nice little open look without it making you look like you’re in your 20s or 30s with the big, huge buildable mascaras that tend to just get so clumpy and just unrealistic looking. So moisturized, with a nice scent and all eco-conscious packaging material. No parabens. No gluten. How can you not love this?”<br\/><br\/>- James Bond<\/p>"
           }
         }
       },
       "block_order": [
-        "1633193873b63ea30e-0",
-        "1633193873b63ea30e-1",
-        "1633193873b63ea30e-2"
+        "163319449709613cc0-0",
+        "163319449709613cc0-1"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
+        "image": "shopify:\/\/shop_images\/man-with-red-beard-and-sunglasses.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1633194590de630a94": {
+      "type": "image-with-text",
+      "blocks": {
+        "1633194590de630a94-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "\"Can't wait for my box\""
+          }
+        },
+        "1633194590de630a94-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“This is a nice, soft black color. It looks really good, especially for us silver sisters—us gals who are going with our natural silver hair... Really, it’s a very lovely moisturizing makeup. Because it’s water-based, it’s easy to take off. You’re not putting on a lot of the heavy chemicals that you’re going to be dealing with with other makeup. As I said, you can always layer on a little bit more if you want a little more of a glamour-gal look. This is Boom Bright—the new mascara by BOOM! By Cindy Joseph.”<br\/><strong>- Stephen Hawkin<\/strong><\/p>"
+          }
+        },
+        "1633194590de630a94-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1633194590de630a94-0",
+        "1633194590de630a94-1",
+        "1633194590de630a94-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/smiling-man-in-blue.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
       }
     },
     "product-recommendations": {
@@ -192,7 +229,9 @@
     "main",
     "1633193302a6734c6a",
     "1633193900612b628c",
-    "1633193873b63ea30e",
+    "1633194461bc7d424b",
+    "163319449709613cc0",
+    "1633194590de630a94",
     "product-recommendations"
   ]
 }
