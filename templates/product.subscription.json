@@ -121,8 +121,9 @@
         "1633193900612b628c-1"
       ],
       "settings": {
-        "height": "adapt",
-        "color_scheme": "background-1",
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2020-06-07T161742.982.png",
+        "height": "small",
+        "color_scheme": "accent-2",
         "layout": "text_first"
       }
     },
