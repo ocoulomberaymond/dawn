@@ -147,22 +147,6 @@
         "layout": "text_first"
       }
     },
-    "1633194461bc7d424b": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Subscription boxes",
-        "collection": "after-shave",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
-    },
     "163319449709613cc0": {
       "type": "image-with-text",
       "blocks": {
@@ -217,6 +201,22 @@
         "layout": "text_first"
       }
     },
+    "1633194461bc7d424b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Subscription boxes",
+        "collection": "after-shave",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -234,9 +234,9 @@
     "main",
     "1633193302a6734c6a",
     "1633193900612b628c",
-    "1633194461bc7d424b",
     "163319449709613cc0",
     "1633194590de630a94",
+    "1633194461bc7d424b",
     "product-recommendations"
   ]
 }
