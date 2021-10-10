@@ -77,6 +77,14 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "16339015298c048ff6": {
+        "type": "shopify:\/\/apps\/seal-subscriptions\/blocks\/subscription-script-append\/13b25004-a140-4ab7-b5fe-29918f759699",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   }
 }
