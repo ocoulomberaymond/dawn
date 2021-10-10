@@ -123,7 +123,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Untitled_design_-_2020-06-07T161742.982.png",
         "height": "small",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "layout": "text_first"
       }
     },
@@ -166,7 +166,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/man-with-red-beard-and-sunglasses.jpg",
         "height": "small",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     },
@@ -193,7 +193,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/smiling-man-in-blue.jpg",
         "height": "small",
-        "color_scheme": "background-2",
+        "color_scheme": "accent-1",
         "layout": "text_first"
       }
     },
