@@ -115,7 +115,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/youngshaver_1.png",
-        "height": "small",
+        "height": "adapt",
         "color_scheme": "accent-1",
         "layout": "image_first"
       }
@@ -142,7 +142,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Untitled_design_-_2020-06-07T161742.982.png",
-        "height": "small",
+        "height": "adapt",
         "color_scheme": "accent-1",
         "layout": "text_first"
       }
