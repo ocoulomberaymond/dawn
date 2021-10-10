@@ -53,7 +53,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Starter pack (First order)",
-            "content": "<p>🪒 Safety Razor + 40 blades<\/p><p>🧹 Shaving Brush<\/p><p>👦 Aftershave Balm<\/p><p>🧴 Shaving Cream<\/p><p>OR<\/p><p>🧼 Shaving Soap<\/p>",
+            "content": "<p>🪒 Safety Razor + 40 blades<\/p><p>🧹 Shaving Brush<\/p><p>👦 Aftershave Balm<\/p><p>🧴 Shaving Cream<br\/>OR<br\/>🧼 Shaving Soap<\/p>",
             "page": "",
             "icon": "box"
           }
