@@ -2,8 +2,9 @@
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
     <!-- ManyChat -->
-<script src="//widget.manychat.com/597930773959197.js" defer="defer"></script>
-<script src="https://mccdn.me/assets/js/widget.js" defer="defer"></script>
+	<script src="//widget.manychat.com/597930773959197.js" defer="defer"></script>
+	<script src="https://mccdn.me/assets/js/widget.js" defer="defer"></script>
+    
     {%- comment -%}smartseo_integration_begin{%- endcomment -%}{% include 'smartseo' %}{%- comment -%}smartseo_integration_end{%- endcomment -%}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -175,7 +176,10 @@
     </script>
     {% render 'translation-lab-language-switcher-floating' %}
 </body>
-
+<style>.fb_iframe_widget iframe {
+    position: static !important;
+    }
+    </style>
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
