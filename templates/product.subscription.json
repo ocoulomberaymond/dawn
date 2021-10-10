@@ -49,12 +49,6 @@
           "settings": {
           }
         },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        },
         "b2823f3f-74bc-4f14-9513-44284e8682e4": {
           "type": "collapsible_tab",
           "settings": {
@@ -62,6 +56,12 @@
             "content": "<p>🪒 Safety Razor + 40 blades<\/p><p>🧹 Shaving Brush<\/p><p>👦 Aftershave Balm<\/p><p>🧴 Shaving Cream<\/p><p>OR<\/p><p>🧼 Shaving Soap<\/p>",
             "page": "",
             "icon": "box"
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
           }
         }
       },
@@ -74,8 +74,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share",
-        "b2823f3f-74bc-4f14-9513-44284e8682e4"
+        "b2823f3f-74bc-4f14-9513-44284e8682e4",
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
