@@ -95,8 +95,8 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/youngshaver_1.png",
-        "height": "adapt",
-        "color_scheme": "background-1",
+        "height": "small",
+        "color_scheme": "accent-1",
         "layout": "image_first"
       }
     },
