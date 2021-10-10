@@ -165,7 +165,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/man-with-red-beard-and-sunglasses.jpg",
-        "height": "adapt",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
@@ -192,7 +192,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/smiling-man-in-blue.jpg",
-        "height": "adapt",
+        "height": "small",
         "color_scheme": "background-1",
         "layout": "text_first"
       }
