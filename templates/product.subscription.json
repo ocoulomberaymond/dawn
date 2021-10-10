@@ -54,6 +54,15 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "b2823f3f-74bc-4f14-9513-44284e8682e4": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Starter pack (First order)",
+            "content": "<p>🪒 Safety Razor + 40 blades<\/p><p>🧹 Shaving Brush<\/p><p>👦 Aftershave Balm<\/p><p>🧴 Shaving Cream<\/p><p>OR<\/p><p>🧼 Shaving Soap<\/p>",
+            "page": "",
+            "icon": "box"
+          }
         }
       },
       "block_order": [
@@ -65,7 +74,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "b2823f3f-74bc-4f14-9513-44284e8682e4"
       ],
       "settings": {
         "enable_sticky_info": true,
