@@ -62,9 +62,9 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Discovery box (monthly orders)",
-            "content": "<p>🪒 Safety Razor + 40 blades<br\/>👦 Aftershave Balm<br\/>🧴 Shaving Cream<br\/>OR<br\/>🧼 Shaving Soap<\/p>",
+            "content": "<p>🪒 20 Safety Razor Blades<\/p><p>👦 Aftershave Balm<\/p><p>🧴 Shaving Cream<br\/>OR<br\/>🧼 Shaving Soap<\/p>",
             "page": "",
-            "icon": "check_mark"
+            "icon": "box"
           }
         },
         "share": {
