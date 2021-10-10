@@ -2300,3 +2300,8 @@ details-disclosure > details {
     stroke: CanvasText;
   }
 }
+
+  <!-- CUSTOM CSS -->
+.fb_iframe_widget iframe {
+    position: static !important;
+}
