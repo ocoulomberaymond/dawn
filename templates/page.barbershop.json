@@ -250,7 +250,7 @@
         "1628804250dd5b25a2-1": {
           "type": "paragraph",
           "settings": {
-            "paragraph": "<p>Get exclusive discount codes, be notified when new videos are uploaded and more! Sign Up Now!<\/p>"
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
           }
         },
         "1628804250dd5b25a2-2": {
@@ -268,6 +268,41 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "16346721612f2293e8": {
+      "type": "image-with-text",
+      "blocks": {
+        "16346721612f2293e8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "JAY-B"
+          }
+        },
+        "16346721612f2293e8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br\/><strong>Co-Owner for Dillinger's Boutique & Barber, Jay-B's barbering skills have been literally downloaded from the matrix. From straight blade shave that will leave your face smooth has a babies ass to old school pompadour's & sideparts, his attention to details and extensive product knowledge will help you get the look you need to set you apart from the crowd!<\/strong><br\/><\/p>"
+          }
+        },
+        "16346721612f2293e8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16346721612f2293e8-0",
+        "16346721612f2293e8-1",
+        "16346721612f2293e8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Photo_34.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -279,6 +314,7 @@
     "1628803000fd1f1b3b",
     "1628803003e52b1a8c",
     "1628803052f8535be1",
-    "1628804250dd5b25a2"
+    "1628804250dd5b25a2",
+    "16346721612f2293e8"
   ]
 }
