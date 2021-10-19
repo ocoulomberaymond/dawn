@@ -238,34 +238,40 @@
         "layout": "image_first"
       }
     },
-    "1628804250dd5b25a2": {
-      "type": "newsletter",
+    "16346740645f881ea6": {
+      "type": "rich-text",
       "blocks": {
-        "1628804250dd5b25a2-0": {
+        "16346740645f881ea6-0": {
           "type": "heading",
           "settings": {
-            "heading": "Join the HAIR MILES CLUB"
+            "heading": "OUR TEAM",
+            "heading_size": "h1"
           }
         },
-        "1628804250dd5b25a2-1": {
-          "type": "paragraph",
+        "16346740645f881ea6-1": {
+          "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
-        "1628804250dd5b25a2-2": {
-          "type": "email_form",
+        "16346740645f881ea6-2": {
+          "type": "button",
+          "disabled": true,
           "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "1628804250dd5b25a2-0",
-        "1628804250dd5b25a2-1",
-        "1628804250dd5b25a2-2"
+        "16346740645f881ea6-0",
+        "16346740645f881ea6-1",
+        "16346740645f881ea6-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "full_width": true
       }
     },
@@ -338,6 +344,37 @@
         "color_scheme": "inverse",
         "layout": "text_first"
       }
+    },
+    "1628804250dd5b25a2": {
+      "type": "newsletter",
+      "blocks": {
+        "1628804250dd5b25a2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join the HAIR MILES CLUB"
+          }
+        },
+        "1628804250dd5b25a2-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "1628804250dd5b25a2-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1628804250dd5b25a2-0",
+        "1628804250dd5b25a2-1",
+        "1628804250dd5b25a2-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -349,8 +386,9 @@
     "1628803000fd1f1b3b",
     "1628803003e52b1a8c",
     "1628803052f8535be1",
-    "1628804250dd5b25a2",
+    "16346740645f881ea6",
     "16346721612f2293e8",
-    "163467226132f6acef"
+    "163467226132f6acef",
+    "1628804250dd5b25a2"
   ]
 }
