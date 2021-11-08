@@ -59,11 +59,19 @@
               "heading": "Policies",
               "menu": "footer-menu-policy"
             }
+          },
+          "8a9889a7-8f31-4781-a8fd-8ed830f23931": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Menfluencer Program",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
           "footer-0",
-          "9d49440f-0c8c-42e5-bf8a-0df2d432a046"
+          "9d49440f-0c8c-42e5-bf8a-0df2d432a046",
+          "8a9889a7-8f31-4781-a8fd-8ed830f23931"
         ],
         "settings": {
           "color_scheme": "accent-1",
