@@ -6,7 +6,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "YOUR MENS GROOMING SHOP & BARBER"
+            "heading": "YOUR MENS GROOMING SHOP & BARBER",
+            "heading_size": "medium"
           }
         },
         "f2196971-6ba4-4471-8014-0b4d02dc9e8a": {
@@ -34,17 +35,20 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/DILLINGER-BANNERV5.jpg",
+        "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
-        "adapt_height_first_image": false
+        "show_text_below": true
       }
     },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
-        "collection": "best-sellers",
+        "title": "BLACK FRIDAY DEALS",
+        "collection": "black-friday-deals-2021",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": false,
@@ -52,7 +56,8 @@
         "show_secondary_image": false,
         "add_image_padding": false,
         "show_image_outline": true,
-        "show_vendor": false
+        "show_vendor": false,
+        "show_rating": false
       }
     },
     "image_text": {
@@ -137,7 +142,8 @@
         "show_secondary_image": false,
         "add_image_padding": true,
         "show_image_outline": true,
-        "show_vendor": false
+        "show_vendor": false,
+        "show_rating": false
       }
     },
     "162827662050c15e57": {
@@ -187,7 +193,8 @@
         "show_secondary_image": false,
         "add_image_padding": true,
         "show_image_outline": true,
-        "show_vendor": false
+        "show_vendor": false,
+        "show_rating": false
       }
     },
     "16282767578a916cae": {
@@ -237,7 +244,8 @@
         "show_secondary_image": false,
         "add_image_padding": true,
         "show_image_outline": true,
-        "show_vendor": false
+        "show_vendor": false,
+        "show_rating": false
       }
     },
     "1628276968f87e8743": {
@@ -256,7 +264,6 @@
   },
   "order": [
     "image_banner",
-    "rich_text",
     "featured_products",
     "image_text",
     "1628276279d0771e33",
