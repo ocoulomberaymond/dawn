@@ -1,10 +1,85 @@
 {
   "sections": {
+    "1642179236c6b84d50": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "1642179236578f7fcc-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "1642179236578f7fcc-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "1642179236578f7fcc-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "1642179236578f7fcc-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "1642179236578f7fcc-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "1642179236578f7fcc-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "1642179236578f7fcc-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "1642179236578f7fcc-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "1642179236578f7fcc-0",
+        "1642179236578f7fcc-1",
+        "1642179236578f7fcc-2",
+        "1642179236578f7fcc-3",
+        "1642179236578f7fcc-4",
+        "1642179236578f7fcc-5",
+        "1642179236578f7fcc-6",
+        "1642179236578f7fcc-7"
+      ],
+      "settings": {
+        "product": "",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
     "main": {
-      "type": "main-blog"
+      "type": "main-blog",
+      "settings": {
+        "show_image": true,
+        "show_date": true,
+        "show_author": false
+      }
     }
   },
   "order": [
+    "1642179236c6b84d50",
     "main"
   ]
 }
