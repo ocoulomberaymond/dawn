@@ -7,6 +7,7 @@
     },
     "1628278188a3a19b75": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "",
         "cover_image": "shopify:\/\/shop_images\/Untitled_design_-_2020-05-16T001455.638.png",
@@ -48,6 +49,82 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true
+      }
+    },
+    "1628803000fd1f1b3b": {
+      "type": "rich-text",
+      "blocks": {
+        "240f4bcc-ba1b-459e-95ae-032956426dcf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Services",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "240f4bcc-ba1b-459e-95ae-032956426dcf"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "1628803003e52b1a8c": {
+      "type": "multicolumn",
+      "blocks": {
+        "1628803003e52b1a8c-0": {
+          "type": "column",
+          "settings": {
+            "title": "Haircut, Scissors Cut & Skinfades",
+            "text": "<p>Tailored haircut, adapted to your morphologie<\/p><p><strong>Price<\/strong>: Starting at <strong>30$<\/strong><\/p><p><strong>Duration<\/strong>: 30 -55min<br\/><\/p>"
+          }
+        },
+        "1628803003e52b1a8c-1": {
+          "type": "column",
+          "settings": {
+            "title": "Beard Trim & Line Up",
+            "text": "<p>From the express clipper and shaver beard trim to the hot towel treatment straight blade finish<br\/><\/p><p><strong>Price<\/strong>: Starting at 17.50$<\/p><p><strong>Duration: <\/strong>15-30 min<\/p>"
+          }
+        },
+        "1628803003e52b1a8c-2": {
+          "type": "column",
+          "settings": {
+            "title": "Shaves",
+            "text": "<p>Quick express shave, classic shave, head shave<\/p><p><\/p><p><strong>Price<\/strong>: Starting at 17.50$<\/p><p><strong>Duration<\/strong>: 15-30 min<br\/><\/p>"
+          }
+        },
+        "7bc338ec-3e1d-43de-a7b7-06a991ac22ad": {
+          "type": "column",
+          "settings": {
+            "title": "Combos",
+            "text": "<p>Combine services and save!<\/p><p><strong>Price<\/strong>: Starting at 42$<\/p><p><strong>Duration<\/strong>: 45min - 1h15<br\/><br\/><\/p>"
+          }
+        },
+        "30329f11-6750-49aa-9467-e9b8398e388d": {
+          "type": "column",
+          "settings": {
+            "title": "Extras",
+            "text": "<p>Our add ons will get you<\/p><p><\/p><p>-&gt; Hot Towel & Straight Blade finish - 5 min - 5$<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1628803003e52b1a8c-0",
+        "1628803003e52b1a8c-1",
+        "1628803003e52b1a8c-2",
+        "7bc338ec-3e1d-43de-a7b7-06a991ac22ad",
+        "30329f11-6750-49aa-9467-e9b8398e388d"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "BOOK NOW",
+        "button_link": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109",
+        "swipe_on_mobile": false
       }
     },
     "16282781904aff6db8": {
@@ -131,82 +208,6 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
-    "1628803000fd1f1b3b": {
-      "type": "rich-text",
-      "blocks": {
-        "240f4bcc-ba1b-459e-95ae-032956426dcf": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Services",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "240f4bcc-ba1b-459e-95ae-032956426dcf"
-      ],
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": true
-      }
-    },
-    "1628803003e52b1a8c": {
-      "type": "multicolumn",
-      "blocks": {
-        "1628803003e52b1a8c-0": {
-          "type": "column",
-          "settings": {
-            "title": "Precision Haircut & Skinfades",
-            "text": "<p>Tailored haircut, adapted to your morphologie<\/p><p><strong>Price<\/strong>: Starting at <strong>30$<\/strong><\/p><p><strong>Duration<\/strong>: 40 -50 min<br\/><\/p>"
-          }
-        },
-        "1628803003e52b1a8c-1": {
-          "type": "column",
-          "settings": {
-            "title": "Beard Trim & Line Up",
-            "text": "<p>From the express clipper and shaver beard trim to the hot towel treatment straight blade finish<br\/><\/p><p><strong>Price<\/strong>: Starting at 17.50$<\/p><p><strong>Duration: <\/strong>15-30 min<\/p>"
-          }
-        },
-        "1628803003e52b1a8c-2": {
-          "type": "column",
-          "settings": {
-            "title": "Shaves",
-            "text": "<p>Quick express shave, classic shave, head shave<\/p><p><\/p><p><strong>Price<\/strong>: Starting at 17.50$<\/p><p><strong>Duration<\/strong>: 15-30 min<br\/><\/p>"
-          }
-        },
-        "7bc338ec-3e1d-43de-a7b7-06a991ac22ad": {
-          "type": "column",
-          "settings": {
-            "title": "Combos",
-            "text": "<p>Combine services and save!<\/p><p><strong>Price<\/strong>: Starting at 42$<\/p><p><strong>Duration<\/strong>: 45min - 1h15<br\/><br\/><\/p>"
-          }
-        },
-        "30329f11-6750-49aa-9467-e9b8398e388d": {
-          "type": "column",
-          "settings": {
-            "title": "Extras",
-            "text": "<p>Our add ons will get you<\/p><p><\/p><p>-&gt; Hot Towel & Straight Blade finish - 5 min - 5$<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1628803003e52b1a8c-0",
-        "1628803003e52b1a8c-1",
-        "1628803003e52b1a8c-2",
-        "7bc338ec-3e1d-43de-a7b7-06a991ac22ad",
-        "30329f11-6750-49aa-9467-e9b8398e388d"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "secondary",
-        "button_label": "BOOK NOW",
-        "button_link": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109",
         "swipe_on_mobile": false
       }
     },
@@ -381,10 +382,10 @@
     "main",
     "1628278188a3a19b75",
     "16282780497614c9f4",
-    "16282781904aff6db8",
-    "1628278298baf1e149",
     "1628803000fd1f1b3b",
     "1628803003e52b1a8c",
+    "16282781904aff6db8",
+    "1628278298baf1e149",
     "1628803052f8535be1",
     "16346740645f881ea6",
     "16346721612f2293e8",
