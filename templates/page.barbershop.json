@@ -91,14 +91,14 @@
           "type": "column",
           "settings": {
             "title": "Shaves",
-            "text": "<p>Quick express shave, classic shave, head shave<\/p><p><\/p><p><strong>Price<\/strong>: Starting at 17.50$<\/p><p><strong>Duration<\/strong>: 15-30 min<br\/><\/p>"
+            "text": "<p>Quick express shave, classic shave, head shave<\/p><p><\/p><p><strong>Price<\/strong>: Starting at 25$<\/p><p><strong>Duration<\/strong>: 15-30 min<br\/><\/p>"
           }
         },
         "7bc338ec-3e1d-43de-a7b7-06a991ac22ad": {
           "type": "column",
           "settings": {
             "title": "Combos",
-            "text": "<p>Combine services and save!<\/p><p><strong>Price<\/strong>: Starting at 42$<\/p><p><strong>Duration<\/strong>: 45min - 1h15<br\/><br\/><\/p>"
+            "text": "<p>Combine services and save!<\/p><p><strong>Price<\/strong>: Starting at 45$<\/p><p><strong>Duration<\/strong>: 45min - 1h15<br\/><br\/><\/p>"
           }
         },
         "30329f11-6750-49aa-9467-e9b8398e388d": {
