@@ -132,6 +132,7 @@
     },
     "162827650794a6126a": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "collection": "beard-care",
@@ -234,6 +235,7 @@
     },
     "16282767802ca61852": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "collection": "produits-de-rasage",
