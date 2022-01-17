@@ -47,8 +47,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "BLACK FRIDAY DEALS",
-        "collection": "black-friday-deals-2021",
+        "title": "POPULAR PRODUCTS",
+        "collection": "beard-wash",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": false,
