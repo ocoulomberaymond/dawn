@@ -19,9 +19,9 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "BLACK FRIDAY DEALS: SAVE UP TO 50%",
+              "text": "FREE SHIPPING ON ORDERS OVER 50$*",
               "color_scheme": "inverse",
-              "link": ""
+              "link": "shopify:\/\/pages\/livraison"
             }
           }
         },
