@@ -75,6 +75,7 @@
     },
     "164390758276813c05": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "16439075811b954e10-0": {
           "type": "column",
