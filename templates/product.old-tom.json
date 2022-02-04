@@ -117,6 +117,42 @@
         "swipe_on_mobile": true
       }
     },
+    "1644002186c85921dd": {
+      "type": "rich-text",
+      "blocks": {
+        "1644002186d2b9b50c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nelson & Floyd Grooming Co",
+            "heading_size": "h1"
+          }
+        },
+        "1644002186d2b9b50c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Developed by Dillinger's boutique & barber shop grooming experts in collaboration with Educated beards, the first trio of products of our house brand Nelson & Floyd Grooming Co has been made available to the public in june 2021. Our mission is to offer professional grade products that are developed based not only on the feedback we get from our customers but also from our extensive knowledge, expertise of professional barbers & grooming experts of our growing grooming enthusiast clientele.<\/p>"
+          }
+        },
+        "1644002186d2b9b50c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1644002186d2b9b50c-0",
+        "1644002186d2b9b50c-1",
+        "1644002186d2b9b50c-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
+    },
     "164398193391bef5bf": {
       "type": "video",
       "settings": {
@@ -138,12 +174,56 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "16440019724958e8e1": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1644001972cd333b52-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1644001972cd333b52-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1644001972cd333b52-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1644001972cd333b52-0",
+        "1644001972cd333b52-1",
+        "1644001972cd333b52-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
     }
   },
   "order": [
     "main",
     "164390758276813c05",
+    "1644002186c85921dd",
     "164398193391bef5bf",
-    "product-recommendations"
+    "product-recommendations",
+    "16440019724958e8e1"
   ]
 }
