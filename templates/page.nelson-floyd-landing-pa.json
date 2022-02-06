@@ -199,6 +199,41 @@
         "color_scheme": "inverse",
         "layout": "text_first"
       }
+    },
+    "1644175755f90118be": {
+      "type": "rich-text",
+      "blocks": {
+        "16441757555a234592-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "WANT TO JOIN OUR TEAM?",
+            "heading_size": "h1"
+          }
+        },
+        "16441757555a234592-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are looking for Canadian bearded and non-bearded men to join our <strong>ambassador program<\/strong>! Want to receive discounted grooming products and help others discover our brand? Click the button below for more details on the program and access to the application form!<\/p>"
+          }
+        },
+        "16441757555a234592-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16441757555a234592-0",
+        "16441757555a234592-1",
+        "16441757555a234592-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -207,6 +242,7 @@
     "main",
     "1644172380f4fbe22a",
     "1644174455dcf7dddf",
-    "1644174474b98a9cd0"
+    "1644174474b98a9cd0",
+    "1644175755f90118be"
   ]
 }
