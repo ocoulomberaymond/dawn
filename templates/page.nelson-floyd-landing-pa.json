@@ -1,5 +1,81 @@
 {
   "sections": {
+    "16441721363beb538b": {
+      "type": "rich-text",
+      "blocks": {
+        "1644172136adeb353d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Nelson & Floyd Expertise",
+            "heading_size": "h1"
+          }
+        },
+        "1644172136adeb353d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>There are tons of beard brands products out there, we know it, actually, we work with  and sell many of the top Canadian brands in our barber shop and grooming store. <\/p><p><strong>So what makes our products different?<\/strong> Well, we are professional barbers and men's grooming experts. <strong>We don't do that part time from our basement, it’s our daily job! <\/strong><\/p>"
+          }
+        },
+        "1644172136adeb353d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "ABOUT US",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1644172136adeb353d-0",
+        "1644172136adeb353d-1",
+        "1644172136adeb353d-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "164417214019c44317": {
+      "type": "multicolumn",
+      "blocks": {
+        "1644172140d492ea53-0": {
+          "type": "column",
+          "settings": {
+            "title": "OUR MISSION",
+            "text": "<p>Help mens of all ages become a better version of themselves by providing barbershop grade grooming products and education.<\/p>"
+          }
+        },
+        "1644172140d492ea53-1": {
+          "type": "column",
+          "settings": {
+            "title": "OUR VISION",
+            "text": "<p>Become the leading men's grooming brand in Canada by using our expertise and exhaustive product knowledge.<\/p>"
+          }
+        },
+        "1644172140d492ea53-2": {
+          "type": "column",
+          "settings": {
+            "title": "OUR VALUES",
+            "text": "<p>Quality over quantity & 100% dedication to our clientele satisfaction. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1644172140d492ea53-0",
+        "1644172140d492ea53-1",
+        "1644172140d492ea53-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -7,6 +83,8 @@
     }
   },
   "order": [
+    "16441721363beb538b",
+    "164417214019c44317",
     "main"
   ]
 }
