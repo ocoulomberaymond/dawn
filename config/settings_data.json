@@ -1,5 +1,6 @@
 {
   "current": {
+    "colors_accent_2": "#e22120",
     "colors_background_2": "#cecece",
     "type_header_font": "arvo_n7",
     "type_body_font": "daytona_n4",
@@ -26,16 +27,26 @@
           },
           "39926070-f5b2-4572-bc54-3ce2f916df91": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "want to know why hundreds of mens use our products?",
               "color_scheme": "background-1",
               "link": ""
             }
+          },
+          "cfa90a03-1867-4b72-b077-6376a4fafcfc": {
+            "type": "announcement",
+            "settings": {
+              "text": "VALENTINE'S DAY GIFT SELECTION",
+              "color_scheme": "accent-2",
+              "link": "https:\/\/dillingers.ca\/collections\/valentines-day-st-valentin"
+            }
           }
         },
         "block_order": [
           "announcement-bar-0",
-          "39926070-f5b2-4572-bc54-3ce2f916df91"
+          "39926070-f5b2-4572-bc54-3ce2f916df91",
+          "cfa90a03-1867-4b72-b077-6376a4fafcfc"
         ],
         "settings": {
         }
