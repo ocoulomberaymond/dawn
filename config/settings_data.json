@@ -23,10 +23,19 @@
               "color_scheme": "inverse",
               "link": "shopify:\/\/pages\/livraison"
             }
+          },
+          "39926070-f5b2-4572-bc54-3ce2f916df91": {
+            "type": "announcement",
+            "settings": {
+              "text": "want to know why hundreds of mens use our products?",
+              "color_scheme": "background-1",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "announcement-bar-0"
+          "announcement-bar-0",
+          "39926070-f5b2-4572-bc54-3ce2f916df91"
         ],
         "settings": {
         }

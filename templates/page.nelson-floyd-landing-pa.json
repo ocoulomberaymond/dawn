@@ -218,6 +218,7 @@
         },
         "16441757555a234592-2": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "I WANT TO BECOME AN AMBASSADOR!",
             "button_link": "",
@@ -234,6 +235,42 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "1644338947c05e5ded": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "164433894714718625-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "164433894714718625-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "164433894714718625-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "164433894714718625-0",
+        "164433894714718625-1",
+        "164433894714718625-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -243,6 +280,7 @@
     "1644172380f4fbe22a",
     "1644174455dcf7dddf",
     "1644174474b98a9cd0",
-    "1644175755f90118be"
+    "1644175755f90118be",
+    "1644338947c05e5ded"
   ]
 }
