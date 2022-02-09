@@ -44,6 +44,15 @@
             "show_dynamic_checkout": true
           }
         },
+        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Specifications",
+            "content": "<p>Developed by Dillinger's boutique & barbershop grooming experts in collaboration with Educated beards the first fragrance of our Nelson & Floyd Grooming co brand is based on a fresh citrusy gin.<\/p><p>We named this fragrance  <strong>Old Tom<\/strong> in memory of an ancient gin type that was considered the ''missing link'' between the dutch genever and the london dry. Made from <strong>100% natural carrier oils and essential oils<\/strong>, this grapefruit bark & juniper fragrance is fresh, not overpowering and will certainly help to wake up your senses on a rough morning!<\/p><p>Shine: Medium<\/p><p>Fragrance: Grapefruit & Juniper<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -64,6 +73,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72",
         "description",
         "share"
       ],
