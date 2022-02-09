@@ -2,6 +2,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
       }
     },
@@ -52,6 +53,59 @@
         "show_text_below": true
       }
     },
+    "1644377854a4019c5d": {
+      "type": "multicolumn",
+      "blocks": {
+        "16443778546eb2d30d-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142310.874.png",
+            "title": "100% NATURAL",
+            "text": ""
+          }
+        },
+        "16443778546eb2d30d-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142005.015.png",
+            "title": "NO HARSH CHEMICALS",
+            "text": ""
+          }
+        },
+        "16443778546eb2d30d-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T141808.991.png",
+            "title": "NON TESTED ON RABBITS",
+            "text": ""
+          }
+        },
+        "7bfa5fe9-15e3-4ed7-bb8d-b1174bc07ca5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142126.499.png",
+            "title": "CREATED AND USED BY BARBERS",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "16443778546eb2d30d-0",
+        "16443778546eb2d30d-1",
+        "16443778546eb2d30d-2",
+        "7bfa5fe9-15e3-4ed7-bb8d-b1174bc07ca5"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "164437657865032a88": {
       "type": "image-with-text",
       "blocks": {
@@ -87,6 +141,59 @@
         "layout": "image_first"
       }
     },
+    "1644380361fee0bff2": {
+      "type": "multicolumn",
+      "blocks": {
+        "1644380361558e7933-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/02_After.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1644380361558e7933-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/man-with-red-beard-and-sunglasses.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1644380361558e7933-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Toulouse-brown-model-2000x1500.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "aa369aa0-76b7-47af-9325-45f30a10434d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/women-smiling-in-front-of-silver-background.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1644380361558e7933-0",
+        "1644380361558e7933-1",
+        "1644380361558e7933-2",
+        "aa369aa0-76b7-47af-9325-45f30a10434d"
+      ],
+      "settings": {
+        "title": "What customers have to say",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "1644376755409ef88d": {
       "type": "contact-form",
       "disabled": true,
@@ -94,31 +201,35 @@
         "heading": "Contact form"
       }
     },
-    "1644377051143b27eb": {
-      "type": "newsletter",
+    "164437772093aaece8": {
+      "type": "rich-text",
       "blocks": {
-        "16443770516bec5804-0": {
+        "1644377720d8479679-0": {
           "type": "heading",
           "settings": {
-            "heading": "Join our growing grooming community"
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
           }
         },
-        "16443770516bec5804-1": {
-          "type": "paragraph",
+        "1644377720d8479679-1": {
+          "type": "text",
           "settings": {
-            "text": "<p>Get on board now and receive a special offer!<\/p>"
+            "text": "<p>Developed by Dillinger's boutique & barber shop grooming experts in collaboration with Educated beards, the first trio of products of our house brand Nelson & Floyd Grooming Co has been made available to the public in june 2021. Our mission is to offer professional grade products that are developed based not only on the feedback we get from our customers but also from our extensive knowledge, expertise of professional barbers & grooming experts of our growing grooming enthusiast clientele.<\/p>"
           }
         },
-        "16443770516bec5804-2": {
-          "type": "email_form",
+        "1644377720d8479679-2": {
+          "type": "button",
           "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "16443770516bec5804-0",
-        "16443770516bec5804-1",
-        "16443770516bec5804-2"
+        "1644377720d8479679-0",
+        "1644377720d8479679-1",
+        "1644377720d8479679-2"
       ],
       "settings": {
         "color_scheme": "inverse",
@@ -160,6 +271,37 @@
         "layout": "text_first"
       }
     },
+    "1644377051143b27eb": {
+      "type": "newsletter",
+      "blocks": {
+        "16443770516bec5804-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join our growing grooming community"
+          }
+        },
+        "16443770516bec5804-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Get on board now and receive a special offer!<\/p>"
+          }
+        },
+        "16443770516bec5804-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16443770516bec5804-0",
+        "16443770516bec5804-1",
+        "16443770516bec5804-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
     "16443771549f5132e8": {
       "type": "collection-list",
       "blocks": {
@@ -187,13 +329,21 @@
           "settings": {
             "collection": ""
           }
+        },
+        "43a340bc-57cd-4781-993d-5bb74be6369e": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
         "16443771545ea72532-0",
         "16443771545ea72532-1",
         "16443771545ea72532-2",
-        "d33c53d6-da38-435b-9953-e37b1e30ca41"
+        "d33c53d6-da38-435b-9953-e37b1e30ca41",
+        "43a340bc-57cd-4781-993d-5bb74be6369e"
       ],
       "settings": {
         "title": "Collections",
@@ -204,64 +354,23 @@
         "show_view_all": false
       }
     },
-    "16443775097eb82821": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "164437750976963d54-0": {
-          "type": "video",
-          "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video",
-            "image_padding": false
-          }
-        },
-        "164437750976963d54-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
-        "164437750976963d54-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "164437750976963d54-0",
-        "164437750976963d54-1",
-        "164437750976963d54-2"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
-      }
-    },
-    "164437772093aaece8": {
+    "1644381079a85521e5": {
       "type": "rich-text",
       "blocks": {
-        "1644377720d8479679-0": {
+        "1644381079f28c7bcd-0": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "My beard itch a lot, what should i use?",
+            "heading_size": "h2"
           }
         },
-        "1644377720d8479679-1": {
+        "1644381079f28c7bcd-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Developed by Dillinger's boutique & barber shop grooming experts in collaboration with Educated beards, the first trio of products of our house brand Nelson & Floyd Grooming Co has been made available to the public in june 2021. Our mission is to offer professional grade products that are developed based not only on the feedback we get from our customers but also from our extensive knowledge, expertise of professional barbers & grooming experts of our growing grooming enthusiast clientele.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
-        "1644377720d8479679-2": {
+        "1644381079f28c7bcd-2": {
           "type": "button",
           "settings": {
             "button_label": "Button label",
@@ -271,67 +380,27 @@
         }
       },
       "block_order": [
-        "1644377720d8479679-0",
-        "1644377720d8479679-1",
-        "1644377720d8479679-2"
+        "1644381079f28c7bcd-0",
+        "1644381079f28c7bcd-1",
+        "1644381079f28c7bcd-2"
       ],
       "settings": {
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "full_width": true
-      }
-    },
-    "164437772615755b29": {
-      "type": "multicolumn",
-      "blocks": {
-        "1644377726e8b104d4-0": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1644377726e8b104d4-1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        },
-        "1644377726e8b104d4-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1644377726e8b104d4-0",
-        "1644377726e8b104d4-1",
-        "1644377726e8b104d4-2"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
       }
     }
   },
   "order": [
     "main",
     "1644376574cd9d7d58",
+    "1644377854a4019c5d",
     "164437657865032a88",
+    "1644380361fee0bff2",
     "1644376755409ef88d",
-    "1644377051143b27eb",
-    "16443770624cebc7a1",
-    "16443771549f5132e8",
-    "16443775097eb82821",
     "164437772093aaece8",
-    "164437772615755b29"
+    "16443770624cebc7a1",
+    "1644377051143b27eb",
+    "16443771549f5132e8",
+    "1644381079a85521e5"
   ]
 }
