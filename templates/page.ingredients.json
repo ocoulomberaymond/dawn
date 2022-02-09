@@ -2,11 +2,184 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
+      }
+    },
+    "1644382894c5f0c4f9": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1644382894cabcf117-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "1644382894cabcf117-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1644382894cabcf117-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1644382894cabcf117-0",
+        "1644382894cabcf117-1",
+        "1644382894cabcf117-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "164438290032c9b9ee": {
+      "type": "multicolumn",
+      "blocks": {
+        "16443829007d4e1029-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/360_F_281872340_sQCxLWdHBAn1CaW0Y2KsZFXjRNiWx1og.jpg",
+            "title": "Jojoba seed oil",
+            "text": "<p>Non comedogenic, can soothe eczema, help cells generation, absorb quickly by skin, potent moisturizer with antimicrobial properties<\/p>"
+          }
+        },
+        "16443829007d4e1029-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-804575858-612x612.jpg",
+            "title": "Castor seed oil",
+            "text": "<p>Restorative and promote healthy skin growth and  anti inflammatory.<\/p>"
+          }
+        },
+        "16443829007d4e1029-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/19-3-Blog-IMG-grapeseed-900x500.jpg",
+            "title": "Grape seed oil",
+            "text": "<p>Make skin softer and more elastic and is a powerful antioxidant.<\/p>"
+          }
+        },
+        "10fa476b-cce5-4b8c-a97b-b619a68eb27d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grapefruit_760d5a3f-0e30-42d4-8b63-1dc039de6133.jpg",
+            "title": "Grapefrruit bark oil",
+            "text": "<p>Good for acne and help relieve stress and balance mood.<\/p>"
+          }
+        },
+        "c2e3df5b-75ea-48e7-85e4-2ccf93225028": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/juniperberry-2.jpg",
+            "title": "Juniper berry oil",
+            "text": "<p>Protect  your skin, natural antiseptic and has relaxant properties,<\/p>"
+          }
+        },
+        "23498af7-0f80-4851-a640-32e42fda0801": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cbd-marijuana-picture-id157372820_portishead1.jpg",
+            "title": "Sativa oil",
+            "text": "<p>Tackles the signs of stressed skin, calming, soothing and reducing the appearance of redness,<\/p>"
+          }
+        },
+        "ff426ac7-fe65-451f-9d1e-53d2ee113c68": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/health-benefits-of-coconut-guide-main-image-700-350-a1efd38.jpg",
+            "title": "Coconut oil",
+            "text": "<p>Moisturize, reduce inflammation and help build a richer lather. Also had antifungal and antimicrobial properties.<\/p>"
+          }
+        },
+        "3f9661eb-c1ea-4861-8e78-7d7b311146d7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/olive-oil__79818.1586289416.jpg",
+            "title": "Olive oil",
+            "text": "<p>Rich in vitamins and fatty acids. Soothe skin and repel free radicals. Improve skin tone and texture.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16443829007d4e1029-0",
+        "16443829007d4e1029-1",
+        "16443829007d4e1029-2",
+        "10fa476b-cce5-4b8c-a97b-b619a68eb27d",
+        "c2e3df5b-75ea-48e7-85e4-2ccf93225028",
+        "23498af7-0f80-4851-a640-32e42fda0801",
+        "ff426ac7-fe65-451f-9d1e-53d2ee113c68",
+        "3f9661eb-c1ea-4861-8e78-7d7b311146d7"
+      ],
+      "settings": {
+        "title": "CARRIER OILS",
+        "image_width": "half",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1644382922e8f456a3": {
+      "type": "multicolumn",
+      "blocks": {
+        "1644382922b2f9ba79-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/telechargement.jpg",
+            "title": "Tocopherol",
+            "text": "<p>Also known has vitamin e, its one of the best natural oils for prevention of beard dandruff and the dreaded itchy beard.<\/p><p>This is because it moisturizes the skin exceptionally well, reducing beard dryness (the leading cause of beard itch and dandruff)<\/p>"
+          }
+        },
+        "1644382922b2f9ba79-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/citric-acid-blog-citric-vs-lemon.jpg",
+            "title": "Citric Acid",
+            "text": "<p>Acid is a natural organic acid present abundantly in citrus fruits such as limes and lemons. also has known skincare benefits. It belongs to the AHA family of acids, which supports skin exfoliation to reveal a fresh and firmer complexion. It is also an antioxidant used in anti-aging applications. It also help with the preservation of the product<\/p>"
+          }
+        },
+        "1644382922b2f9ba79-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Guar_Gum_Powder_2018-02-07__39980.1590511591.jpg",
+            "title": "Guar gum",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1644382922b2f9ba79-0",
+        "1644382922b2f9ba79-1",
+        "1644382922b2f9ba79-2"
+      ],
+      "settings": {
+        "title": "ESSENTIAL OILS",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1644382894c5f0c4f9",
+    "164438290032c9b9ee",
+    "1644382922e8f456a3"
   ]
 }
