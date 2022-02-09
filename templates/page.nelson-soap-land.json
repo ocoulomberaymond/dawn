@@ -4,9 +4,206 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "1644376574cd9d7d58": {
+      "type": "image-banner",
+      "blocks": {
+        "16443765742e5185d7-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "16443765742e5185d7-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "16443765742e5185d7-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16443765742e5185d7-0",
+        "16443765742e5185d7-1",
+        "16443765742e5185d7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HD_Banner_96.png",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "164437657865032a88": {
+      "type": "image-with-text",
+      "blocks": {
+        "164437657898bf197a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop our hand made soaps"
+          }
+        },
+        "164437657898bf197a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Say goodby to your 8 in 1 detergent and start giving your precious body the  soap it deserves!<\/p>"
+          }
+        },
+        "164437657898bf197a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164437657898bf197a-0",
+        "164437657898bf197a-1",
+        "164437657898bf197a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/unnamed.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
+    },
+    "1644376755409ef88d": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "Contact form"
+      }
+    },
+    "1644377051143b27eb": {
+      "type": "newsletter",
+      "blocks": {
+        "16443770516bec5804-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join our growing grooming community"
+          }
+        },
+        "16443770516bec5804-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Get on board now and receive a special offer!<\/p>"
+          }
+        },
+        "16443770516bec5804-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "16443770516bec5804-0",
+        "16443770516bec5804-1",
+        "16443770516bec5804-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "16443770624cebc7a1": {
+      "type": "image-with-text",
+      "blocks": {
+        "1644377062d350e276-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop our beard products"
+          }
+        },
+        "1644377062d350e276-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You beard derserve the best! <\/p>"
+          }
+        },
+        "1644377062d350e276-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1644377062d350e276-0",
+        "1644377062d350e276-1",
+        "1644377062d350e276-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/88_103.CR2.p.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "16443771549f5132e8": {
+      "type": "collection-list",
+      "blocks": {
+        "16443771545ea72532-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "after-shave"
+          }
+        },
+        "16443771545ea72532-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "beard-care"
+          }
+        },
+        "16443771545ea72532-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "body-soap"
+          }
+        }
+      },
+      "block_order": [
+        "16443771545ea72532-0",
+        "16443771545ea72532-1",
+        "16443771545ea72532-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "inverse",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1644376574cd9d7d58",
+    "164437657865032a88",
+    "1644376755409ef88d",
+    "1644377051143b27eb",
+    "16443770624cebc7a1",
+    "16443771549f5132e8"
   ]
 }
