@@ -180,12 +180,20 @@
           "settings": {
             "collection": "body-soap"
           }
+        },
+        "d33c53d6-da38-435b-9953-e37b1e30ca41": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
         "16443771545ea72532-0",
         "16443771545ea72532-1",
-        "16443771545ea72532-2"
+        "16443771545ea72532-2",
+        "d33c53d6-da38-435b-9953-e37b1e30ca41"
       ],
       "settings": {
         "title": "Collections",
@@ -194,6 +202,123 @@
         "swipe_on_mobile": false,
         "image_padding": false,
         "show_view_all": false
+      }
+    },
+    "16443775097eb82821": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "164437750976963d54-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "164437750976963d54-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "164437750976963d54-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "164437750976963d54-0",
+        "164437750976963d54-1",
+        "164437750976963d54-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "164437772093aaece8": {
+      "type": "rich-text",
+      "blocks": {
+        "1644377720d8479679-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "1644377720d8479679-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Developed by Dillinger's boutique & barber shop grooming experts in collaboration with Educated beards, the first trio of products of our house brand Nelson & Floyd Grooming Co has been made available to the public in june 2021. Our mission is to offer professional grade products that are developed based not only on the feedback we get from our customers but also from our extensive knowledge, expertise of professional barbers & grooming experts of our growing grooming enthusiast clientele.<\/p>"
+          }
+        },
+        "1644377720d8479679-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1644377720d8479679-0",
+        "1644377720d8479679-1",
+        "1644377720d8479679-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "164437772615755b29": {
+      "type": "multicolumn",
+      "blocks": {
+        "1644377726e8b104d4-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1644377726e8b104d4-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1644377726e8b104d4-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1644377726e8b104d4-0",
+        "1644377726e8b104d4-1",
+        "1644377726e8b104d4-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     }
   },
@@ -204,6 +329,9 @@
     "1644376755409ef88d",
     "1644377051143b27eb",
     "16443770624cebc7a1",
-    "16443771549f5132e8"
+    "16443771549f5132e8",
+    "16443775097eb82821",
+    "164437772093aaece8",
+    "164437772615755b29"
   ]
 }
