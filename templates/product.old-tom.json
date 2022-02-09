@@ -5,9 +5,15 @@
       "blocks": {
         "vendor": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.vendor }}",
             "text_style": "uppercase"
+          }
+        },
+        "7c637ab4-a8a8-4620-8d2d-b50ba68ef093": {
+          "type": "rating",
+          "settings": {
           }
         },
         "title": {
@@ -44,6 +50,21 @@
             "show_dynamic_checkout": true
           }
         },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "4f054b65-21d3-416c-9df5-61ce565afd62": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Description",
+            "content": "<p>Created and developed by Dillinger’s barbers to provide moisture to your skin, prevent beard dandruff and add a pleasant and invigorating fragrance of grapefruit & juniper<\/p><p><strong>-100% natural carriers and essential oils<\/strong><\/p><p><strong>-No chemical fragrances<\/strong><\/p><p><strong>-Made in Canada<\/strong><\/p><p><strong>-Barbershop grade<\/strong><\/p><p>-Size 30ml<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
         "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72": {
           "type": "collapsible_tab",
           "settings": {
@@ -53,13 +74,9 @@
             "icon": "check_mark"
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -67,14 +84,16 @@
       },
       "block_order": [
         "vendor",
+        "7c637ab4-a8a8-4620-8d2d-b50ba68ef093",
         "title",
         "subtitle",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72",
         "description",
+        "4f054b65-21d3-416c-9df5-61ce565afd62",
+        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72",
         "share"
       ],
       "settings": {
