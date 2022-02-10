@@ -124,6 +124,14 @@
             "title": "Olive oil",
             "text": "<p>Rich in vitamins and fatty acids. Soothe skin and repel free radicals. Improve skin tone and texture.<\/p>"
           }
+        },
+        "6dd5d0e7-a09d-4148-ada2-d4c1f6ccba95": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/beeswax.jpg",
+            "title": "Beeswax",
+            "text": "<p>Helps to style and keep the hairs together. Because it's a sealant it will also <strong>repel dirt and grime , <\/strong>as well as keeping the hair shiny.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -136,7 +144,8 @@
         "c2e3df5b-75ea-48e7-85e4-2ccf93225028",
         "23498af7-0f80-4851-a640-32e42fda0801",
         "ff426ac7-fe65-451f-9d1e-53d2ee113c68",
-        "3f9661eb-c1ea-4861-8e78-7d7b311146d7"
+        "3f9661eb-c1ea-4861-8e78-7d7b311146d7",
+        "6dd5d0e7-a09d-4148-ada2-d4c1f6ccba95"
       ],
       "settings": {
         "title": "CARRIER & ESSENTIAL OILS",
