@@ -45,6 +45,22 @@
     "164438290032c9b9ee": {
       "type": "multicolumn",
       "blocks": {
+        "f3b3778b-a57c-42fd-aefd-aa22200fbbe8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/burro-di-karite.jpeg.pagespeed.ce.0632cS99cK.jpg",
+            "title": "Shea butter",
+            "text": "<p>Great for moisturizing dry or damaged hair and protect hair from uv.<\/p>"
+          }
+        },
+        "a1ffc1c7-6cde-48e9-9468-408c8aeda89a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-539365448-612x612.jpg",
+            "title": "Sweet almond oil",
+            "text": "<p>Tame the frizz and make your beard softer and easier to comb<\/p>"
+          }
+        },
         "16443829007d4e1029-0": {
           "type": "column",
           "settings": {
@@ -108,17 +124,11 @@
             "title": "Olive oil",
             "text": "<p>Rich in vitamins and fatty acids. Soothe skin and repel free radicals. Improve skin tone and texture.<\/p>"
           }
-        },
-        "a1ffc1c7-6cde-48e9-9468-408c8aeda89a": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/istockphoto-539365448-612x612.jpg",
-            "title": "Sweet almond oil",
-            "text": "<p>Tame the frizz and make your beard softer and easier to comb<\/p>"
-          }
         }
       },
       "block_order": [
+        "f3b3778b-a57c-42fd-aefd-aa22200fbbe8",
+        "a1ffc1c7-6cde-48e9-9468-408c8aeda89a",
         "16443829007d4e1029-0",
         "16443829007d4e1029-2",
         "16443829007d4e1029-1",
@@ -126,8 +136,7 @@
         "c2e3df5b-75ea-48e7-85e4-2ccf93225028",
         "23498af7-0f80-4851-a640-32e42fda0801",
         "ff426ac7-fe65-451f-9d1e-53d2ee113c68",
-        "3f9661eb-c1ea-4861-8e78-7d7b311146d7",
-        "a1ffc1c7-6cde-48e9-9468-408c8aeda89a"
+        "3f9661eb-c1ea-4861-8e78-7d7b311146d7"
       ],
       "settings": {
         "title": "CARRIER & ESSENTIAL OILS",
