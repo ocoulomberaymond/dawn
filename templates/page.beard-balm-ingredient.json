@@ -53,14 +53,6 @@
             "text": "<p>Non comedogenic, can soothe eczema, help cells generation, absorb quickly by skin, potent moisturizer with antimicrobial properties<\/p>"
           }
         },
-        "16443829007d4e1029-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/istockphoto-804575858-612x612.jpg",
-            "title": "Castor seed oil",
-            "text": "<p>Restorative and promote healthy skin growth and  anti inflammatory.<\/p>"
-          }
-        },
         "16443829007d4e1029-2": {
           "type": "column",
           "settings": {
@@ -69,11 +61,19 @@
             "text": "<p>Make skin softer and more elastic and is a powerful antioxidant.<\/p>"
           }
         },
+        "16443829007d4e1029-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-804575858-612x612.jpg",
+            "title": "Castor seed oil",
+            "text": "<p>Restorative and promote healthy skin growth and  anti inflammatory.<\/p>"
+          }
+        },
         "10fa476b-cce5-4b8c-a97b-b619a68eb27d": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/grapefruit_760d5a3f-0e30-42d4-8b63-1dc039de6133.jpg",
-            "title": "Grapefrruit bark oil",
+            "title": "Grapefruit bark oil",
             "text": "<p>Good for acne and help relieve stress and balance mood.<\/p>"
           }
         },
@@ -108,17 +108,26 @@
             "title": "Olive oil",
             "text": "<p>Rich in vitamins and fatty acids. Soothe skin and repel free radicals. Improve skin tone and texture.<\/p>"
           }
+        },
+        "a1ffc1c7-6cde-48e9-9468-408c8aeda89a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-539365448-612x612.jpg",
+            "title": "Sweet almond oil",
+            "text": "<p>Tame the frizz and make your beard softer and easier to comb<\/p>"
+          }
         }
       },
       "block_order": [
         "16443829007d4e1029-0",
-        "16443829007d4e1029-1",
         "16443829007d4e1029-2",
+        "16443829007d4e1029-1",
         "10fa476b-cce5-4b8c-a97b-b619a68eb27d",
         "c2e3df5b-75ea-48e7-85e4-2ccf93225028",
         "23498af7-0f80-4851-a640-32e42fda0801",
         "ff426ac7-fe65-451f-9d1e-53d2ee113c68",
-        "3f9661eb-c1ea-4861-8e78-7d7b311146d7"
+        "3f9661eb-c1ea-4861-8e78-7d7b311146d7",
+        "a1ffc1c7-6cde-48e9-9468-408c8aeda89a"
       ],
       "settings": {
         "title": "CARRIER & ESSENTIAL OILS",
