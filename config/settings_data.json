@@ -36,6 +36,7 @@
           },
           "cfa90a03-1867-4b72-b077-6376a4fafcfc": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "VALENTINE'S DAY GIFT SELECTION",
               "color_scheme": "accent-2",
