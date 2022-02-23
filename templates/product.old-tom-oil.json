@@ -209,6 +209,47 @@
         "swipe_on_mobile": true
       }
     },
+    "1645630746bab70900": {
+      "type": "multicolumn",
+      "blocks": {
+        "1645630746dad2172b-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1645630746dad2172b-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1645630746dad2172b-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1645630746dad2172b-0",
+        "1645630746dad2172b-1",
+        "1645630746dad2172b-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "1644002186c85921dd": {
       "type": "rich-text",
       "blocks": {
@@ -267,45 +308,39 @@
         "show_rating": false
       }
     },
-    "1645630746bab70900": {
-      "type": "multicolumn",
+    "1645631103ed7ac15b": {
+      "type": "image-with-text",
       "blocks": {
-        "1645630746dad2172b-0": {
-          "type": "column",
+        "164563110344fa6cb7-0": {
+          "type": "heading",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "heading": "The Fragrance"
           }
         },
-        "1645630746dad2172b-1": {
-          "type": "column",
+        "164563110344fa6cb7-1": {
+          "type": "text",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>The <strong>Old Tom Gin<\/strong> was once considered the ''<em>missing link<\/em>'' of the gin world! Popular in the late 1800's and early 1900's, it is now making a comeback on the craft cocktail scene!<\/p><p>We decided to pay tribute to this iconic beverage by combining the <strong>juniper berry and grapefruit bark<\/strong> fragrances into a fresh, sweet and invigorating perfume!<\/p>"
           }
         },
-        "1645630746dad2172b-2": {
-          "type": "column",
+        "164563110344fa6cb7-2": {
+          "type": "button",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "1645630746dad2172b-0",
-        "1645630746dad2172b-1",
-        "1645630746dad2172b-2"
+        "164563110344fa6cb7-0",
+        "164563110344fa6cb7-1",
+        "164563110344fa6cb7-2"
       ],
       "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-10T150452.636.png",
+        "height": "adapt",
+        "color_scheme": "background-2",
+        "layout": "image_first"
       }
     }
   },
@@ -313,9 +348,10 @@
     "main",
     "16440019724958e8e1",
     "164390758276813c05",
+    "1645630746bab70900",
     "1644002186c85921dd",
     "164398193391bef5bf",
     "product-recommendations",
-    "1645630746bab70900"
+    "1645631103ed7ac15b"
   ]
 }
