@@ -222,7 +222,7 @@
         "1644002186d2b9b50c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Developed by Dillinger's boutique & barber shop grooming experts in collaboration with Educated beards, the first trio of products of our house brand Nelson & Floyd Grooming Co has been made available to the public in june 2021. Our mission is to offer professional grade products that are developed based not only on the feedback we get from our customers but also from our extensive knowledge, expertise of professional barbers & grooming experts of our growing grooming enthusiast clientele.<\/p>"
+            "text": "<p>Developed by Dillinger's boutique & barber shop grooming experts in collaboration with Educated beards, the first trio of products of our house brand Nelson & Floyd Grooming Co has been made available to the public in june 2021.<\/p><p>Our mission is to offer professional grade products that are developed based not only on the feedback we get from our customers but also from our extensive knowledge, expertise of professional barbers & grooming experts of our growing grooming enthusiast clientele.<\/p>"
           }
         },
         "1644002186d2b9b50c-2": {
@@ -241,7 +241,7 @@
         "1644002186d2b9b50c-2"
       ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "full_width": true
       }
     },
