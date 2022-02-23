@@ -191,12 +191,21 @@
             "title": "Juniper berry oil",
             "text": "<p>Juniper is the main ingredient used in producing Gin. Combined with je grapefruit bark oil, we get a bit of a citrus gin fragrance that is verry pleasant. It also promote blood circulation<\/p>"
           }
+        },
+        "693bfdf3-0dbb-4ae7-8e2f-5f6bcb3bace1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/beeswax.jpg",
+            "title": "Beeswax",
+            "text": "<p>Help moisturize, smoothe flyaways and maintain the shape of your beard. <\/p>"
+          }
         }
       },
       "block_order": [
         "16439075811b954e10-0",
         "16439075811b954e10-1",
-        "16439075811b954e10-2"
+        "16439075811b954e10-2",
+        "693bfdf3-0dbb-4ae7-8e2f-5f6bcb3bace1"
       ],
       "settings": {
         "title": "Old Tom Beard oil Ingredients list",
