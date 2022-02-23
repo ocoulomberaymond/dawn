@@ -199,13 +199,31 @@
             "title": "Beeswax",
             "text": "<p>Help moisturize, smoothe flyaways and maintain the shape of your beard. <\/p>"
           }
+        },
+        "23bc9449-e2da-420b-8c2e-d6cf7ef0ffb5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-539365448-612x612.jpg",
+            "title": "Sweet almond oil*",
+            "text": "<p>Will help nourrish the skin and facial hair and provide added shine to your beard. <em>*organic<\/em><\/p>"
+          }
+        },
+        "36bfbbd5-eb01-40db-a345-f7740d8f3ca3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/burro-di-karite.jpeg.pagespeed.ce.0632cS99cK.jpg",
+            "title": "Shea butter*",
+            "text": "<p>Moisturize, hydrate and has anti-inflammatory properties which is great for any rashes or itchiness on your skin. <em>*organic<\/em><\/p>"
+          }
         }
       },
       "block_order": [
         "16439075811b954e10-0",
         "16439075811b954e10-1",
         "16439075811b954e10-2",
-        "693bfdf3-0dbb-4ae7-8e2f-5f6bcb3bace1"
+        "693bfdf3-0dbb-4ae7-8e2f-5f6bcb3bace1",
+        "23bc9449-e2da-420b-8c2e-d6cf7ef0ffb5",
+        "36bfbbd5-eb01-40db-a345-f7740d8f3ca3"
       ],
       "settings": {
         "title": "Old Tom Beard oil Ingredients list",
