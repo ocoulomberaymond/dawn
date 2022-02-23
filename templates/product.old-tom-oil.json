@@ -215,37 +215,49 @@
         "1645630746dad2172b-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/bearded-man-in-sun-and-shadow.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>That beard oil work verry well to tame beard itch, but my gf love the fragrance a lot wich is a +++. Highly recommend.<\/p><p><em>Tom G.<\/em><\/p>"
           }
         },
         "1645630746dad2172b-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/man-scratches-head-in-front-of-yellow-door.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>Bought the Old Tom beard oil after a visite at Dillinger's barbershop. My beard was flacky and itchy has f*ck... A couple drops in the morning and the itch is GONE!!!<\/p><p><em>Matthew Wilder<\/em><\/p>"
           }
         },
         "1645630746dad2172b-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/profile-of-a-man-with-beard-and-styled-hair.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>Ive tried many different oils since i started my beard journey and this one is defenetly in my top 3! Smell nice, natural ingredients and works super well! Get yours now!<\/p><p><em>Claude B.<\/em><\/p>"
+          }
+        },
+        "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/women-smiling-in-front-of-silver-background.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>I bought this products for my son and he loved it! His wife was also super happy with the fact that the fragrance is subtle, fresh and not overpowering like is other beard oil!<\/p><p><em>Samatha D.<\/em><\/p>"
           }
         }
       },
       "block_order": [
         "1645630746dad2172b-0",
         "1645630746dad2172b-1",
-        "1645630746dad2172b-2"
+        "1645630746dad2172b-2",
+        "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b"
       ],
       "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "title": "Don't take our word for it!",
+        "image_width": "third",
+        "image_ratio": "circle",
         "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "background_style": "secondary",
+        "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
       }
@@ -286,28 +298,6 @@
         "full_width": true
       }
     },
-    "164398193391bef5bf": {
-      "type": "video",
-      "settings": {
-        "heading": "DO YOU NEED A BEARD OIL OR A BEARD BALM?",
-        "cover_image": "shopify:\/\/shop_images\/YouTube_Thumbnail_6.png",
-        "video_url": "https:\/\/youtu.be\/4-oQFdSirfg",
-        "description": "beard balm vs beard oil video",
-        "full_width": false
-      }
-    },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "heading": "You may also like",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
-      }
-    },
     "1645631103ed7ac15b": {
       "type": "image-with-text",
       "blocks": {
@@ -342,6 +332,28 @@
         "color_scheme": "background-2",
         "layout": "image_first"
       }
+    },
+    "164398193391bef5bf": {
+      "type": "video",
+      "settings": {
+        "heading": "DO YOU NEED A BEARD OIL OR A BEARD BALM?",
+        "cover_image": "shopify:\/\/shop_images\/YouTube_Thumbnail_6.png",
+        "video_url": "https:\/\/youtu.be\/4-oQFdSirfg",
+        "description": "beard balm vs beard oil video",
+        "full_width": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
     }
   },
   "order": [
@@ -350,8 +362,8 @@
     "164390758276813c05",
     "1645630746bab70900",
     "1644002186c85921dd",
+    "1645631103ed7ac15b",
     "164398193391bef5bf",
-    "product-recommendations",
-    "1645631103ed7ac15b"
+    "product-recommendations"
   ]
 }
