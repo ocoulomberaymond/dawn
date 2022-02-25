@@ -1,1 +1,13 @@
-<script id="qikify-tranzi-data-entries">var qTranziTranslateApps = []</script>
+<script id="qikify-tranzi-data-entries">
+window.qtzAvailableList = [];
+  {% for language in localization.available_languages %}
+    window.qtzAvailableList.push({
+      locale: '{{ language.iso_code }}',
+      endonym_name: '{{ language.endonym_name }}',
+      name: '{{ language.name }}',
+      primary: '{{ language.primary }}',
+      root_url: '{{ language.root_url }}'
+    });
+  {% endfor %}
+var qTranziTranslateApps = []
+</script>
