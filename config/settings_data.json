@@ -9,7 +9,7 @@
     "social_instagram_link": "https:\/\/www.instagram.com\/dillingersmtl\/",
     "social_youtube_link": "https:\/\/www.youtube.com\/c\/DillingersBoutiqueetBarbier",
     "favicon": "shopify:\/\/shop_images\/android-chrome-192x192.png",
-    "language_switcher_enabled": false,
+    "language_switcher_enabled": true,
     "language_switcher_position": "bottom-right",
     "language_switcher_spacing_right": "50",
     "language_switcher_flags": false,
