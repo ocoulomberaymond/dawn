@@ -1,0 +1,395 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    },
+    "1628278188a3a19b75": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/Untitled_design_-_2020-05-16T001455.638.png",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "Video presentation of dillingers barbershop",
+        "full_width": false
+      }
+    },
+    "16282780497614c9f4": {
+      "type": "rich-text",
+      "blocks": {
+        "16282780497614c9f4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "THE MENS GROOMING SANCTUARY",
+            "heading_size": "h1"
+          }
+        },
+        "16282780497614c9f4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From waxed tip mustaches, to scraggly surfer cuts, to bushy beards, rest assured that the competency of our stylists will deliver any style you may desire from traditional barber haircuts, to more modern approach. We strive to better our craft everyday, priding ourselves on versatility and personalization.<br\/><br\/>We strive to make the conscious effort to implement stringent safety, hygiene, grooming and styling standards, distinguishing us from the rest of the herd and paying tribute to the centuries old tradition of barbering.<\/p>"
+          }
+        },
+        "16282780497614c9f4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK NOW",
+            "button_link": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16282780497614c9f4-0",
+        "16282780497614c9f4-1",
+        "16282780497614c9f4-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "1628803000fd1f1b3b": {
+      "type": "rich-text",
+      "blocks": {
+        "240f4bcc-ba1b-459e-95ae-032956426dcf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Services",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "240f4bcc-ba1b-459e-95ae-032956426dcf"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "1628803003e52b1a8c": {
+      "type": "multicolumn",
+      "blocks": {
+        "1628803003e52b1a8c-0": {
+          "type": "column",
+          "settings": {
+            "title": "Haircut, Scissors Cut & Skinfades",
+            "text": "<p>Tailored haircut, adapted to your morphologie<\/p><p><strong>Price<\/strong>: Starting at <strong>30$<\/strong><\/p><p><strong>Duration<\/strong>: 30 -55min<br\/><\/p>"
+          }
+        },
+        "1628803003e52b1a8c-1": {
+          "type": "column",
+          "settings": {
+            "title": "Beard Trim & Line Up",
+            "text": "<p>From the express clipper and shaver beard trim to the hot towel treatment straight blade finish<br\/><\/p><p><strong>Price<\/strong>: Starting at 25$<\/p><p><strong>Duration: <\/strong>30 min<\/p>"
+          }
+        },
+        "1628803003e52b1a8c-2": {
+          "type": "column",
+          "settings": {
+            "title": "Shaves",
+            "text": "<p>Quick express shave, classic shave, head shave<\/p><p><\/p><p><strong>Price<\/strong>: Starting at 25$<\/p><p><strong>Duration<\/strong>: 15-30 min<br\/><\/p>"
+          }
+        },
+        "7bc338ec-3e1d-43de-a7b7-06a991ac22ad": {
+          "type": "column",
+          "settings": {
+            "title": "Combos",
+            "text": "<p>Combine services and save!<\/p><p><strong>Price<\/strong>: Starting at 45$<\/p><p><strong>Duration<\/strong>: 45min - 1h15<br\/><br\/><\/p>"
+          }
+        },
+        "30329f11-6750-49aa-9467-e9b8398e388d": {
+          "type": "column",
+          "settings": {
+            "title": "Extras",
+            "text": "<p>Our add ons will get you<\/p><p><\/p><p>-&gt; Hot Towel & Straight Blade finish - 5 min - 5$<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1628803003e52b1a8c-0",
+        "1628803003e52b1a8c-1",
+        "1628803003e52b1a8c-2",
+        "7bc338ec-3e1d-43de-a7b7-06a991ac22ad",
+        "30329f11-6750-49aa-9467-e9b8398e388d"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "BOOK NOW",
+        "button_link": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109",
+        "swipe_on_mobile": false
+      }
+    },
+    "16282781904aff6db8": {
+      "type": "image-with-text",
+      "blocks": {
+        "16282781904aff6db8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "So much more than a Barbershop!"
+          }
+        },
+        "16282781904aff6db8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We are your new one stop shop for everything from a tailored haircut, hot towel shave to our wide selection of beard, hair, skincare and shaving products that will help you bring your grooming ritual to the next level.<\/p>"
+          }
+        },
+        "16282781904aff6db8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "VISIT OUR ONLINE STORE",
+            "button_link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "16282781904aff6db8-0",
+        "16282781904aff6db8-1",
+        "16282781904aff6db8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dillinger-15_1.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "1628278298baf1e149": {
+      "type": "multicolumn",
+      "blocks": {
+        "1628278298baf1e149-0": {
+          "type": "column",
+          "settings": {
+            "title": "Hugo",
+            "text": "<p>Très bon service et produits, staff super sympa !<\/p>"
+          }
+        },
+        "1628278298baf1e149-1": {
+          "type": "column",
+          "settings": {
+            "title": "Francis Riel",
+            "text": "<p>Très bonne expérience, beaucoup de produit très intéressant.<\/p>"
+          }
+        },
+        "1628278298baf1e149-2": {
+          "type": "column",
+          "settings": {
+            "title": "David Brebant",
+            "text": "<p>Toujours un excellent service. Que ce soit la barbe, les cheveux ou pour les enfants, le travail est impeccable.<br\/>Ambiance +++<br\/><\/p>"
+          }
+        },
+        "89f9391e-a13d-475c-bcdb-7e8fccbc4a3a": {
+          "type": "column",
+          "settings": {
+            "title": "Nancy V.",
+            "text": "<p>Les gars sont très sympas et très professionnel, j'adore ma coupe pour la première fois de ma vie 😀<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1628278298baf1e149-0",
+        "1628278298baf1e149-1",
+        "1628278298baf1e149-2",
+        "89f9391e-a13d-475c-bcdb-7e8fccbc4a3a"
+      ],
+      "settings": {
+        "title": "SEE WHAT PEOPLE ARE SAYING!",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1628803052f8535be1": {
+      "type": "image-with-text",
+      "blocks": {
+        "1628803052f8535be1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Le personnel est super, ambiance #1. Plus que satisfait de ma coupe de cheveux et barbe.<\/p><p>La boutique est génial et à beacoup de produits québécois, quoi demande de plus 😎😜\"<br\/>⭐️⭐️⭐️⭐️⭐️<br\/><strong>Sébastien G.<\/strong><\/p><p><\/p><p><strong>\"<\/strong>Le Dillinger's c'est comme un Toyz-r-us pour boyz\"<br\/>⭐️⭐️⭐️⭐️⭐️<br\/><strong>Le roi de la sauce<\/strong><br\/><\/p><p><strong><br\/><\/strong><br\/><\/p>"
+          }
+        },
+        "1628803052f8535be1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK NOW",
+            "button_link": "https:\/\/login.meevo.com\/dillingers\/ob?locationId=301109"
+          }
+        }
+      },
+      "block_order": [
+        "1628803052f8535be1-1",
+        "1628803052f8535be1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DLGR-HiRes-900_1.jpg",
+        "height": "small",
+        "color_scheme": "accent-1",
+        "layout": "image_first"
+      }
+    },
+    "16346740645f881ea6": {
+      "type": "rich-text",
+      "blocks": {
+        "16346740645f881ea6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OUR TEAM",
+            "heading_size": "h1"
+          }
+        },
+        "16346740645f881ea6-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16346740645f881ea6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16346740645f881ea6-0",
+        "16346740645f881ea6-1",
+        "16346740645f881ea6-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "16346721612f2293e8": {
+      "type": "image-with-text",
+      "blocks": {
+        "16346721612f2293e8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "JAY-B"
+          }
+        },
+        "16346721612f2293e8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br\/><strong>Co-Owner for Dillinger's Boutique & Barber, Jay-B's barbering skills have been literally downloaded from the matrix. From straight blade shave that will leave your face smooth has a babies ass to old school pompadour's & sideparts, his attention to details and extensive product knowledge will help you get the look you need to set you apart from the crowd!<\/strong><br\/><\/p>"
+          }
+        },
+        "16346721612f2293e8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK WITH JAYB NOW",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16346721612f2293e8-0",
+        "16346721612f2293e8-1",
+        "16346721612f2293e8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Photo_34.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
+    "163467226132f6acef": {
+      "type": "image-with-text",
+      "blocks": {
+        "163467226132f6acef-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "DANNY"
+          }
+        },
+        "163467226132f6acef-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br\/><strong>Latest addition to the family, Danny joined us after barbering school and went through all the challenges that newbies have to endure to prove to us they are strong enough to be part of our team. After many months behind the chair, he's recently been upgraded to our level 2 pricing and is on his way to the top!<\/strong><br\/><\/p>"
+          }
+        },
+        "163467226132f6acef-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK WITH DANNY",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163467226132f6acef-0",
+        "163467226132f6acef-1",
+        "163467226132f6acef-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Photo_35.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "text_first"
+      }
+    },
+    "1628804250dd5b25a2": {
+      "type": "newsletter",
+      "blocks": {
+        "1628804250dd5b25a2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join the HAIR MILES CLUB"
+          }
+        },
+        "1628804250dd5b25a2-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "1628804250dd5b25a2-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1628804250dd5b25a2-0",
+        "1628804250dd5b25a2-1",
+        "1628804250dd5b25a2-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1628278188a3a19b75",
+    "16282780497614c9f4",
+    "1628803000fd1f1b3b",
+    "1628803003e52b1a8c",
+    "16282781904aff6db8",
+    "1628278298baf1e149",
+    "1628803052f8535be1",
+    "16346740645f881ea6",
+    "16346721612f2293e8",
+    "163467226132f6acef",
+    "1628804250dd5b25a2"
+  ]
+}
