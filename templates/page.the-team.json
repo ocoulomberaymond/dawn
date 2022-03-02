@@ -1,7 +1,80 @@
 {
   "sections": {
+    "16346740645f881ea6": {
+      "type": "rich-text",
+      "blocks": {
+        "16346740645f881ea6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "OUR TEAM",
+            "heading_size": "h1"
+          }
+        },
+        "16346740645f881ea6-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16346740645f881ea6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16346740645f881ea6-0",
+        "16346740645f881ea6-1",
+        "16346740645f881ea6-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "16346721612f2293e8": {
+      "type": "image-with-text",
+      "blocks": {
+        "16346721612f2293e8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "JAY-B"
+          }
+        },
+        "16346721612f2293e8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br\/><strong>Co-Owner for Dillinger's Boutique & Barber, Jay-B's barbering skills have been literally downloaded from the matrix. From straight blade shave that will leave your face smooth has a babies ass to old school pompadour's & sideparts, his attention to details and extensive product knowledge will help you get the look you need to set you apart from the crowd!<\/strong><br\/><\/p>"
+          }
+        },
+        "16346721612f2293e8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK WITH JAYB NOW",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16346721612f2293e8-0",
+        "16346721612f2293e8-1",
+        "16346721612f2293e8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Photo_34.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
       }
     },
@@ -14,6 +87,76 @@
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "description": "Video presentation of dillingers barbershop",
         "full_width": false
+      }
+    },
+    "163467226132f6acef": {
+      "type": "image-with-text",
+      "blocks": {
+        "163467226132f6acef-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "DANNY"
+          }
+        },
+        "163467226132f6acef-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br\/><strong>Latest addition to the family, Danny joined us after barbering school and went through all the challenges that newbies have to endure to prove to us they are strong enough to be part of our team. After many months behind the chair, he's recently been upgraded to our level 2 pricing and is on his way to the top!<\/strong><br\/><\/p>"
+          }
+        },
+        "163467226132f6acef-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK WITH DANNY",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163467226132f6acef-0",
+        "163467226132f6acef-1",
+        "163467226132f6acef-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Photo_35.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "text_first"
+      }
+    },
+    "164623349352e4aa75": {
+      "type": "image-with-text",
+      "blocks": {
+        "16462334932f9653ed-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ronald Kilts"
+          }
+        },
+        "16462334932f9653ed-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ron is a licensed cosmetologist for over 20 years with exhaustive long haircut knowledge and you guessed it, a master of beard trims!<\/p><p>Born in Scotland, raised in Germany, retired from the U.S military where he owned multiple salons and barbershops, Ron will keep you entertained and make you look your best!<\/p>"
+          }
+        },
+        "16462334932f9653ed-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK WITH RON",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16462334932f9653ed-0",
+        "16462334932f9653ed-1",
+        "16462334932f9653ed-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Photo_39.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
       }
     },
     "16282780497614c9f4": {
@@ -239,113 +382,6 @@
         "layout": "image_first"
       }
     },
-    "16346740645f881ea6": {
-      "type": "rich-text",
-      "blocks": {
-        "16346740645f881ea6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "OUR TEAM",
-            "heading_size": "h1"
-          }
-        },
-        "16346740645f881ea6-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "16346740645f881ea6-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "16346740645f881ea6-0",
-        "16346740645f881ea6-1",
-        "16346740645f881ea6-2"
-      ],
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": true
-      }
-    },
-    "16346721612f2293e8": {
-      "type": "image-with-text",
-      "blocks": {
-        "16346721612f2293e8-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "JAY-B"
-          }
-        },
-        "16346721612f2293e8-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><br\/><strong>Co-Owner for Dillinger's Boutique & Barber, Jay-B's barbering skills have been literally downloaded from the matrix. From straight blade shave that will leave your face smooth has a babies ass to old school pompadour's & sideparts, his attention to details and extensive product knowledge will help you get the look you need to set you apart from the crowd!<\/strong><br\/><\/p>"
-          }
-        },
-        "16346721612f2293e8-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "BOOK WITH JAYB NOW",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16346721612f2293e8-0",
-        "16346721612f2293e8-1",
-        "16346721612f2293e8-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Square_Photo_34.png",
-        "height": "adapt",
-        "color_scheme": "inverse",
-        "layout": "image_first"
-      }
-    },
-    "163467226132f6acef": {
-      "type": "image-with-text",
-      "blocks": {
-        "163467226132f6acef-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "DANNY"
-          }
-        },
-        "163467226132f6acef-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><br\/><strong>Latest addition to the family, Danny joined us after barbering school and went through all the challenges that newbies have to endure to prove to us they are strong enough to be part of our team. After many months behind the chair, he's recently been upgraded to our level 2 pricing and is on his way to the top!<\/strong><br\/><\/p>"
-          }
-        },
-        "163467226132f6acef-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "BOOK WITH DANNY",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "163467226132f6acef-0",
-        "163467226132f6acef-1",
-        "163467226132f6acef-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Square_Photo_35.png",
-        "height": "adapt",
-        "color_scheme": "inverse",
-        "layout": "text_first"
-      }
-    },
     "1628804250dd5b25a2": {
       "type": "newsletter",
       "blocks": {
@@ -379,17 +415,18 @@
     }
   },
   "order": [
+    "16346740645f881ea6",
+    "16346721612f2293e8",
     "main",
     "1628278188a3a19b75",
+    "163467226132f6acef",
+    "164623349352e4aa75",
     "16282780497614c9f4",
     "1628803000fd1f1b3b",
     "1628803003e52b1a8c",
     "16282781904aff6db8",
     "1628278298baf1e149",
     "1628803052f8535be1",
-    "16346740645f881ea6",
-    "16346721612f2293e8",
-    "163467226132f6acef",
     "1628804250dd5b25a2"
   ]
 }
