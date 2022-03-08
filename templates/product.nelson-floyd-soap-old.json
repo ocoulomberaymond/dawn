@@ -222,7 +222,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/beeswax.jpg",
             "title": "Beeswax",
-            "text": "<p>Help moisturize, smoothe flyaways and maintain the shape of your beard. <\/p>"
+            "text": "<p>Used in very small amount to make soap harder and longer lasting.<\/p>"
           }
         },
         "16439075811b954e10-1": {
@@ -411,6 +411,75 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "1646769544ce6269d4": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "16467695445678baf2-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "16467695445678baf2-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "16467695445678baf2-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16467695445678baf2-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16467695445678baf2-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16467695445678baf2-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16467695445678baf2-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16467695445678baf2-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16467695445678baf2-0",
+        "16467695445678baf2-1",
+        "16467695445678baf2-2",
+        "16467695445678baf2-3",
+        "16467695445678baf2-4",
+        "16467695445678baf2-5",
+        "16467695445678baf2-6",
+        "16467695445678baf2-7"
+      ],
+      "settings": {
+        "product": "",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
     }
   },
   "order": [
@@ -421,6 +490,7 @@
     "1644002186c85921dd",
     "1645631103ed7ac15b",
     "164398193391bef5bf",
-    "product-recommendations"
+    "product-recommendations",
+    "1646769544ce6269d4"
   ]
 }
