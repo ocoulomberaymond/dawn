@@ -168,6 +168,30 @@
     "164390758276813c05": {
       "type": "multicolumn",
       "blocks": {
+        "1864a5f4-0e53-40ed-9236-ef9897724222": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/olive-oil__79818.1586289416.jpg",
+            "title": "Olive Oil",
+            "text": "<p>Used in soap fabrication for centuries, olive oil is the perfect skin moisturizer and so lite on the skin that it can be used on babies!<\/p>"
+          }
+        },
+        "6d5f2d3d-e058-4b74-b535-4636504f6e3a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/health-benefits-of-coconut-guide-main-image-700-350-a1efd38.jpg",
+            "title": "Coconut Oil",
+            "text": "<p>Great for its cleansing properties, coconut oils and also leave a protective layer on your skin.<\/p>"
+          }
+        },
+        "c8fdb13b-3174-4419-9171-54ab43246979": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendula_marigold_480x352_ecf4f954-c217-457e-88df-df85305720c1.jpg",
+            "title": "Calendula infused oil",
+            "text": "<p>Chosed for it's antifungal, anti-inflammatory, and antibacterial properties that make it useful in <strong>healing wounds, soothing eczema, and relieving rashes<\/strong>.<\/p>"
+          }
+        },
         "36bfbbd5-eb01-40db-a345-f7740d8f3ca3": {
           "type": "column",
           "settings": {
@@ -183,6 +207,14 @@
             "image": "shopify:\/\/shop_images\/istockphoto-539365448-612x612.jpg",
             "title": "Sweet almond oil*",
             "text": "<p>Will help nourrish the skin and facial hair and provide added shine to your beard. <em>*organic<\/em><\/p>"
+          }
+        },
+        "2584eaf5-f544-4d00-bf07-5cccc2aca5ef": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_x700_70bcab56-effe-4a8f-a19d-0e10fdf709db.jpg",
+            "title": "Sodium Hydroxide",
+            "text": "<p>This is the ingredient that allow everything to bond togheter. It is neutralized in the process of saponification when the oils and fats are combined during the fabrication. <\/p>"
           }
         },
         "693bfdf3-0dbb-4ae7-8e2f-5f6bcb3bace1": {
@@ -208,41 +240,18 @@
             "title": "Juniper berry oil",
             "text": "<p>Juniper is the main ingredient used in producing Gin. Combined with je grapefruit bark oil, we get a bit of a citrus gin fragrance that is verry pleasant. It also promote blood circulation<\/p>"
           }
-        },
-        "1864a5f4-0e53-40ed-9236-ef9897724222": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/olive-oil__79818.1586289416.jpg",
-            "title": "Olive Oil",
-            "text": "<p>Used in soap fabrication for centuries, olive oil is the perfect skin moisturizer and so lite on the skin that it can be used on babies!<\/p>"
-          }
-        },
-        "c8fdb13b-3174-4419-9171-54ab43246979": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/calendula_marigold_480x352_ecf4f954-c217-457e-88df-df85305720c1.jpg",
-            "title": "Calendula infused oil",
-            "text": "<p>Chosed for it's antifungal, anti-inflammatory, and antibacterial properties that make it useful in <strong>healing wounds, soothing eczema, and relieving rashes<\/strong>.<\/p>"
-          }
-        },
-        "2584eaf5-f544-4d00-bf07-5cccc2aca5ef": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/image_x700_70bcab56-effe-4a8f-a19d-0e10fdf709db.jpg",
-            "title": "Sodium Hydroxide",
-            "text": "<p>This is the ingredient that allow everything to bond togheter. It is neutralized in the process of saponification when the oils and fats are combined during the fabrication. <\/p>"
-          }
         }
       },
       "block_order": [
+        "1864a5f4-0e53-40ed-9236-ef9897724222",
+        "6d5f2d3d-e058-4b74-b535-4636504f6e3a",
+        "c8fdb13b-3174-4419-9171-54ab43246979",
         "36bfbbd5-eb01-40db-a345-f7740d8f3ca3",
         "23bc9449-e2da-420b-8c2e-d6cf7ef0ffb5",
+        "2584eaf5-f544-4d00-bf07-5cccc2aca5ef",
         "693bfdf3-0dbb-4ae7-8e2f-5f6bcb3bace1",
         "16439075811b954e10-1",
-        "16439075811b954e10-2",
-        "1864a5f4-0e53-40ed-9236-ef9897724222",
-        "c8fdb13b-3174-4419-9171-54ab43246979",
-        "2584eaf5-f544-4d00-bf07-5cccc2aca5ef"
+        "16439075811b954e10-2"
       ],
       "settings": {
         "title": "Old Tom Beard Balm Ingredients list",
