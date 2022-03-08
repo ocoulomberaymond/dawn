@@ -499,6 +499,161 @@
         "show_vendor": false,
         "show_rating": true
       }
+    },
+    "164677687497f7fbe9": {
+      "type": "rich-text",
+      "blocks": {
+        "164677687468249c7d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why you should ditch your 8 in 1 body detergent for our natural soap?",
+            "heading_size": "h2"
+          }
+        },
+        "164677687468249c7d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Improve your overall health by choosing high-quality natural soap and body wash free of these four hormone-disrupting toxic additives. <\/p>"
+          }
+        },
+        "164677687468249c7d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "164677687468249c7d-0",
+        "164677687468249c7d-1",
+        "164677687468249c7d-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "1646776603e6adb2cd": {
+      "type": "multicolumn",
+      "blocks": {
+        "1646776603521defba-0": {
+          "type": "column",
+          "settings": {
+            "title": "Parabens",
+            "text": "<p>These ingredients are estrogen mimickers—meaning that once applied to the skin, they enter the bloodstream, and the body mistakes them for estrogen. When the body thinks there is an abnormally high amount of estrogen present in the bloodstream due to the presence of these hormone disrupters, it reacts in various ways: decreasing muscle mass, increasing fat deposits, causing early onset of puberty and spurring reproductive difficulties in both men and women. <\/p>"
+          }
+        },
+        "1646776603521defba-1": {
+          "type": "column",
+          "settings": {
+            "title": "Sulfates",
+            "text": "<p>These chemicals are used to produce lather and bubbles in soap. Some common sulfates are SLS (sodium lauryl sulfate) and SLES (sodium laureth sulfate). Sulfates strip the skin of its natural oils and increase penetration of the skin’s surface. They are also irritants for people with sensitive skin or eczema.<\/p>"
+          }
+        },
+        "1646776603521defba-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1646776603521defba-0",
+        "1646776603521defba-1",
+        "1646776603521defba-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1646776622eee3f0cf": {
+      "type": "multicolumn",
+      "blocks": {
+        "16467766228d4e3ab5-0": {
+          "type": "column",
+          "settings": {
+            "title": "Tricoslan",
+            "text": "<p> This chemical is most often found in antibacterial soap. Recent studies have found that triclosan actually promotes the emergence and growth of bacteria resistant to antibiotic cleansers. It also creates dioxin, a carcinogen that has been found in high levels in human breast milk. Dioxins have disruptive effects on the endocrine system and negatively affect thyroid functions. And here’s a fun fact: dioxin is the primary toxic component of Agent Orange!<\/p>"
+          }
+        },
+        "16467766228d4e3ab5-1": {
+          "type": "column",
+          "settings": {
+            "title": "Fragrances",
+            "text": "<p>Bottom line: If the ingredient is vague, it’s probably hiding something. “Fragrance”could actually be a cocktail of chemicals and you’d never know it. The FDA doesn’t require companies to disclose the breakdown of a fragrance’s ingredients to consumers because the chemicals that produce fragrance are considered “trade secrets.” Most of the time, synthetic chemicals and cancer-causing toxins (like phthalates, used to make fragrances last longer) are hiding under that one sneaky term. Constant exposure to fragrances has been shown to negatively impact the central nervous system and can trigger allergies, migraines and asthma symptoms.<\/p>"
+          }
+        },
+        "16467766228d4e3ab5-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "39412510-a10f-42a5-96e4-5999f2998956": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16467766228d4e3ab5-0",
+        "16467766228d4e3ab5-1",
+        "16467766228d4e3ab5-2",
+        "39412510-a10f-42a5-96e4-5999f2998956"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1646777085d7a226d0": {
+      "type": "rich-text",
+      "blocks": {
+        "16467770856c041075-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The time is now!!!",
+            "heading_size": "h1"
+          }
+        },
+        "16467770856c041075-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>So take the leap now and join thousands of mens that have made the switch to natural soap! Women's will love you, your body will ask for more and the environnement will thank you!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16467770856c041075-0",
+        "16467770856c041075-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -510,6 +665,10 @@
     "1645631103ed7ac15b",
     "164398193391bef5bf",
     "product-recommendations",
-    "16467708824b3f450b"
+    "16467708824b3f450b",
+    "164677687497f7fbe9",
+    "1646776603e6adb2cd",
+    "1646776622eee3f0cf",
+    "1646777085d7a226d0"
   ]
 }
