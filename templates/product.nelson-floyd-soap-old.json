@@ -60,7 +60,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Description",
-            "content": "<p>Created and developed by Dillinger’s barbers to provide moisture to your skin, prevent beard dandruff and add a pleasant and invigorating fragrance of grapefruit & juniper<\/p><p><strong>-100% natural carriers and essential oils<\/strong><\/p><p><strong>-No chemical fragrances<\/strong><\/p><p><strong>-Made in Canada<\/strong><\/p><p><strong>-Barbershop grade<\/strong><\/p><p>-Size 30ml<\/p>",
+            "content": "<p>Created and developed by Dillinger’s barbers, this soap will clean your body and your beard without drying your skin and whiskers!<\/p><p><strong>-100% natural carriers and essential oils<\/strong><\/p><p><strong>-No chemical fragrances<\/strong><\/p><p><strong>-Made in Canada<\/strong><\/p><p><strong>-Size 5oz<\/strong><\/p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -68,10 +68,10 @@
         "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Specifications",
-            "content": "<p>Developed by Dillinger's boutique & barbershop grooming experts in collaboration with Educated beards the first fragrance of our Nelson & Floyd Grooming co brand is based on a fresh citrusy gin.<\/p><p>We named this fragrance  <strong>Old Tom<\/strong> in memory of an ancient gin type that was considered the ''missing link'' between the dutch genever and the london dry. Made from <strong>100% natural carrier oils and essential oils<\/strong>, this grapefruit bark & juniper fragrance is fresh, not overpowering and will certainly help to wake up your senses on a rough morning!<\/p><p>Shine: Medium<\/p><p>Fragrance: Grapefruit & Juniper<\/p>",
+            "heading": "Fragrance",
+            "content": "<p><strong>Juniper & Grapefruit<\/strong><\/p><p>We named this fragrance  <strong>Old Tom<\/strong> in memory of an ancient gin type that was considered the ''missing link'' between the dutch genever and the london dry. <\/p><p>The juniper gives it a ''gin like'' touch while the grapefruit envigorate your senses!<\/p><p><em><strong>A serious dose of morning freshness that men AND womens will enjoy<\/strong><\/em><\/p>",
             "page": "",
-            "icon": "check_mark"
+            "icon": "leaf"
           }
         },
         "share": {
@@ -254,8 +254,8 @@
         "16439075811b954e10-2"
       ],
       "settings": {
-        "title": "Old Tom Beard Balm Ingredients list",
-        "image_width": "half",
+        "title": "Old Tom Soap Ingredients",
+        "image_width": "third",
         "image_ratio": "square",
         "column_alignment": "center",
         "background_style": "secondary",
