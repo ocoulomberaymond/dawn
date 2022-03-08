@@ -331,7 +331,7 @@
         "1644002186d2b9b50c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Developed by Dillinger's boutique & barber shop grooming experts in collaboration with Educated beards, the first trio of products of our house brand Nelson & Floyd Grooming Co has been made available to the public in june 2021.<\/p><p>Our mission is to offer professional grade products that are developed based not only on the feedback we get from our customers but also from our extensive knowledge, expertise of professional barbers & grooming experts of our growing grooming enthusiast clientele.<\/p>"
+            "text": "<p>Developed by Dillinger's boutique & barber shop grooming experts in collaboration with savonnerie des Dilligences. We combined our grooming expertise with their 15+ years of natural soap making experience to bring to the market <\/p><p>Our mission is to offer professional grade products that are developed based not only on the feedback we get from our customers but also from our extensive knowledge, expertise of professional barbers & grooming experts of our growing grooming enthusiast clientele.<\/p>"
           }
         },
         "1644002186d2b9b50c-2": {
@@ -391,6 +391,7 @@
     },
     "164398193391bef5bf": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "DO YOU NEED A BEARD OIL OR A BEARD BALM?",
         "cover_image": "shopify:\/\/shop_images\/YouTube_Thumbnail_6.png",
