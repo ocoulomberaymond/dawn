@@ -106,7 +106,7 @@
           {%- when 'description' -%}
             {%- if product.description != blank -%}
               <div class="product__description rte">
-                {{ product.description }}
+                {% render 'product-description-slider', product: product %}
               </div>
 
             {%- endif -%}
