@@ -247,6 +247,7 @@
         },
         "82dece00-a5a1-4cd5-98c5-1b83608b75c2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/balsam_fir_480x352_587a9ec1-dea2-4069-bccb-82dc33725c3d.jpg",
             "title": "Balsam Fir Oil",
@@ -255,6 +256,7 @@
         },
         "b1081bd1-7b36-4f75-b408-a5f051f3ffc1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/spruce_branch_480x320_acc0da1e-cc3b-45a2-b215-2c455b23c8a4.jpg",
             "title": "Black Spruce",
@@ -263,10 +265,43 @@
         },
         "602335e0-baf2-45f6-98ce-d9a30fe29b34": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/lump-charcoal.png",
             "title": "Charcoal",
             "text": "<p>Absorb toxins, which is why activated charcoal in soap <strong>binds to dirt and oil on the skin and helps clear out pores<\/strong>.<\/p>"
+          }
+        },
+        "0f69f356-2ab8-4bbc-8570-d969ddf78e7f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/il_794xN.1158431590_aea8.jpg",
+            "title": "Patchouli Oil",
+            "text": "<p>It's aroma is warm, spicy, musky and earthy. It's other properties include anti-biotic, anti-depressant, anti-infectious, anti-inflammatory, anti-fungal, anti-microbial, anti-septic, anti-viral, astringent, bactericidal and deodorizing properties.<\/p>"
+          }
+        },
+        "7f1f21e7-e049-4df8-bd15-7e83e31af69f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sage.png",
+            "title": "Sage Oil",
+            "text": "<p>Add a warm and herbaceous scent to our soap. Sage Essential Oil is known to stimulate and clarify the mind while exhibiting a balancing, uplifting, soothing, and strengthening effect on the senses to ease negative moods.<\/p>"
+          }
+        },
+        "d3dba182-2f2c-437b-83d8-f80888f26e77": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/anise_star_480x320_a0aa5f1f-baa2-449f-bd55-ab8fe41e5870.jpg",
+            "title": "Stan Anise Oil",
+            "text": "<p>Star anise essential oil offers a wide range of health benefits, including <strong>promoting healthy skin, supporting respiratory health, boosting immune system function, maintaining healthy digestion, fighting fungal infections, and improving sleep quality<\/strong>.<\/p>"
+          }
+        },
+        "a67910f4-4292-431c-ad25-ec4aacdb3147": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-501597744-170667a.jpg",
+            "title": "Coffee Scrub",
+            "text": "<p>This soap contains added crushed coffee grains. This natural exfoliant will remove dead skin and debris and will smooth, and soften the skin naturally.<\/p>"
           }
         }
       },
@@ -282,7 +317,11 @@
         "16439075811b954e10-2",
         "82dece00-a5a1-4cd5-98c5-1b83608b75c2",
         "b1081bd1-7b36-4f75-b408-a5f051f3ffc1",
-        "602335e0-baf2-45f6-98ce-d9a30fe29b34"
+        "602335e0-baf2-45f6-98ce-d9a30fe29b34",
+        "0f69f356-2ab8-4bbc-8570-d969ddf78e7f",
+        "7f1f21e7-e049-4df8-bd15-7e83e31af69f",
+        "d3dba182-2f2c-437b-83d8-f80888f26e77",
+        "a67910f4-4292-431c-ad25-ec4aacdb3147"
       ],
       "settings": {
         "title": "Spruce Soap Ingredients",
