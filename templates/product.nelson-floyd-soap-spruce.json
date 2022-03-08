@@ -69,7 +69,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Fragrance",
-            "content": "<p><strong>Juniper & Grapefruit<\/strong><\/p><p>We named this fragrance  <strong>Old Tom<\/strong> in memory of an ancient gin type that was considered the ''missing link'' between the dutch genever and the london dry. <\/p><p>The juniper gives it a ''gin like'' touch while the grapefruit envigorate your senses!<\/p><p><em><strong>A serious dose of morning freshness that men AND womens will enjoy<\/strong><\/em><\/p>",
+            "content": "<p><strong>Balsam Fir & Black Spruce<\/strong><\/p><p>Blend a freshly cut xmas three with a bottle of spruce beer, sprinkle some charcoal in the mix!<\/p>",
             "page": "",
             "icon": "leaf"
           }
@@ -186,6 +186,7 @@
         },
         "c8fdb13b-3174-4419-9171-54ab43246979": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/calendula_marigold_480x352_ecf4f954-c217-457e-88df-df85305720c1.jpg",
             "title": "Calendula infused oil",
@@ -194,6 +195,7 @@
         },
         "36bfbbd5-eb01-40db-a345-f7740d8f3ca3": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/burro-di-karite.jpeg.pagespeed.ce.0632cS99cK.jpg",
             "title": "Shea butter*",
@@ -258,6 +260,14 @@
             "title": "Black Spruce",
             "text": "<p>Spruce Black Essential Oil has a very pleasant scent, and can be used by aromatherapists in baths to revive tired muscles.<\/p>"
           }
+        },
+        "602335e0-baf2-45f6-98ce-d9a30fe29b34": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lump-charcoal.png",
+            "title": "Charcoal",
+            "text": "<p>Absorb toxins, which is why activated charcoal in soap <strong>binds to dirt and oil on the skin and helps clear out pores<\/strong>.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -271,10 +281,11 @@
         "16439075811b954e10-1",
         "16439075811b954e10-2",
         "82dece00-a5a1-4cd5-98c5-1b83608b75c2",
-        "b1081bd1-7b36-4f75-b408-a5f051f3ffc1"
+        "b1081bd1-7b36-4f75-b408-a5f051f3ffc1",
+        "602335e0-baf2-45f6-98ce-d9a30fe29b34"
       ],
       "settings": {
-        "title": "Old Tom Soap Ingredients",
+        "title": "Spruce Soap Ingredients",
         "image_width": "third",
         "image_ratio": "square",
         "column_alignment": "center",
