@@ -60,7 +60,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Description",
-            "content": "<p>Created and developed by Dillinger’s barbers, this soap will clean your body and your beard without drying your skin and whiskers!<\/p><p><strong>-100% natural carriers and essential oils<\/strong><\/p><p><strong>-No chemical fragrances<\/strong><\/p><p><strong>-Made in Canada<\/strong><\/p><p><strong>-Size 5oz<\/strong><\/p>",
+            "content": "<p>Created and developed by Dillinger’s barbers, this soap will clean your body and your beard without drying your skin and whiskers!<\/p><p><strong>- Contains coffee scrub<\/strong><\/p><p><strong>-100% natural carriers and essential oils<\/strong><\/p><p><strong>-No chemical fragrances<\/strong><\/p><p><strong>-Made in Canada<\/strong><\/p><p><strong>-Size 5oz<\/strong><\/p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -69,7 +69,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Fragrance",
-            "content": "<p><strong>Balsam Fir & Black Spruce<\/strong><\/p><p>Blend a freshly cut xmas three with a bottle of spruce beer, sprinkle some charcoal in the mix!<\/p>",
+            "content": "<p><strong>Sage, Patchouli & Star Anis + <\/strong><em>coffee scrub<\/em><\/p><p>This fragrance will remind you of the famous Sambuca Flambé shooter with a grain of coffee!<\/p><p><\/p>",
             "page": "",
             "icon": "leaf"
           }
