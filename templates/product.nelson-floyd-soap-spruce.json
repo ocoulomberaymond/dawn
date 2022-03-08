@@ -227,6 +227,7 @@
         },
         "16439075811b954e10-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/grapefruit_760d5a3f-0e30-42d4-8b63-1dc039de6133.jpg",
             "title": "Grapefruit bark oil",
@@ -235,10 +236,27 @@
         },
         "16439075811b954e10-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/spice-juniper-berries-2.jpg",
             "title": "Juniper berry oil",
             "text": "<p>Juniper is the main ingredient used in producing Gin. Combined with je grapefruit bark oil, we get a bit of a citrus gin fragrance that is verry pleasant. It also promote blood circulation<\/p>"
+          }
+        },
+        "82dece00-a5a1-4cd5-98c5-1b83608b75c2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/balsam_fir_480x352_587a9ec1-dea2-4069-bccb-82dc33725c3d.jpg",
+            "title": "Balsam Fir Oil",
+            "text": "<p>Excellent to releive stress and has excellent relaxing properties<\/p>"
+          }
+        },
+        "b1081bd1-7b36-4f75-b408-a5f051f3ffc1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spruce_branch_480x320_acc0da1e-cc3b-45a2-b215-2c455b23c8a4.jpg",
+            "title": "Black Spruce",
+            "text": "<p>Spruce Black Essential Oil has a very pleasant scent, and can be used by aromatherapists in baths to revive tired muscles.<\/p>"
           }
         }
       },
@@ -251,7 +269,9 @@
         "2584eaf5-f544-4d00-bf07-5cccc2aca5ef",
         "693bfdf3-0dbb-4ae7-8e2f-5f6bcb3bace1",
         "16439075811b954e10-1",
-        "16439075811b954e10-2"
+        "16439075811b954e10-2",
+        "82dece00-a5a1-4cd5-98c5-1b83608b75c2",
+        "b1081bd1-7b36-4f75-b408-a5f051f3ffc1"
       ],
       "settings": {
         "title": "Old Tom Soap Ingredients",
