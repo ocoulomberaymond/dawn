@@ -434,6 +434,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "image_ratio": "square",
@@ -512,6 +513,58 @@
         "hide_variants": false,
         "enable_video_looping": false
       }
+    },
+    "1647386621078a17d5": {
+      "type": "image-with-text",
+      "blocks": {
+        "1647386621cf7981a1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Fragrance"
+          }
+        },
+        "1647386621cf7981a1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ever wondered how it would feel like to cut your xmas three using a chainsaw while having a sip of spruce beer? <\/p><p>Well....thats how you will smell after lathering this unique soap on your precious body!<\/p>"
+          }
+        },
+        "1647386621cf7981a1-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1647386621cf7981a1-0",
+        "1647386621cf7981a1-1",
+        "1647386621cf7981a1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_99.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
+    "1647386640383046f2": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Our Soaps",
+        "collection": "nelzon-floyd-bar-soap",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
     }
   },
   "order": [
@@ -523,6 +576,8 @@
     "1645631103ed7ac15b",
     "164398193391bef5bf",
     "product-recommendations",
-    "1646769544ce6269d4"
+    "1646769544ce6269d4",
+    "1647386621078a17d5",
+    "1647386640383046f2"
   ]
 }
