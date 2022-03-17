@@ -3,6 +3,11 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "11ef5d2e-2aba-4270-80de-ecb7384bf523": {
+          "type": "rating",
+          "settings": {
+          }
+        },
         "vendor": {
           "type": "text",
           "settings": {
@@ -55,15 +60,10 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "11ef5d2e-2aba-4270-80de-ecb7384bf523": {
-          "type": "rating",
-          "disabled": true,
-          "settings": {
-          }
         }
       },
       "block_order": [
+        "11ef5d2e-2aba-4270-80de-ecb7384bf523",
         "vendor",
         "title",
         "subtitle",
@@ -72,8 +72,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share",
-        "11ef5d2e-2aba-4270-80de-ecb7384bf523"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
