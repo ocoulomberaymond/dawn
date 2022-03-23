@@ -2308,3 +2308,6 @@ details-disclosure > details {
   #bundle_prod_box{
   width: auto !important;
   }
+  #bundle_prod_box .panel_with_box{
+      padding: 2em 0 !important;
+  }
