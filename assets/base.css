@@ -2305,3 +2305,6 @@ details-disclosure > details {
 .fb_iframe_widget iframe {
     position: static !important;
 }
+  #bundle_prod_box{
+  width: auto !important;
+  }
