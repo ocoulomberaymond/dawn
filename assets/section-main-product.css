@@ -808,7 +808,7 @@ a.product__text {
 }
 @media screen and (min-width: 750px){
   .product__media-item.grid__item.slider__slide{
-  max-width: 65%;
+  max-width: 80%;
     margin: auto;
   }
 }
