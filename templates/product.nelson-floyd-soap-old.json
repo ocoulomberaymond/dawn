@@ -97,6 +97,8 @@
         "share"
       ],
       "settings": {
+        "title_desksize": 27,
+        "title_mobsize": 18,
         "enable_sticky_info": true,
         "hide_variants": false,
         "enable_video_looping": false
