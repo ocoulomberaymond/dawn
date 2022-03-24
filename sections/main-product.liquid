@@ -87,11 +87,11 @@
       
         <style>
           .product__info-wrapper .product__title{
-          font-size:{{ block.settings.title_mobsize}}px ;
+          font-size:{{ section.settings.title_mobsize}}px ;
           }
           @media screen and (min-width: 750px){
           .product__info-wrapper .product__title{
-          font-size:{{ block.settings.title_desksize}}px ;
+          font-size:{{ section.settings.title_desksize}}px ;
           }
           }
         </style>
@@ -580,29 +580,7 @@
     {
       "type": "title",
       "name": "t:sections.main-product.blocks.title.name",
-      "limit": 1,
-  "settings":[
-  {
-        "default": 24,
-        "id": "title_desksize",
-        "label": "product title size desktop",
-        "max": 40,
-        "min": 0,
-        "step": 1,
-        "type": "range",
-        "unit": "px"
-      },
-   {
-        "default": 18,
-        "id": "title_mobsize",
-        "label": "product title size mobile",
-        "max": 30,
-        "min": 0,
-        "step": 1,
-        "type": "range",
-        "unit": "px"
-      }
-  ]
+      "limit": 1
     },
     {
       "type": "price",
@@ -846,7 +824,27 @@
     }
   ],
   "settings": [
-    {
+   {
+        "default": 24,
+        "id": "title_desksize",
+        "label": "product title size desktop",
+        "max": 40,
+        "min": 0,
+        "step": 1,
+        "type": "range",
+        "unit": "px"
+      },
+   {
+        "default": 18,
+        "id": "title_mobsize",
+        "label": "product title size mobile",
+        "max": 30,
+        "min": 0,
+        "step": 1,
+        "type": "range",
+        "unit": "px"
+      },  
+  {
       "type": "checkbox",
       "id": "enable_sticky_info",
       "default": true,
