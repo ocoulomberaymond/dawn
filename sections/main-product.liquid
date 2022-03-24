@@ -83,6 +83,20 @@
             <h1 class="product__title" {{ block.shopify_attributes }}>
               {{ product.title | escape }}
             </h1>
+        
+      
+        <style>
+          .product__info-wrapper.product__title{
+          font-size:{{ block.settings.title_mobsize}}px;
+          }
+          @media screen and (min-width: 750px){
+          .product__info-wrapper.product__title{
+          font-size:{{ block.settings.title_desksize}}px;
+          }
+          }
+        </style>
+       
+        
           {%- when 'price' -%}
             <div class="no-js-hidden" id="price-{{ section.id }}" {{ block.shopify_attributes }}>
               {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price--large' -%}
@@ -566,7 +580,29 @@
     {
       "type": "title",
       "name": "t:sections.main-product.blocks.title.name",
-      "limit": 1
+      "limit": 1,
+  "settings":[
+  {
+        "default": 24,
+        "id": "title_desksize",
+        "label": "product title size desktop",
+        "max": 40,
+        "min": 0,
+        "step": 1,
+        "type": "range",
+        "unit": "px"
+      },
+   {
+        "default": 18,
+        "id": "title_mobsize",
+        "label": "product title size mobile",
+        "max": 30,
+        "min": 0,
+        "step": 1,
+        "type": "range",
+        "unit": "px"
+      }
+  ]
     },
     {
       "type": "price",
