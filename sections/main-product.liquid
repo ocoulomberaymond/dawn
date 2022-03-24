@@ -82,21 +82,7 @@
           {%- when 'title' -%}
             <h1 class="product__title" {{ block.shopify_attributes }}>
               {{ product.title | escape }}
-            </h1>
-        
-      
-        <style>
-          .product__info-wrapper .product__title{
-          font-size:{{ section.settings.title_mobsize}}px ;
-          }
-          @media screen and (min-width: 750px){
-          .product__info-wrapper .product__title{
-          font-size:{{ section.settings.title_desksize}}px ;
-          }
-          }
-        </style>
-       
-        
+            </h1>  
           {%- when 'price' -%}
             <div class="no-js-hidden" id="price-{{ section.id }}" {{ block.shopify_attributes }}>
               {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price--large' -%}
@@ -535,7 +521,16 @@
     ]
   }
 </script>
-
+  <style>
+          .product__info-wrapper .product__title{
+          font-size:{{ section.settings.title_mobsize}}px ;
+          }
+          @media screen and (min-width: 750px){
+          .product__info-wrapper .product__title{
+          font-size:{{ section.settings.title_desksize}}px ;
+          }
+          }
+        </style>
 {% schema %}
 {
   "name": "t:sections.main-product.name",
