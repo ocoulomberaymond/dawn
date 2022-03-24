@@ -90,6 +90,26 @@
         "info": "t:settings_schema.typography.settings.type_body_font.info",
         "label": "t:settings_schema.typography.settings.type_body_font.label",
         "type": "font_picker"
+      },
+      {
+        "default": 24,
+        "id": "title_desksize",
+        "label": "product title size desktop",
+        "max": 40,
+        "min": 0,
+        "step": 1,
+        "type": "range",
+        "unit": "px"
+      },
+      {
+        "default": 18,
+        "id": "title_mobsize",
+        "label": "product title size mobile",
+        "max": 30,
+        "min": 0,
+        "step": 1,
+        "type": "range",
+        "unit": "px"
       }
     ]
   },
