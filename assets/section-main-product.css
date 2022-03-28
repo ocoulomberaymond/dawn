@@ -826,3 +826,16 @@ a.product__text {
     width: calc(50% - 0.5rem);
 }
   }
+  @media screen and (max-width: 550px){
+  .product__info-wrapper .product__title{
+      margin-top: 0;
+        margin-bottom: 6px;
+  }
+    .product__info-container>*+*{
+        margin-top: 0;
+    margin-bottom: 10px;
+    }
+    .product__info-container .product-form{
+        margin-top: 10px;
+    }
+  }
