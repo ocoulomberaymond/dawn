@@ -839,3 +839,12 @@ a.product__text {
         margin-top: 10px;
     }
   }
+  @media screen and (max-width: 1140px){
+#bundle_prod_box .flex_row {
+    flex-direction: row;
+}
+  }
+  #bundle_prod_box .prod_panel {
+  
+    min-width: 25%;
+}
