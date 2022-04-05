@@ -130,7 +130,15 @@
     left: auto !important;
     right: {{ settings.language_switcher_spacing_right }}px !important;
   }
-
+@media screen and (max-width: 550px) {
+.translation-lab-language-switcher.bottom-right {
+    position: fixed !important;
+    top: 20% !important;
+    bottom: auto !important;
+    left: auto !important;
+    right: 1px !important;
+}
+}
   {% if settings.language_switcher_custom_css != blank -%}
   {{- settings.language_switcher_custom_css -}}
   {%- endif %}
