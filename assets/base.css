@@ -2312,3 +2312,7 @@ details-disclosure > details {
       padding: 2em 0 !important;
     box-shadow: none !important;
   }
+  
+  .search-modal.modal__content{
+    z-index:99999;
+  }
