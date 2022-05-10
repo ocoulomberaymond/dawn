@@ -51,7 +51,6 @@
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         },
@@ -59,6 +58,13 @@
           "type": "share",
           "settings": {
             "share_label": "Share"
+          }
+        },
+        "843f862e-808e-4007-9573-f9de958138bf": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": ""
           }
         }
       },
@@ -72,7 +78,8 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "843f862e-808e-4007-9573-f9de958138bf"
       ],
       "settings": {
         "enable_sticky_info": true,
