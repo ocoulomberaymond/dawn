@@ -66,20 +66,20 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "BEGINNER STARTER KIT"
+            "heading": "MAKE HIM SWITCH TO NATURAL SOAP!"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Just Starting? Start with our begginer kit.<br\/>A complete bundle that comes with all the essentials to start growing your beard and maintaining it like a professional.<br\/><\/p>"
+            "text": "<p>Father's day is around the corner and it's the perfect occasion to offer him something <strong>unique<\/strong> that will not only make him feel better but also help <strong>save the planet<\/strong> at the same time!<br\/><\/p>"
           }
         },
         "button": {
           "type": "button",
           "settings": {
-            "button_label": "GET STARTED",
-            "button_link": "shopify:\/\/products\/nelson-floyd-kit"
+            "button_label": "MORE INFO",
+            "button_link": "shopify:\/\/products\/nelson-floyd-soap-bar-spruce"
           }
         }
       },
@@ -89,7 +89,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_-_2020-06-07T160213.096.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-05-02T182340.500.png",
         "height": "adapt",
         "color_scheme": "accent-1",
         "layout": "image_first"
@@ -101,13 +101,13 @@
         "1628276279d0771e33-0": {
           "type": "heading",
           "settings": {
-            "heading": "BEARD PRODUCTS"
+            "heading": "OUR BRAND"
           }
         },
         "1628276279d0771e33-1": {
           "type": "text",
           "settings": {
-            "text": "<p>From beard oils to board hair brushes, we got the widest selection of beard care products in town! Need advices? Our barbers will be happy to help you find the perfect product combination to make your beard stand out from the crowd!<\/p>"
+            "text": "<p>All the products under the label <strong>Nelson & Floyd Grooming Co<\/strong> have been developped by our team of profesionnal barber's and grooming experts to meet the highest standards!<\/p>"
           }
         },
         "1628276279d0771e33-2": {
@@ -124,7 +124,7 @@
         "1628276279d0771e33-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/unnamed_26.jpg",
+        "image": "shopify:\/\/shop_images\/1_3479a546-205e-4925-8b69-c961309458c3.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
