@@ -47,8 +47,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "POPULAR PRODUCTS",
-        "collection": "nelson-floyd",
+        "title": "OUR FATHER'S DAY MOST POPULAR BUNDLES!",
+        "collection": "fathers-day-2022-fete-des-peres-2022",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": true,
