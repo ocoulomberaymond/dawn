@@ -104,12 +104,16 @@
               {%- endform -%}
             </div>
           {%- when 'description' -%}
+        {{ product.description }}
+        
+        {%- comment -%}
             {%- if product.description != blank -%}
               <div class="product__description rte">
                 {% render 'product-description-slider', product: product %}
               </div>
-
             {%- endif -%}
+        {%- endcomment -%}
+        
           {%- when 'custom_liquid' -%}
             {{ block.settings.custom_liquid }}
           {%- when 'collapsible_tab' -%}
