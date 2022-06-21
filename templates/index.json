@@ -6,14 +6,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "The  Coolest Gifts for Dad - Starting at just $35.00",
+            "heading": "SUMMER HAS ENTERED THE BUILDING",
             "heading_size": "medium"
           }
         },
         "f2196971-6ba4-4471-8014-0b4d02dc9e8a": {
           "type": "text",
           "settings": {
-            "text": "ORDER BEFORE JUNE 9th"
+            "text": "ITS TIME FOR YOU TOO LOOK GOOD & FEEL AMAZING!"
           }
         },
         "button": {
@@ -34,7 +34,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-05-10T093050.561.png",
+        "image": "shopify:\/\/shop_images\/HD_Banner_93.png",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": true,
@@ -47,7 +47,7 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "OUR FATHER'S DAY MOST POPULAR BUNDLES!",
+        "title": "HERE'S OUR BEST SELLING PRODUCTS",
         "collection": "fathers-day-2022-fete-des-peres-2022",
         "products_to_show": 4,
         "show_view_all": true,
