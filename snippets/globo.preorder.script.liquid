@@ -49,7 +49,7 @@
     {%- for product in collection.products -%}
       {% if product.variants.size > 0 %}
         {%- unless forloop.first -%},{%- endunless -%}
-        {"id":{{-product.id-}},"title":{{-product.title | json-}},"type":{{-product.type | json-}},"handle":"{{-product.handle-}}","collections":{{-product.collections | map: 'id' | json-}},"first_available_variant":{"id":{{product.selected_or_first_available_variant.id}}},"available":{{-product.available-}},"variants":[{%- for variant in product.variants -%}{%- unless forloop.first -%},{%- endunless -%}{"id":{{-variant.id-}},"title":{{-variant.title | json-}},"price":{{-variant.price-}},"available":{{-variant.available-}},"inventory_quantity":{{-variant.inventory_quantity-}}}{%- endfor -%}]}
+        {"id":{{-product.id-}},"title":{{-product.title | json-}},"type":{{-product.type | json-}},"handle":"{{-product.handle-}}","collections":{{-product.collections | map: 'id' | json-}},"tags":{{-product.tags | json-}},"images":{{-product.images | json-}},"first_available_variant":{"id":{{product.selected_or_first_available_variant.id}}},"available":{{-product.available-}},"variants":[{%- for variant in product.variants -%}{%- unless forloop.first -%},{%- endunless -%}{"id":{{-variant.id-}},"title":{{-variant.title | json-}},"price":{{-variant.price-}},"available":{{-variant.available-}},"inventory_quantity":{{-variant.inventory_quantity-}},"image":{{-variant.image.src | json-}}}{%- endfor -%}]}
       {% endif %}
     {%- endfor -%}
   ]);
@@ -58,7 +58,7 @@
     {%- for product in search.results -%}
       {% if product.variants.size > 0 %}
         {%- unless forloop.first -%},{%- endunless -%}
-        {"id":{{-product.id-}},"title":{{-product.title | json-}},"handle":"{{-product.handle-}}","collections":{{-product.collections | map: 'id' | json-}},"first_available_variant":{"id":{{product.selected_or_first_available_variant.id}}},"available":{{-product.available-}},"variants":[{%- for variant in product.variants -%}{%- unless forloop.first -%},{%- endunless -%}{"id":{{-variant.id-}},"title":{{-variant.title | json-}},"available":{{-variant.available-}},"price":{{-variant.price-}},"inventory_quantity":{{-variant.inventory_quantity-}}}{%- endfor -%}]}
+        {"id":{{-product.id-}},"title":{{-product.title | json-}},"type":{{-product.type | json-}},"handle":"{{-product.handle-}}","collections":{{-product.collections | map: 'id' | json-}},"tags":{{-product.tags | json-}},"images":{{-product.images | json-}},"first_available_variant":{"id":{{product.selected_or_first_available_variant.id}}},"available":{{-product.available-}},"variants":[{%- for variant in product.variants -%}{%- unless forloop.first -%},{%- endunless -%}{"id":{{-variant.id-}},"title":{{-variant.title | json-}},"available":{{-variant.available-}},"price":{{-variant.price-}},"inventory_quantity":{{-variant.inventory_quantity-}},"image":{{-variant.image.src | json-}}}{%- endfor -%}]}
       {% endif %}
     {%- endfor -%}
   ]);
@@ -67,7 +67,7 @@
   window.GloboPreorderParams.products = window.GloboPreorderParams.products.concat([
     {%- for item in cart.items -%}
       {%- unless forloop.first -%},{%- endunless -%}
-      {"id":{{-item.product.id-}},"title":{{-item.product.title | json-}},"handle":"{{-item.product.handle-}}","collections":{{-item.product.collections | map: 'id' | json-}},"first_available_variant":{"id":{{item.product.selected_or_first_available_variant.id}}},"available":{{-item.product.available-}},"variants":[{%- for variant in item.product.variants -%}{%- unless forloop.first -%},{%- endunless -%}{"id":{{-variant.id-}},"title":{{-variant.title | json-}},"available":{{-variant.available-}},"price":{{-variant.price-}},"inventory_quantity":{{-variant.inventory_quantity-}}}{%- endfor -%}]}
+      {"id":{{-item.product.id-}},"title":{{-item.product.title | json-}},"type":{{-product.type | json-}},"handle":"{{-item.product.handle-}}","collections":{{-item.product.collections | map: 'id' | json-}},"tags":{{-product.tags | json-}},"images":{{-product.images | json-}},"first_available_variant":{"id":{{item.product.selected_or_first_available_variant.id}}},"available":{{-item.product.available-}},"variants":[{%- for variant in item.product.variants -%}{%- unless forloop.first -%},{%- endunless -%}{"id":{{-variant.id-}},"title":{{-variant.title | json-}},"available":{{-variant.available-}},"price":{{-variant.price-}},"inventory_quantity":{{-variant.inventory_quantity-}},"image":{{-variant.image.src | json-}}}{%- endfor -%}]}
     {%- endfor -%}
   ]);
   {% endif %}
