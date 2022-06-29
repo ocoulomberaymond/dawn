@@ -60,13 +60,14 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Description",
-            "content": "<p>Created and developed by Dillinger’s barbers, this soap will clean your body and your beard without drying your skin and whiskers!<\/p><p><strong>- Contains coffee scrub<\/strong><\/p><p><strong>-100% natural carriers and essential oils<\/strong><\/p><p><strong>-No chemical fragrances<\/strong><\/p><p><strong>-Made in Canada<\/strong><\/p><p><strong>-Size 5oz<\/strong><\/p>",
+            "content": "<p><strong>Le D-Brousse est l'outil idéal pour tailler ou tondre tous vos poils et ce jusque dans les moindres recoins de votre anatomie!<\/strong><\/p><p><strong>Un outil petit, ergonomique, à l'épreuve de l'eau et munie d'une lame en céramique spécialement ajustée pour minimiser l'irritation, les poils incarnés et les coupures!<\/strong><\/p><p><strong>Est-ce que votre poil sera taillé aussi court qu'avec un rasoir? Non! Le but est de prévenir l'irritation et les poils incarnés. Un tonte sans sabot, parallèle à la peau, vous permettra de vous départir des poils les plus coriaces sans les désagréments et les coûts et l’empreinte écologique du rasoir jetable!<\/strong><\/p>",
             "page": "",
             "icon": "check_mark"
           }
         },
         "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Fragrance",
             "content": "<p><strong>Sage, Patchouli & Star Anis + <\/strong><em>coffee scrub<\/em><\/p><p>This fragrance will remind you of the famous Sambuca Flambé shooter with a grain of coffee!<\/p><p><\/p>",
@@ -110,6 +111,7 @@
     },
     "16440019724958e8e1": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1644001972cd333b52-0": {
           "type": "column",
@@ -171,19 +173,55 @@
         "swipe_on_mobile": true
       }
     },
+    "1656466173b9e0cbe0": {
+      "type": "rich-text",
+      "blocks": {
+        "1656466173ef1eb9d2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "LE D-BROUSSE",
+            "heading_size": "h1"
+          }
+        },
+        "1656466173ef1eb9d2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Le D-Brousse est l'outil idéal pour tailler ou tondre tous vos poils et ce jusque dans les moindres recoins de votre anatomie!<\/strong><\/p><p><strong>Un outil petit, ergonomique, à l'épreuve de l'eau et munie d'une lame en céramique spécialement ajustée pour minimiser l'irritation, les poils incarnés et les coupures!<\/strong><\/p><p><strong>Est-ce que votre poil sera taillé aussi court qu'avec un rasoir? Non! Le but est de prévenir l'irritation et les poils incarnés. Un tonte sans sabot, parallèle à la peau, vous permettra de vous départir des poils les plus coriaces sans les désagréments et les coûts et l’empreinte écologique du rasoir jetable!<\/strong><\/p>"
+          }
+        },
+        "1656466173ef1eb9d2-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1656466173ef1eb9d2-0",
+        "1656466173ef1eb9d2-1",
+        "1656466173ef1eb9d2-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "1647385412b7dba3c3": {
       "type": "image-with-text",
       "blocks": {
         "1647385412746459ab-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Fragrance"
+            "heading": "Technologie Testi-Guard"
           }
         },
         "1647385412746459ab-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Do you remember that famous sambuca shooter, flambé with a grain of coffee?<\/p><p><\/p><p>This special blend will take you back in time and leave you feeling clean, fresh with a toutch of ''je ne sais quoi'' !<\/p>"
+            "text": "<p>La combinaison de lames en céramique ajustées spécialement pour prévenir l'irritation, les poils incarnés et les coupures et une rotation de 7000 tours par minute permet de minimiser les risques de coupures!<\/p><p>Pour une utilisation optimale, placez la lame parallèle à la surface et bien étirez la peau!<\/p>"
           }
         },
         "1647385412746459ab-2": {
@@ -201,7 +239,7 @@
         "1647385412746459ab-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_98_ecf3884c-9cbd-4ca8-ad8c-dbb3249ae142.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-06-28T205719.956.png",
         "height": "adapt",
         "color_scheme": "inverse",
         "layout": "image_first"
@@ -209,6 +247,7 @@
     },
     "164390758276813c05": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1864a5f4-0e53-40ed-9236-ef9897724222": {
           "type": "column",
@@ -376,6 +415,42 @@
         "swipe_on_mobile": true
       }
     },
+    "1656463261d257612b": {
+      "type": "image-with-text",
+      "blocks": {
+        "16564632617727ede3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "WATERPROOF"
+          }
+        },
+        "16564632617727ede3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Utilisez votre D-Brousse sous la douche et nettoyez le sous l'eau sans problème! 60 minutes d'utilisation après seulement 90 minutes de charge!<\/p>"
+          }
+        },
+        "16564632617727ede3-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16564632617727ede3-0",
+        "16564632617727ede3-1",
+        "16564632617727ede3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-06-28T211032.171.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "text_first"
+      }
+    },
     "1645630746bab70900": {
       "type": "multicolumn",
       "disabled": true,
@@ -428,42 +503,6 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": false
-      }
-    },
-    "164677687497f7fbe9": {
-      "type": "rich-text",
-      "blocks": {
-        "164677687468249c7d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Why you should ditch your 8 in 1 body detergent for our natural soap?",
-            "heading_size": "h2"
-          }
-        },
-        "164677687468249c7d-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Improve your overall health by choosing high-quality natural soap and body wash free of these four hormone-disrupting toxic additives. <\/p>"
-          }
-        },
-        "164677687468249c7d-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "164677687468249c7d-0",
-        "164677687468249c7d-1",
-        "164677687468249c7d-2"
-      ],
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": true
       }
     },
     "1645631103ed7ac15b": {
@@ -528,6 +567,7 @@
     },
     "1646776603e6adb2cd": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "1646776603521defba-0": {
           "type": "column",
@@ -570,6 +610,7 @@
     },
     "1646776622eee3f0cf": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "16467766228d4e3ab5-0": {
           "type": "column",
@@ -619,8 +660,81 @@
         "swipe_on_mobile": false
       }
     },
+    "1656465053e1f04712": {
+      "type": "image-with-text",
+      "blocks": {
+        "165646505357be8a12-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "De La Tête Aux Noix!"
+          }
+        },
+        "165646505357be8a12-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Votre ensemble D-Brousse comprend 4 sabots de longueur différentes! <\/strong><\/p><p><strong>Vous serez en mesure de tailler tous les endroits de votre corps à la longueur désirée et ce ...sans vous couper!<\/strong><\/p>"
+          }
+        },
+        "165646505357be8a12-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165646505357be8a12-0",
+        "165646505357be8a12-1",
+        "165646505357be8a12-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-06-28T211818.952.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
+    "164677687497f7fbe9": {
+      "type": "rich-text",
+      "blocks": {
+        "164677687468249c7d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "COMMENT UTILISER VOTRE D-BROUSSE",
+            "heading_size": "h2"
+          }
+        },
+        "164677687468249c7d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p><strong>1- Assurez-vous que votre D-Brousse est bien chargé!<\/strong><\/p><p><strong>2- Pour des raisons d'hygiène, nettoyez bien les zones à tondre afin d'éviter les risques de coupures et d'infections. Utiliser soit sous la douche ou sur une peau sèche<\/strong><\/p><p><strong>3-Passez la lame parallèle à la zone à tondre. Comme avec tout type de rasoir, plus l'angle de coupe est prononcé, plus la coupe est agressive!<\/strong><\/p><p><strong>4-Si vous rasez des endroits plus sensibles, bien tendre la peau afin d'éviter les risques de coupures<\/strong><\/p>"
+          }
+        },
+        "164677687468249c7d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "164677687468249c7d-0",
+        "164677687468249c7d-1",
+        "164677687468249c7d-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
     "1646777085d7a226d0": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "16467770856c041075-0": {
           "type": "heading",
@@ -648,8 +762,8 @@
     "16467708824b3f450b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Nelson & Floyd Product Selection",
-        "collection": "old-tom",
+        "title": "Collection de produits pour la...",
+        "collection": "below-the-belt",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": true,
@@ -663,6 +777,7 @@
     },
     "1644002186c85921dd": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "1644002186d2b9b50c-0": {
           "type": "heading",
@@ -700,15 +815,18 @@
   "order": [
     "main",
     "16440019724958e8e1",
+    "1656466173b9e0cbe0",
     "1647385412b7dba3c3",
     "164390758276813c05",
+    "1656463261d257612b",
     "1645630746bab70900",
-    "164677687497f7fbe9",
     "1645631103ed7ac15b",
     "164398193391bef5bf",
     "product-recommendations",
     "1646776603e6adb2cd",
     "1646776622eee3f0cf",
+    "1656465053e1f04712",
+    "164677687497f7fbe9",
     "1646777085d7a226d0",
     "16467708824b3f450b",
     "1644002186c85921dd"
