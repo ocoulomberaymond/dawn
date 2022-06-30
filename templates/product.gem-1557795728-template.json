@@ -1,0 +1,153 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "11ef5d2e-2aba-4270-80de-ecb7384bf523": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "843f862e-808e-4007-9573-f9de958138bf": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "11ef5d2e-2aba-4270-80de-ecb7384bf523",
+        "vendor",
+        "title",
+        "subtitle",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "share",
+        "843f862e-808e-4007-9573-f9de958138bf"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "164390758276813c05": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "16439075811b954e10-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jojoba-oil.jpg",
+            "title": "Carrier oils",
+            "text": "<p>The base of our beard oil is composed of premium jojoba seed, castor seed, and grape seed oils that were chosen for their hydrating, antiseptic and soothing properties.<\/p>"
+          }
+        },
+        "16439075811b954e10-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grapefruit_760d5a3f-0e30-42d4-8b63-1dc039de6133.jpg",
+            "title": "Grapefruit bark oil",
+            "text": "<p>We DO NOT use man made fragrances in our beard products. The grapefruit bark oil not only invigorate your senses but has antimicrobial properties and is also extremely good for your skin.<\/p>"
+          }
+        },
+        "16439075811b954e10-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spice-juniper-berries-2.jpg",
+            "title": "Juniper berry oil",
+            "text": "<p>Juniper is the main ingredient used in producing Gin. Combined with je grapefruit bark oil, we get a bit of a citrus gin fragrance that is verry pleasant. It also promote blood circulation<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16439075811b954e10-0",
+        "16439075811b954e10-1",
+        "16439075811b954e10-2"
+      ],
+      "settings": {
+        "title": "MADE WITH NATURAL INGREDIENTS ONLY! NO CHEMICALS, NO B.S!",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "164390758276813c05",
+    "product-recommendations"
+  ]
+}
