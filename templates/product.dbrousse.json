@@ -810,6 +810,16 @@
         "color_scheme": "inverse",
         "full_width": true
       }
+    },
+    "1657035989f0d7a5a9": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "cover_image": "shopify:\/\/shop_images\/500.png",
+        "video_url": "https:\/\/youtu.be\/dgbi45sQ4BQ",
+        "description": "",
+        "full_width": false
+      }
     }
   },
   "order": [
@@ -829,6 +839,7 @@
     "164677687497f7fbe9",
     "1646777085d7a226d0",
     "16467708824b3f450b",
-    "1644002186c85921dd"
+    "1644002186c85921dd",
+    "1657035989f0d7a5a9"
   ]
 }
