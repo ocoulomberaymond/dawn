@@ -220,8 +220,7 @@
     <script src="{{ 'tms-translator.js' | asset_url }}" defer="defer"></script>
     <!-- **END** Hextom TMS Translator // Main Include - DO NOT MODIFY -->
         
-{% render 'globo.preorder.script' %}{% render 'preorder-now' %}
-    
+
     <script src="https://a.klaviyo.com/media/js/onsite/onsite.js"></script>
 <script>
     var klaviyo = klaviyo || [];
@@ -293,5 +292,6 @@
 {%- endif -%}
 </script>
 <!-- PF EDT END -->
-{% include 'appikon-pre-order-helper' %}</body>
+{% render 'preorder-now' %}
+</body>
 </html>
