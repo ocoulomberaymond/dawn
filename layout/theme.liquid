@@ -142,6 +142,9 @@
   {% render 'qikify-apps' %}
 <link rel="stylesheet" href="https://checkoutbundles.com/shopify/app/preview_style.css"> 
    {% render 'translation-lab-custom-translations' %}
+<!--Gem_Page_Header_Script-->
+{% include 'gem-app-header-scripts' %}
+<!--End_Gem_Page_Header_Script-->
 </head>
 
   <body class="gradient">
@@ -263,7 +266,10 @@
     }
     </style>
     
-  </body>
+  <!--Gem_Page_Footer_Script-->
+{% include 'gem-app-footer-scripts' %}
+<!--End_Gem_Page_Footer_Script-->
+</body>
 <style>.fb_iframe_widget iframe {
     position: static !important;
     }
