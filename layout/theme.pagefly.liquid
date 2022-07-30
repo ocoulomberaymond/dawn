@@ -140,12 +140,15 @@ If you plan to remove PageFly, please see the guide in our help center first: ht
 	{% comment %}
   {% include "manychat-header" %}
 	{% endcomment %}
-<script>var scaaffCheck = false;</script>
-{{ 'sca_affiliate.js' | asset_url | script_tag }}
+
+
   {% render 'translation-lab-language-management' %}
   {% render 'qikify-apps' %}
 <link rel="stylesheet" href="https://checkoutbundles.com/shopify/app/preview_style.css"> 
    {% render 'translation-lab-custom-translations' %}
+<!--Gem_Page_Header_Script-->
+{% include 'gem-app-header-scripts' %}
+<!--End_Gem_Page_Header_Script-->
 </head>
 
   <body class="gradient"><div class="pagefly-container">{{ content_for_layout }}</div></body>
