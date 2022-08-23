@@ -3,17 +3,17 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "SUMMER HAS ENTERED THE BUILDING",
-            "heading_size": "medium"
-          }
-        },
         "f2196971-6ba4-4471-8014-0b4d02dc9e8a": {
           "type": "text",
           "settings": {
-            "text": "ITS TIME FOR YOU TOO LOOK GOOD & FEEL AMAZING!"
+            "text": "SAVE 30% ON SELECT PRODUCTS"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "WE ARE CELEBRATING 3 YEARS",
+            "heading_size": "medium"
           }
         },
         "button": {
@@ -23,14 +23,14 @@
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "BOOK NOW",
-            "button_link_2": "https:\/\/dillingers.ca\/collections\/fathers-day-2022-fete-des-peres-2022",
+            "button_link_2": "https:\/\/dillingers.ca\/collections\/3-years-anniversary-sale-vente-anniversaire-3-ans",
             "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading",
         "f2196971-6ba4-4471-8014-0b4d02dc9e8a",
+        "heading",
         "button"
       ],
       "settings": {
