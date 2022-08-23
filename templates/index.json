@@ -12,7 +12,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "WE ARE CELEBRATING 3 YEARS",
+            "heading": "3 YEARS ANNIVERSARY SALE",
             "heading_size": "medium"
           }
         },
@@ -47,8 +47,8 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "HERE'S OUR BEST SELLING PRODUCTS",
-        "collection": "fathers-day-2022-fete-des-peres-2022",
+        "title": "30% OFF TO CELEBRATE 3 YEAERS !",
+        "collection": "3-years-anniversary-sale-vente-anniversaire-3-ans",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": true,
