@@ -6,7 +6,7 @@
         "f2196971-6ba4-4471-8014-0b4d02dc9e8a": {
           "type": "text",
           "settings": {
-            "text": "SAVE 30% ON SELECT PRODUCTS"
+            "text": "OUR MOST POPULAR PRODUCTS"
           }
         },
         "heading": {
@@ -47,17 +47,17 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "30% OFF TO CELEBRATE 3 YEAERS !",
-        "collection": "3-years-anniversary-sale-vente-anniversaire-3-ans",
+        "title": "OUR BEST SELLERS",
+        "collection": "nelson-floyd",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": true,
-        "image_ratio": "portrait",
+        "image_ratio": "square",
         "show_secondary_image": false,
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": false,
-        "show_rating": false
+        "show_rating": true
       }
     },
     "image_text": {
