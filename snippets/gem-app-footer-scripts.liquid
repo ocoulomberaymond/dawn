@@ -1,4 +1,4 @@
-{% if page.id == 41463316580 %}<script data-instant-track type="text/javascript">	var pageLibs = [		'{{ 'gem-page-41463316580.js' | asset_url }}',	];</script>{% endif %}{% if page.id == 39263993956 %}<script data-instant-track type="text/javascript">	var pageLibs = [		'{{ 'gem-page-39263993956.js' | asset_url }}',	];</script>{% endif %}{% if template == 'index.gem-1557795787-template' %}<script data-instant-track type="text/javascript">if(typeof pageLibs === 'undefined' || pageLibs === null){	var pageLibs = [		'{{ 'gem-page-index-1557795787.js' | asset_url }}',	];}</script>{% endif %}{% capture gemFooterScripts %}    <script data-instant-track type="text/javascript">
+{% if page.id == 41463316580 %}<script data-instant-track type="text/javascript">	var pageLibs = [		'{{ 'gem-page-41463316580.js' | asset_url }}',	];</script>{% endif %}{% if template == 'index.gem-1557795787-template' %}<script data-instant-track type="text/javascript">if(typeof pageLibs === 'undefined' || pageLibs === null){	var pageLibs = [		'{{ 'gem-page-index-1557795787.js' | asset_url }}',	];}</script>{% endif %}{% if page.id == 39263993956 %}<script data-instant-track type="text/javascript">	var pageLibs = [		'{{ 'gem-page-39263993956.js' | asset_url }}',	];</script>{% endif %}{% capture gemFooterScripts %}    <script data-instant-track type="text/javascript">
       var GEMVENDOR = GEMVENDOR || (function(){		var _js = {};		return {			init: function(Args) {				_js = Args;			},			getLibs: function() {				return _js;			}		};	}());
       if(typeof pageLibs === 'undefined' || pageLibs === null){
         var pageLibs = [];
@@ -7,7 +7,7 @@
       </script>
     <script data-instant-track type="text/javascript" src="https://d1um8515vdn9kb.cloudfront.net/files/gempagev2.js?v=1.0" class="gf-script" defer></script>
 {% endcapture %}
-{% assign gemHandleCheck = '41463316580, 39263993956' | split: ", " %}{% for h in gemHandleCheck %}{% assign idVal = h | plus:0 %}{% if page.id == idVal %}{{ gemFooterScripts }}{% endif %}{% endfor %}{% assign gemHandleCheck = 'product.gem-1557795728-template, collection.gem-1656591304-template, index.gem-1557795735-template, index.gem-1557795787-template' | split: ", " %}{% for h in gemHandleCheck %}{% if template == h %}{{ gemFooterScripts }}{% endif %}{% endfor %}
+{% assign gemHandleCheck = '41463316580, 39263993956' | split: ", " %}{% for h in gemHandleCheck %}{% assign idVal = h | plus:0 %}{% if page.id == idVal %}{{ gemFooterScripts }}{% endif %}{% endfor %}{% assign gemHandleCheck = 'product.gem-1557795728-template, index.gem-1557795735-template, index.gem-1557795787-template, collection.gem-1656591304-template' | split: ", " %}{% for h in gemHandleCheck %}{% if template == h %}{{ gemFooterScripts }}{% endif %}{% endfor %}
       {% if GEM_FOOTER_SCRIPT %}
       {{ GEM_FOOTER_SCRIPT }}
       {% else %}
