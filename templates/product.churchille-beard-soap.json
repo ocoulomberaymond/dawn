@@ -1,0 +1,496 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "7c637ab4-a8a8-4620-8d2d-b50ba68ef093": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "4f054b65-21d3-416c-9df5-61ce565afd62": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Description",
+            "content": "<p>Created and developed by Dillinger’s barbers, this soap will clean your body and your beard without drying your skin and whiskers!<\/p><p><strong>-100% natural carriers and essential oils<\/strong><\/p><p><strong>-No chemical fragrances<\/strong><\/p><p><strong>-Made in Canada<\/strong><\/p><p><strong>-Size 5oz<\/strong><\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Fragrance",
+            "content": "<p><strong>Juniper & Grapefruit<\/strong><\/p><p>We named this fragrance  <strong>Old Tom<\/strong> in memory of an ancient gin type that was considered the ''missing link'' between the dutch genever and the london dry. <\/p><p>The juniper gives it a ''gin like'' touch while the grapefruit envigorate your senses!<\/p><p><em><strong>A serious dose of morning freshness that men AND womens will enjoy<\/strong><\/em><\/p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "7c637ab4-a8a8-4620-8d2d-b50ba68ef093",
+        "title",
+        "subtitle",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "description",
+        "4f054b65-21d3-416c-9df5-61ce565afd62",
+        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "16440019724958e8e1": {
+      "type": "multicolumn",
+      "blocks": {
+        "1644001972cd333b52-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T141808.991.png",
+            "title": "",
+            "text": "<p>Non Tested <\/p><p>On Rabbits<\/p>"
+          }
+        },
+        "1644001972cd333b52-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142005.015.png",
+            "title": "",
+            "text": "<p>No Harsh<\/p><p>Chemicals<\/p>"
+          }
+        },
+        "1644001972cd333b52-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142126.499.png",
+            "title": "",
+            "text": "<p>Developped<\/p><p>by Barbers<\/p>"
+          }
+        },
+        "7f8ebea7-cdff-46ba-9d85-0783194b8970": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142222.816.png",
+            "title": "",
+            "text": "<p>Locally Produced<\/p>"
+          }
+        },
+        "f9f293ad-7e89-4411-ba07-f8403e5bfab2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142310.874.png",
+            "title": "",
+            "text": "<p>Made of Natural<\/p><p>Ingredients<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1644001972cd333b52-0",
+        "1644001972cd333b52-1",
+        "1644001972cd333b52-2",
+        "7f8ebea7-cdff-46ba-9d85-0783194b8970",
+        "f9f293ad-7e89-4411-ba07-f8403e5bfab2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "164390758276813c05": {
+      "type": "multicolumn",
+      "blocks": {
+        "1864a5f4-0e53-40ed-9236-ef9897724222": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/olive-oil__79818.1586289416.jpg",
+            "title": "Olive Oil",
+            "text": "<p>Used in soap fabrication for centuries, olive oil is the perfect skin moisturizer and so lite on the skin that it can be used on babies!<\/p>"
+          }
+        },
+        "6d5f2d3d-e058-4b74-b535-4636504f6e3a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/health-benefits-of-coconut-guide-main-image-700-350-a1efd38.jpg",
+            "title": "Coconut Oil",
+            "text": "<p>Great for its cleansing properties, coconut oils and also leave a protective layer on your skin.<\/p>"
+          }
+        },
+        "c8fdb13b-3174-4419-9171-54ab43246979": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendula_marigold_480x352_ecf4f954-c217-457e-88df-df85305720c1.jpg",
+            "title": "Calendula infused oil",
+            "text": "<p>Chosed for it's antifungal, anti-inflammatory, and antibacterial properties that make it useful in <strong>healing wounds, soothing eczema, and relieving rashes<\/strong>.<\/p>"
+          }
+        },
+        "36bfbbd5-eb01-40db-a345-f7740d8f3ca3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/burro-di-karite.jpeg.pagespeed.ce.0632cS99cK.jpg",
+            "title": "Shea butter*",
+            "text": "<p>Moisturize, hydrate and has anti-inflammatory properties which is great for any rashes or itchiness on your skin. <em>*organic<\/em><\/p>"
+          }
+        },
+        "23bc9449-e2da-420b-8c2e-d6cf7ef0ffb5": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-539365448-612x612.jpg",
+            "title": "Sweet almond oil*",
+            "text": "<p>Will help nourrish the skin and facial hair and provide added shine to your beard. <em>*organic<\/em><\/p>"
+          }
+        },
+        "2584eaf5-f544-4d00-bf07-5cccc2aca5ef": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_x700_70bcab56-effe-4a8f-a19d-0e10fdf709db.jpg",
+            "title": "Sodium Hydroxide",
+            "text": "<p>This is the ingredient that allow everything to bond togheter. It is neutralized in the process of saponification when the oils and fats are combined during the fabrication. <\/p>"
+          }
+        },
+        "693bfdf3-0dbb-4ae7-8e2f-5f6bcb3bace1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/beeswax.jpg",
+            "title": "Beeswax",
+            "text": "<p>Used in very small amount to make soap harder and longer lasting.<\/p>"
+          }
+        },
+        "16439075811b954e10-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grapefruit_760d5a3f-0e30-42d4-8b63-1dc039de6133.jpg",
+            "title": "Grapefruit bark oil",
+            "text": "<p>The grapefruit bark oil not only invigorate your senses but has antimicrobial properties and is also extremely good for your skin.<\/p>"
+          }
+        },
+        "16439075811b954e10-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spice-juniper-berries-2.jpg",
+            "title": "Juniper berry oil",
+            "text": "<p>Juniper is the main ingredient used in producing Gin. Combined with je grapefruit bark oil, we get a bit of a citrus gin fragrance that is verry pleasant. It also promote blood circulation<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1864a5f4-0e53-40ed-9236-ef9897724222",
+        "6d5f2d3d-e058-4b74-b535-4636504f6e3a",
+        "c8fdb13b-3174-4419-9171-54ab43246979",
+        "36bfbbd5-eb01-40db-a345-f7740d8f3ca3",
+        "23bc9449-e2da-420b-8c2e-d6cf7ef0ffb5",
+        "2584eaf5-f544-4d00-bf07-5cccc2aca5ef",
+        "693bfdf3-0dbb-4ae7-8e2f-5f6bcb3bace1",
+        "16439075811b954e10-1",
+        "16439075811b954e10-2"
+      ],
+      "settings": {
+        "title": "Old Tom Soap Ingredients",
+        "image_width": "third",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1645630746bab70900": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1645630746dad2172b-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bearded-man-in-sun-and-shadow.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>That beard oil work verry well to tame beard itch, but my gf love the fragrance a lot wich is a +++. Highly recommend.<\/p><p><em>Tom G.<\/em><\/p>"
+          }
+        },
+        "1645630746dad2172b-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/man-scratches-head-in-front-of-yellow-door.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>Bought the Old Tom beard oil after a visite at Dillinger's barbershop. My beard was flacky and itchy has f*ck... A couple drops in the morning and the itch is GONE!!!<\/p><p><em>Matthew Wilder<\/em><\/p>"
+          }
+        },
+        "1645630746dad2172b-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/profile-of-a-man-with-beard-and-styled-hair.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>Ive tried many different oils since i started my beard journey and this one is defenetly in my top 3! Smell nice, natural ingredients and works super well! Get yours now!<\/p><p><em>Claude B.<\/em><\/p>"
+          }
+        },
+        "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/women-smiling-in-front-of-silver-background.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>I bought this products for my son and he loved it! His wife was also super happy with the fact that the fragrance is subtle, fresh and not overpowering like is other beard oil!<\/p><p><em>Samatha D.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1645630746dad2172b-0",
+        "1645630746dad2172b-1",
+        "1645630746dad2172b-2",
+        "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b"
+      ],
+      "settings": {
+        "title": "Don't take our word for it!",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "column_alignment": "left",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1644002186c85921dd": {
+      "type": "rich-text",
+      "blocks": {
+        "1644002186d2b9b50c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nelson & Floyd Grooming Co",
+            "heading_size": "h1"
+          }
+        },
+        "1644002186d2b9b50c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Developed by Dillinger's boutique & barber shop grooming experts in collaboration with savonnerie des Dilligences. We combined our grooming expertise with their 15+ years of natural soap making experience to bring to the market <\/p><p>Our mission is to offer professional grade products that are developed based not only on the feedback we get from our customers but also from our extensive knowledge, expertise of professional barbers & grooming experts of our growing grooming enthusiast clientele.<\/p>"
+          }
+        },
+        "1644002186d2b9b50c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1644002186d2b9b50c-0",
+        "1644002186d2b9b50c-1",
+        "1644002186d2b9b50c-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "1645631103ed7ac15b": {
+      "type": "image-with-text",
+      "blocks": {
+        "164563110344fa6cb7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Fragrance"
+          }
+        },
+        "164563110344fa6cb7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The <strong>Old Tom Gin<\/strong> was once considered the ''<em>missing link<\/em>'' of the gin world! Popular in the late 1800's and early 1900's, it is now making a comeback on the craft cocktail scene!<\/p><p>We decided to pay tribute to this iconic beverage by combining the <strong>juniper berry and grapefruit bark<\/strong> fragrances into a fresh, sweet and invigorating perfume!<\/p>"
+          }
+        },
+        "164563110344fa6cb7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164563110344fa6cb7-0",
+        "164563110344fa6cb7-1",
+        "164563110344fa6cb7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-10T150452.636.png",
+        "height": "adapt",
+        "color_scheme": "background-2",
+        "layout": "image_first"
+      }
+    },
+    "164398193391bef5bf": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "DO YOU NEED A BEARD OIL OR A BEARD BALM?",
+        "cover_image": "shopify:\/\/shop_images\/YouTube_Thumbnail_6.png",
+        "video_url": "https:\/\/youtu.be\/4-oQFdSirfg",
+        "description": "beard balm vs beard oil video",
+        "full_width": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "1646769544ce6269d4": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "16467695445678baf2-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "16467695445678baf2-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "16467695445678baf2-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16467695445678baf2-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16467695445678baf2-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16467695445678baf2-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16467695445678baf2-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16467695445678baf2-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16467695445678baf2-0",
+        "16467695445678baf2-1",
+        "16467695445678baf2-2",
+        "16467695445678baf2-3",
+        "16467695445678baf2-4",
+        "16467695445678baf2-5",
+        "16467695445678baf2-6",
+        "16467695445678baf2-7"
+      ],
+      "settings": {
+        "product": "",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16440019724958e8e1",
+    "164390758276813c05",
+    "1645630746bab70900",
+    "1644002186c85921dd",
+    "1645631103ed7ac15b",
+    "164398193391bef5bf",
+    "product-recommendations",
+    "1646769544ce6269d4"
+  ]
+}
