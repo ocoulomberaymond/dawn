@@ -110,7 +110,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T141808.991.png",
             "title": "",
-            "text": "<p>Non Tested <\/p><p>On Rabbits<\/p>"
+            "text": "<p>Testé sur<\/p><p>des Humains<\/p>"
           }
         },
         "1644001972cd333b52-1": {
@@ -118,7 +118,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142005.015.png",
             "title": "",
-            "text": "<p>No Harsh<\/p><p>Chemicals<\/p>"
+            "text": "<p>Sans Produits<\/p><p>Chimiques<\/p>"
           }
         },
         "1644001972cd333b52-2": {
@@ -126,7 +126,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142126.499.png",
             "title": "",
-            "text": "<p>Developped<\/p><p>by Barbers<\/p>"
+            "text": "<p>Developpé par<\/p><p>des Barbiers<\/p>"
           }
         },
         "7f8ebea7-cdff-46ba-9d85-0783194b8970": {
@@ -143,7 +143,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142310.874.png",
             "title": "",
-            "text": "<p>Made of Natural<\/p><p>Ingredients<\/p>"
+            "text": "<p>Fait d'Ingrédients<\/p><p>Naturels<\/p>"
           }
         }
       },
@@ -172,24 +172,24 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/Jojoba-oil.jpg",
-            "title": "Carrier oils",
-            "text": "<p>The base of our beard oil is composed of premium jojoba seed, castor seed, and grape seed oils that were chosen for their hydrating, antiseptic and soothing properties.<\/p>"
+            "title": "Huiles Porteuses",
+            "text": "<p>La base de nos huiles à barbe est composée d'huile de jojoba, d'huile de ricin et d'huile de pépin de raisins. Ces huiles ont été sélectionnées pour leur bienfait hydratant, antiseptique et réparatrices.<\/p>"
           }
         },
         "16439075811b954e10-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/grapefruit_760d5a3f-0e30-42d4-8b63-1dc039de6133.jpg",
-            "title": "Grapefruit bark oil",
-            "text": "<p>We DO NOT use man made fragrances in our beard products. The grapefruit bark oil not only invigorate your senses but has antimicrobial properties and is also extremely good for your skin.<\/p>"
+            "image": "shopify:\/\/shop_images\/cedarwood_oil.png",
+            "title": "Huile de Bois de Cèdre",
+            "text": "<p>L'huile de bois de cèdre est une huile essentielle aux propriétés calmantes, anti-inflammatoires et antiseptique. En plus de sentir extrêmement bon!<\/p>"
           }
         },
         "16439075811b954e10-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/spice-juniper-berries-2.jpg",
-            "title": "Juniper berry oil",
-            "text": "<p>Juniper is the main ingredient used in producing Gin. Combined with je grapefruit bark oil, we get a bit of a citrus gin fragrance that is verry pleasant. It also promote blood circulation<\/p>"
+            "image": "shopify:\/\/shop_images\/telechargement_c71d72fb-807a-48b9-bd07-f8b5439c1634.jpg",
+            "title": "Huile de Bois de Hoo",
+            "text": "<p>En plus de ses propriétées relaxante, cette huile est couramment utilisée pour soulager le psoriasis, l'eczéma et l'inflammation.<\/p>"
           }
         }
       },
@@ -199,7 +199,7 @@
         "16439075811b954e10-2"
       ],
       "settings": {
-        "title": "Old Tom Beard oil Ingredients list",
+        "title": "Churchill: Liste des ingrédients",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "center",
