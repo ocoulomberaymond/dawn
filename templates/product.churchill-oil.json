@@ -28,6 +28,15 @@
             "text_style": "subtitle"
           }
         },
+        "4f054b65-21d3-416c-9df5-61ce565afd62": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Description",
+            "content": "<p>Created and developed by Dillinger’s barbers to provide moisture to your skin, prevent beard dandruff and add a pleasant and invigorating fragrance of grapefruit & juniper<\/p><p><strong>-100% natural carriers and essential oils<\/strong><\/p><p><strong>-No chemical fragrances<\/strong><\/p><p><strong>-Made in Canada<\/strong><\/p><p><strong>-Barbershop grade<\/strong><\/p><p>-Size 30ml<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -56,24 +65,6 @@
           "settings": {
           }
         },
-        "4f054b65-21d3-416c-9df5-61ce565afd62": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Description",
-            "content": "<p>Created and developed by Dillinger’s barbers to provide moisture to your skin, prevent beard dandruff and add a pleasant and invigorating fragrance of grapefruit & juniper<\/p><p><strong>-100% natural carriers and essential oils<\/strong><\/p><p><strong>-No chemical fragrances<\/strong><\/p><p><strong>-Made in Canada<\/strong><\/p><p><strong>-Barbershop grade<\/strong><\/p><p>-Size 30ml<\/p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Specifications",
-            "content": "<p>Developed by Dillinger's boutique & barbershop grooming experts in collaboration with Educated beards the first fragrance of our Nelson & Floyd Grooming co brand is based on a fresh citrusy gin.<\/p><p>We named this fragrance  <strong>Old Tom<\/strong> in memory of an ancient gin type that was considered the ''missing link'' between the dutch genever and the london dry. Made from <strong>100% natural carrier oils and essential oils<\/strong>, this grapefruit bark & juniper fragrance is fresh, not overpowering and will certainly help to wake up your senses on a rough morning!<\/p><p>Shine: Medium<\/p><p>Fragrance: Grapefruit & Juniper<\/p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
         "share": {
           "type": "share",
           "disabled": true,
@@ -87,13 +78,12 @@
         "7c637ab4-a8a8-4620-8d2d-b50ba68ef093",
         "title",
         "subtitle",
+        "4f054b65-21d3-416c-9df5-61ce565afd62",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
-        "4f054b65-21d3-416c-9df5-61ce565afd62",
-        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72",
         "share"
       ],
       "settings": {
