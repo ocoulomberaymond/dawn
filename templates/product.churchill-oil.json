@@ -217,7 +217,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/bearded-man-in-sun-and-shadow.jpg",
             "title": "⭐⭐⭐⭐⭐",
-            "text": "<p>That beard oil work verry well to tame beard itch, but my gf love the fragrance a lot wich is a +++. Highly recommend.<\/p><p><em>Tom G.<\/em><\/p>"
+            "text": "<p><em>Depuis que j'utilise leurs huile à barbe, ma voiture ne fait plus de bruits!<\/em><\/p>"
           }
         },
         "1645630746dad2172b-1": {
@@ -225,7 +225,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/man-scratches-head-in-front-of-yellow-door.jpg",
             "title": "⭐⭐⭐⭐⭐",
-            "text": "<p>Bought the Old Tom beard oil after a visite at Dillinger's barbershop. My beard was flacky and itchy has f*ck... A couple drops in the morning and the itch is GONE!!!<\/p><p><em>Matthew Wilder<\/em><\/p>"
+            "text": "<p>Ma femme m'a acheter ça pour ma fête, c'était tellement bon que j'en ai mis sur mon gâteau!<\/p><p><em>Matthew Wilder<\/em><\/p>"
           }
         },
         "1645630746dad2172b-2": {
@@ -233,7 +233,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/profile-of-a-man-with-beard-and-styled-hair.jpg",
             "title": "⭐⭐⭐⭐⭐",
-            "text": "<p>Ive tried many different oils since i started my beard journey and this one is defenetly in my top 3! Smell nice, natural ingredients and works super well! Get yours now!<\/p><p><em>Claude B.<\/em><\/p>"
+            "text": "<p>J'ai essayé pleins d'huiles à barbe, celle-là est 1224234098 fois mieux que toutes les autres!. p.s : merci pour le chèque de 20$!<\/p><p><em>Claude B.<\/em><\/p>"
           }
         },
         "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b": {
@@ -241,7 +241,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/women-smiling-in-front-of-silver-background.jpg",
             "title": "⭐⭐⭐⭐⭐",
-            "text": "<p>I bought this products for my son and he loved it! His wife was also super happy with the fact that the fragrance is subtle, fresh and not overpowering like is other beard oil!<\/p><p><em>Samatha D.<\/em><\/p>"
+            "text": "<p>J'ai pas de barbe, mais la bouteille est belle!<\/p><p><em>Samatha D.<\/em><\/p>"
           }
         }
       },
@@ -252,7 +252,7 @@
         "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b"
       ],
       "settings": {
-        "title": "Don't take our word for it!",
+        "title": "Si vous ne nous croyez pas, voiçi des témoignages 94% crédibles!",
         "image_width": "third",
         "image_ratio": "circle",
         "column_alignment": "left",
@@ -275,7 +275,7 @@
         "1644002186d2b9b50c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Developed by Dillinger's boutique & barber shop grooming experts in collaboration with Educated beards, the first trio of products of our house brand Nelson & Floyd Grooming Co has been made available to the public in june 2021.<\/p><p>Our mission is to offer professional grade products that are developed based not only on the feedback we get from our customers but also from our extensive knowledge, expertise of professional barbers & grooming experts of our growing grooming enthusiast clientele.<\/p>"
+            "text": "<p>Notre mission est d'offrir des produits de qualité professionnelle qui sont développé sur la base non seulement des commentaires que nous recevons de nos clients, mais également de nos connaissances approfondies, de l'expertise des barbiers professionnels et des experts en grooming que nous sommes!<\/p>"
           }
         },
         "1644002186d2b9b50c-2": {
@@ -304,13 +304,13 @@
         "164563110344fa6cb7-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Fragrance"
+            "heading": "La Fragrance"
           }
         },
         "164563110344fa6cb7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The <strong>Old Tom Gin<\/strong> was once considered the ''<em>missing link<\/em>'' of the gin world! Popular in the late 1800's and early 1900's, it is now making a comeback on the craft cocktail scene!<\/p><p>We decided to pay tribute to this iconic beverage by combining the <strong>juniper berry and grapefruit bark<\/strong> fragrances into a fresh, sweet and invigorating perfume!<\/p>"
+            "text": "<p>Sir Winston Churchill est sans doute l’une des figures publiques que l’on associe le plus à son fameux cigare. Au point où tous les cigares de 7 po de long et d’une circonférence de 48 portent son nom! <\/p><p><\/p><p>Notre fragrance <strong>100% naturelle<\/strong> Churchill à été développée pour rappeler les effluves de<strong> cèdre espagnol<\/strong> qui émane d’une boîte de cigares ou encore qui vous enveloppent aussitôt que vous entrez dans un humidor de type Walk-in. <strong>Vous aimez les essences boisées, celle-ci est pour vous!    <\/strong><\/p>"
           }
         },
         "164563110344fa6cb7-2": {
@@ -327,7 +327,7 @@
         "164563110344fa6cb7-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-10T150452.636.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-07T163158.291.png",
         "height": "adapt",
         "color_scheme": "background-2",
         "layout": "image_first"
