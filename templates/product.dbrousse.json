@@ -33,6 +33,15 @@
           "settings": {
           }
         },
+        "4f054b65-21d3-416c-9df5-61ce565afd62": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Description",
+            "content": "<p><strong>Le D-Brousse est l'outil idéal pour tailler ou tondre tous vos poils et ce jusque dans les moindres recoins de votre anatomie!<\/strong><\/p><p><strong>Un outil petit, ergonomique, à l'épreuve de l'eau et munie d'une lame en céramique spécialement ajustée pour minimiser l'irritation, les poils incarnés et les coupures!<\/strong><\/p><p><strong>Est-ce que votre poil sera taillé aussi court qu'avec un rasoir? Non! Le but est de prévenir l'irritation et les poils incarnés. Un tonte sans sabot, parallèle à la peau, vous permettra de vous départir des poils les plus coriaces sans les désagréments et les coûts et l’empreinte écologique du rasoir jetable!<\/strong><\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -56,15 +65,6 @@
           "settings": {
           }
         },
-        "4f054b65-21d3-416c-9df5-61ce565afd62": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Description",
-            "content": "<p><strong>Le D-Brousse est l'outil idéal pour tailler ou tondre tous vos poils et ce jusque dans les moindres recoins de votre anatomie!<\/strong><\/p><p><strong>Un outil petit, ergonomique, à l'épreuve de l'eau et munie d'une lame en céramique spécialement ajustée pour minimiser l'irritation, les poils incarnés et les coupures!<\/strong><\/p><p><strong>Est-ce que votre poil sera taillé aussi court qu'avec un rasoir? Non! Le but est de prévenir l'irritation et les poils incarnés. Un tonte sans sabot, parallèle à la peau, vous permettra de vous départir des poils les plus coriaces sans les désagréments et les coûts et l’empreinte écologique du rasoir jetable!<\/strong><\/p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
         "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72": {
           "type": "collapsible_tab",
           "disabled": true,
@@ -84,6 +84,7 @@
         },
         "14d1a802-5ed7-4260-8f8d-08ebd10cfa9e": {
           "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "disabled": true,
           "settings": {
           }
         }
@@ -94,11 +95,11 @@
         "title",
         "subtitle",
         "price",
+        "4f054b65-21d3-416c-9df5-61ce565afd62",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
         "description",
-        "4f054b65-21d3-416c-9df5-61ce565afd62",
         "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72",
         "share",
         "14d1a802-5ed7-4260-8f8d-08ebd10cfa9e"
