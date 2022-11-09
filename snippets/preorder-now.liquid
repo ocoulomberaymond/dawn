@@ -496,45 +496,4 @@ progress::-moz-progress-bar {
   word-break: break-word;
 }
 
-</style>
-      <div id="notify-stock-back-modal" style="display: none;">
-        <div class="ordersfy-modal">
-          <div class="bg-black"></div>
-          <div class="inner-container">
-            <div class="white-box-in">
-              <div class="error-field notify-success-content" style="display: none;padding: 10px;">
-                <div class="error success-msg-text pn-notify-popup-success-msg" style="color: green;">Your are successfully subscribed for email notifications.</div>
-              </div> <a class="cross-me close-notify-email-popup" onClick="closeNotifyEmailPopup()">&#10006;</a>
-              <div class="notify-for-content">
-                <h1 class="pn-notify-popup-heading">Notify me when available </h1>
-                <p class="pn-notify-popup-desc">We will send you a notification as soon as this product is available again.</p>
-                <div class="email-form">
-                  <div class="field">
-                    <input type="text" class="notify-pn-bk-stock-input-email" placeholder="Email here" /> </div>
-                  <div class="field">
-                    <label>
-                      <input type="checkbox" class="notify-recurring-box" name="checkbox" style="width: auto;"> Do you want to get recurring notifications? </label>
-                  </div>
-                  <div class="error-field">
-                    <div class="error empty-email-error" style="display: none;">Your email is requried</div>
-                  </div>
-                  <button type="submit" class="notify-btn notify-btn-submit pn-notify-btn-text">Notify Me</button>
-                  <p class="pn-notify-popup-footer-text">We don't share your email with anybody</p>
-                </div>
-                <div> </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    <script>
-      function closeNotifyEmailPopup(){
-        var notify_stock_back_modal = document.getElementById("notify-stock-back-modal");
-        if (notify_stock_back_modal.style.display === "none") {
-          notify_stock_back_modal.style.display = "block";
-        } else {
-          notify_stock_back_modal.style.display = "none";
-        }
-      }
-    </script>
-    {% render 'preorder-now-settings-1' %}
+</style>{% render 'preorder-now-settings-1' %}
