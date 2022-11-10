@@ -17,6 +17,218 @@
         "full_width": false
       }
     },
+    "16346740645f881ea6": {
+      "type": "rich-text",
+      "blocks": {
+        "16346740645f881ea6-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "L'ÉQUIPE",
+            "heading_size": "h0"
+          }
+        },
+        "16346740645f881ea6-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "16346740645f881ea6-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16346740645f881ea6-0",
+        "16346740645f881ea6-1",
+        "16346740645f881ea6-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "16346721612f2293e8": {
+      "type": "image-with-text",
+      "blocks": {
+        "16346721612f2293e8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "JAY-B"
+          }
+        },
+        "16346721612f2293e8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br\/><strong>Co-Owner for Dillinger's Boutique & Barber, Jay-B's barbering skills have been literally downloaded from the matrix. From straight blade shave that will leave your face smooth has a babies ass to old school pompadour's & sideparts, his attention to details and extensive product knowledge will help you get the look you need to set you apart from the crowd!<\/strong><br\/><\/p>"
+          }
+        },
+        "16346721612f2293e8-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "RÉSERVE AVEC JB",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16346721612f2293e8-0",
+        "16346721612f2293e8-1",
+        "16346721612f2293e8-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Photo_34.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
+    "4093784b-c8fd-4ff6-a98c-59c496085368": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Louis a.k.a NoLack"
+          }
+        },
+        "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Si vous cherchez des lignes tracées au laser, un service 5 étoiles et attentionné, Louis is your man!    <\/strong>                                                                                       <\/p>"
+          }
+        },
+        "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Instagram de Louis",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-0",
+        "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-1",
+        "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-10T162215.532.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
+    "163467226132f6acef": {
+      "type": "image-with-text",
+      "blocks": {
+        "163467226132f6acef-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "DANNY"
+          }
+        },
+        "163467226132f6acef-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br\/><strong>Latest addition to the family, Danny joined us after barbering school and went through all the challenges that newbies have to endure to prove to us they are strong enough to be part of our team. After many months behind the chair, he's recently been upgraded to our level 2 pricing and is on his way to the top!<\/strong><br\/><\/p>"
+          }
+        },
+        "163467226132f6acef-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "RÉSERVE AVEC DANNY",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163467226132f6acef-0",
+        "163467226132f6acef-1",
+        "163467226132f6acef-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Square_Photo_35.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "text_first"
+      }
+    },
+    "46e592ac-6dee-4011-a757-e6405b49f497": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14143717769281__46e592ac-6dee-4011-a757-e6405b49f497-1668113869e538f6a0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ANTHONY a.k.a Le Surgien"
+          }
+        },
+        "template--14143717769281__46e592ac-6dee-4011-a757-e6405b49f497-1668113869e538f6a0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Avec plusieurs Avec plusieurs années d'expérience derrière la cravate Tony maîtrise tous les types de coupe et les rasage à la lame!<\/p>"
+          }
+        },
+        "template--14143717769281__46e592ac-6dee-4011-a757-e6405b49f497-1668113869e538f6a0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "RÉSERVE AVEC TONY",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14143717769281__46e592ac-6dee-4011-a757-e6405b49f497-1668113869e538f6a0-0",
+        "template--14143717769281__46e592ac-6dee-4011-a757-e6405b49f497-1668113869e538f6a0-1",
+        "template--14143717769281__46e592ac-6dee-4011-a757-e6405b49f497-1668113869e538f6a0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-10T160107.260.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
+    "df3f3529-98a9-48bd-965e-fe3ebada642f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "CORY a.k.a  DeadFace"
+          }
+        },
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Originaire de Halifax avec 9 ans d’expérience dans le domaine, Cory  matrise les coupes courtes et mi-longues en plus d'exceller avec la lame!<\/p>"
+          }
+        },
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Instagram de Cory",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-0",
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-1",
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2022-11-10_16-27-22.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
     "16282780497614c9f4": {
       "type": "rich-text",
       "blocks": {
@@ -224,7 +436,7 @@
         "1628803052f8535be1-2": {
           "type": "button",
           "settings": {
-            "button_label": "BOOK NOW",
+            "button_label": "RÉSERVE MAINTENANT",
             "button_link": "https:\/\/login.meevo.com\/dillingers\/ob?locationId=301109"
           }
         }
@@ -236,115 +448,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/DLGR-HiRes-900_1.jpg",
         "height": "small",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-2",
         "layout": "image_first"
-      }
-    },
-    "16346740645f881ea6": {
-      "type": "rich-text",
-      "blocks": {
-        "16346740645f881ea6-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "OUR TEAM",
-            "heading_size": "h1"
-          }
-        },
-        "16346740645f881ea6-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "16346740645f881ea6-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "16346740645f881ea6-0",
-        "16346740645f881ea6-1",
-        "16346740645f881ea6-2"
-      ],
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": true
-      }
-    },
-    "16346721612f2293e8": {
-      "type": "image-with-text",
-      "blocks": {
-        "16346721612f2293e8-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "JAY-B"
-          }
-        },
-        "16346721612f2293e8-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><br\/><strong>Co-Owner for Dillinger's Boutique & Barber, Jay-B's barbering skills have been literally downloaded from the matrix. From straight blade shave that will leave your face smooth has a babies ass to old school pompadour's & sideparts, his attention to details and extensive product knowledge will help you get the look you need to set you apart from the crowd!<\/strong><br\/><\/p>"
-          }
-        },
-        "16346721612f2293e8-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "RÉSERVE AVEC JB",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "16346721612f2293e8-0",
-        "16346721612f2293e8-1",
-        "16346721612f2293e8-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Square_Photo_34.png",
-        "height": "adapt",
-        "color_scheme": "inverse",
-        "layout": "image_first"
-      }
-    },
-    "163467226132f6acef": {
-      "type": "image-with-text",
-      "blocks": {
-        "163467226132f6acef-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "DANNY"
-          }
-        },
-        "163467226132f6acef-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><br\/><strong>Latest addition to the family, Danny joined us after barbering school and went through all the challenges that newbies have to endure to prove to us they are strong enough to be part of our team. After many months behind the chair, he's recently been upgraded to our level 2 pricing and is on his way to the top!<\/strong><br\/><\/p>"
-          }
-        },
-        "163467226132f6acef-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "RÉSERVE AVEC DANNY",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "163467226132f6acef-0",
-        "163467226132f6acef-1",
-        "163467226132f6acef-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Square_Photo_35.png",
-        "height": "adapt",
-        "color_scheme": "inverse",
-        "layout": "text_first"
       }
     },
     "1650400407be51ad31": {
@@ -387,129 +492,24 @@
         "color_scheme": "background-1",
         "full_width": true
       }
-    },
-    "46e592ac-6dee-4011-a757-e6405b49f497": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14143717769281__46e592ac-6dee-4011-a757-e6405b49f497-1668113869e538f6a0-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "ANTHONY a.k.a Le Surgien"
-          }
-        },
-        "template--14143717769281__46e592ac-6dee-4011-a757-e6405b49f497-1668113869e538f6a0-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Avec plusieurs Avec plusieurs années d'expérience derrière la cravate Tony maîtrise tous les types de coupe et les rasage à la lame!<\/p>"
-          }
-        },
-        "template--14143717769281__46e592ac-6dee-4011-a757-e6405b49f497-1668113869e538f6a0-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "RÉSERVE AVEC TONY",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14143717769281__46e592ac-6dee-4011-a757-e6405b49f497-1668113869e538f6a0-0",
-        "template--14143717769281__46e592ac-6dee-4011-a757-e6405b49f497-1668113869e538f6a0-1",
-        "template--14143717769281__46e592ac-6dee-4011-a757-e6405b49f497-1668113869e538f6a0-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-10T160107.260.png",
-        "height": "adapt",
-        "color_scheme": "inverse",
-        "layout": "image_first"
-      }
-    },
-    "4093784b-c8fd-4ff6-a98c-59c496085368": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Louis a.k.a NoLack"
-          }
-        },
-        "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Si vous cherchez des lignes tracées au laser, un service 5 étoiles et attentionné, Louis is your man!    <\/strong>                                                                                       <\/p>"
-          }
-        },
-        "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Instagram de Louis",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-0",
-        "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-1",
-        "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-10T162215.532.png",
-        "height": "adapt",
-        "color_scheme": "inverse",
-        "layout": "image_first"
-      }
-    },
-    "df3f3529-98a9-48bd-965e-fe3ebada642f": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "CORY a.k.a  DeadFace"
-          }
-        },
-        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Originaire de Halifax avec 9 ans d’expérience dans le domaine, Cory  matrise les coupes courtes et mi-longues en plus d'exceller avec la lame!<\/p>"
-          }
-        },
-        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Instagram de Cory",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-0",
-        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-1",
-        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/2022-11-10_16-27-22.png",
-        "height": "adapt",
-        "color_scheme": "inverse",
-        "layout": "image_first"
-      }
     }
   },
   "order": [
     "main",
     "1628278188a3a19b75",
+    "16346740645f881ea6",
+    "16346721612f2293e8",
+    "4093784b-c8fd-4ff6-a98c-59c496085368",
+    "163467226132f6acef",
+    "46e592ac-6dee-4011-a757-e6405b49f497",
+    "df3f3529-98a9-48bd-965e-fe3ebada642f",
     "16282780497614c9f4",
     "1628803000fd1f1b3b",
     "1628803003e52b1a8c",
     "16282781904aff6db8",
     "1628278298baf1e149",
     "1628803052f8535be1",
-    "16346740645f881ea6",
-    "16346721612f2293e8",
-    "163467226132f6acef",
     "1650400407be51ad31",
-    "1628804250dd5b25a2",
-    "46e592ac-6dee-4011-a757-e6405b49f497",
-    "4093784b-c8fd-4ff6-a98c-59c496085368",
-    "df3f3529-98a9-48bd-965e-fe3ebada642f"
+    "1628804250dd5b25a2"
   ]
 }
