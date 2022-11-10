@@ -457,6 +457,41 @@
         "color_scheme": "inverse",
         "layout": "image_first"
       }
+    },
+    "df3f3529-98a9-48bd-965e-fe3ebada642f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "CORY a.k.a  DeadFace"
+          }
+        },
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Originaire de Halifax avec 9 ans d’expérience dans le domaine, Cory  matrise les coupes courtes et mi-longues en plus d'exceller avec la lame!<\/p>"
+          }
+        },
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Instagram de Cory",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-0",
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-1",
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2022-11-10_16-27-22.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -474,6 +509,7 @@
     "1650400407be51ad31",
     "1628804250dd5b25a2",
     "46e592ac-6dee-4011-a757-e6405b49f497",
-    "4093784b-c8fd-4ff6-a98c-59c496085368"
+    "4093784b-c8fd-4ff6-a98c-59c496085368",
+    "df3f3529-98a9-48bd-965e-fe3ebada642f"
   ]
 }
