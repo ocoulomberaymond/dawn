@@ -1,6 +1,8 @@
 {
   "current": {
+    "colors_solid_button_labels": "#62c328",
     "colors_accent_2": "#e22120",
+    "colors_background_1": "#ffffff",
     "colors_background_2": "#cecece",
     "type_header_font": "arvo_n7",
     "type_body_font": "daytona_n4",
