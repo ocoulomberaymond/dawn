@@ -207,7 +207,15 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-14T232321.102.png",
             "title": "Huile de Jojoba",
-            "text": "<p>Cette huile aux propriétées anti-inflammatoires qui aident à apprivoiser les frottements et les gerçures, à réduire les rougeurs causées par le dessèchement, à atténuer les effets de l'eczéma et de la rosacée et à garder la peau calme et confortable.<\/p>"
+            "text": "<p>Cette huile aux propriétées<strong> anti-inflammatoires<\/strong> qui aident à apprivoiser les frottements et les gerçures, à réduire les rougeurs causées par le dessèchement, à atténuer les effets de l'eczéma et de la rosacée et à garder la peau calme et confortable.<\/p>"
+          }
+        },
+        "c83a2165-650b-4349-9dbb-e3b563bc6a5f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-14T232718.390.png",
+            "title": "Huile de Cannabis Sativa",
+            "text": "<p>Bénéfique pour tous les types de peau car il hydrate sans obstruer les pores. Il aidera à réguler une peau grasse, tout en la gardant hydratée, équilibrée et à distance des bactéries responsables de l'acné.<\/p>"
           }
         }
       },
@@ -215,7 +223,8 @@
         "16439075811b954e10-0",
         "16439075811b954e10-1",
         "16439075811b954e10-2",
-        "6c6e1b35-b7e0-4a13-a4a4-8653c38c4f77"
+        "6c6e1b35-b7e0-4a13-a4a4-8653c38c4f77",
+        "c83a2165-650b-4349-9dbb-e3b563bc6a5f"
       ],
       "settings": {
         "title": "Liste d'ingrédients",
