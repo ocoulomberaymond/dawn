@@ -215,7 +215,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-14T232718.390.png",
             "title": "Huile de Cannabis Sativa",
-            "text": "<p>Bénéfique pour tous les types de peau car il hydrate sans obstruer les pores. Il aidera à réguler une peau grasse, tout en la gardant hydratée, équilibrée et à distance des bactéries responsables de l'acné.<\/p>"
+            "text": "<p>Bénéfique pour tous les types de peau car il <strong>hydrate sans obstruer les pores<\/strong>. Il aidera à réguler une peau grasse, tout en la gardant hydratée, équilibrée et à distance des bactéries responsables de l'acné.<\/p>"
           }
         }
       },
