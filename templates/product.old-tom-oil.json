@@ -346,7 +346,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "You may also like",
+        "heading": "Tant qu'à être là....ajoute donc de quoi de plus!",
         "image_ratio": "square",
         "show_secondary_image": false,
         "add_image_padding": false,
