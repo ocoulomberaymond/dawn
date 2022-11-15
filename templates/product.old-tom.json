@@ -201,12 +201,21 @@
             "title": "Juniper berry oil",
             "text": "<p>Juniper is the main ingredient used in producing Gin. Combined with je grapefruit bark oil, we get a bit of a citrus gin fragrance that is verry pleasant. It also promote blood circulation<\/p>"
           }
+        },
+        "6c6e1b35-b7e0-4a13-a4a4-8653c38c4f77": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-14T232321.102.png",
+            "title": "Huile de Jojoba",
+            "text": "<p>Cette huile aux propriétées anti-inflammatoires qui aident à apprivoiser les frottements et les gerçures, à réduire les rougeurs causées par le dessèchement, à atténuer les effets de l'eczéma et de la rosacée et à garder la peau calme et confortable.<\/p>"
+          }
         }
       },
       "block_order": [
         "16439075811b954e10-0",
         "16439075811b954e10-1",
-        "16439075811b954e10-2"
+        "16439075811b954e10-2",
+        "6c6e1b35-b7e0-4a13-a4a4-8653c38c4f77"
       ],
       "settings": {
         "title": "Liste d'ingrédients",
