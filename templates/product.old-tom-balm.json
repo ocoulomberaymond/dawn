@@ -420,6 +420,19 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "125a6a9c-928f-4c7e-824d-fccb32469239": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Sur le blogue",
+        "blog": "soins-barbe",
+        "post_limit": 3,
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "soft_background": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -431,6 +444,7 @@
     "1645631103ed7ac15b",
     "164398193391bef5bf",
     "product-recommendations",
-    "e2d25d71-b0c9-4850-b31e-7623feaab02f"
+    "e2d25d71-b0c9-4850-b31e-7623feaab02f",
+    "125a6a9c-928f-4c7e-824d-fccb32469239"
   ]
 }
