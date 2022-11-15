@@ -60,7 +60,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Description",
-            "content": "<p>Created and developed by Dillinger’s barbers, this soap will clean your body and your beard without drying your skin and whiskers!<\/p><p><strong>-100% natural carriers and essential oils<\/strong><\/p><p><strong>-No chemical fragrances<\/strong><\/p><p><strong>-Made in Canada<\/strong><\/p><p><strong>-Size 5oz<\/strong><\/p>",
+            "content": "<p>Créé et développé par les barbiers du Dillinger pour hydrater votre peau, prévenir les pellicules de barbe et ajouter un parfum agréable et revigorant de pamplemousse et de genévrier<\/p><p><strong>-100% Naturel<\/strong><\/p><p><strong>-Sans parfum<\/strong><\/p><p><strong>-Fait au Canada<\/strong><\/p><p> 30ml<\/p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -97,8 +97,6 @@
         "share"
       ],
       "settings": {
-        "title_desksize": 27,
-        "title_mobsize": 18,
         "enable_sticky_info": true,
         "hide_variants": false,
         "enable_video_looping": false
