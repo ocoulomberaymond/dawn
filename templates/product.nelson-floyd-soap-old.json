@@ -480,6 +480,16 @@
         "hide_variants": false,
         "enable_video_looping": false
       }
+    },
+    "cc38936c-7662-4983-8754-c49ba1292088": {
+      "type": "video",
+      "settings": {
+        "heading": "TON SAVON EST-IL EN TRAIN DE TE TUER?",
+        "cover_image": "shopify:\/\/shop_images\/2022-11-14_22-28-02.png",
+        "video_url": "https:\/\/youtu.be\/TaaKW1rVbmQ",
+        "description": "Pouruqoi utiliser un savon naturel?!?!",
+        "full_width": false
+      }
     }
   },
   "order": [
@@ -491,6 +501,7 @@
     "1645631103ed7ac15b",
     "164398193391bef5bf",
     "product-recommendations",
-    "1646769544ce6269d4"
+    "1646769544ce6269d4",
+    "cc38936c-7662-4983-8754-c49ba1292088"
   ]
 }
