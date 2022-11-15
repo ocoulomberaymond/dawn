@@ -217,6 +217,14 @@
             "title": "Huile de Cannabis Sativa",
             "text": "<p>Bénéfique pour tous les types de peau car il <strong>hydrate sans obstruer les pores<\/strong>. Il aidera à réguler une peau grasse, tout en la gardant hydratée, équilibrée et à distance des bactéries responsables de l'acné.<\/p>"
           }
+        },
+        "d67cf6d7-e469-48d2-a876-9fd9c1b9def1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-14T233342.357.png",
+            "title": "Acide Citrique",
+            "text": "<p>Favorise l'<strong>exfoliation<\/strong> et le renouvellement cellulaire de la peau et est également une <strong>bonne source d'antioxydants, <\/strong>sans obstruer les pores.  De plus, Il aidera à  maintenir un ph bien équilibré.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -224,7 +232,8 @@
         "16439075811b954e10-1",
         "16439075811b954e10-2",
         "6c6e1b35-b7e0-4a13-a4a4-8653c38c4f77",
-        "c83a2165-650b-4349-9dbb-e3b563bc6a5f"
+        "c83a2165-650b-4349-9dbb-e3b563bc6a5f",
+        "d67cf6d7-e469-48d2-a876-9fd9c1b9def1"
       ],
       "settings": {
         "title": "Liste d'ingrédients",
