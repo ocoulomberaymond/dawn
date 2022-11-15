@@ -60,7 +60,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Description",
-            "content": "<p>Created and developed by Dillinger’s barbers to provide moisture to your skin, prevent beard dandruff and add a pleasant and invigorating fragrance of grapefruit & juniper<\/p><p><strong>-100% natural carriers and essential oils<\/strong><\/p><p><strong>-No chemical fragrances<\/strong><\/p><p><strong>-Made in Canada<\/strong><\/p><p><strong>-Barbershop grade<\/strong><\/p><p>-Size 30ml<\/p>",
+            "content": "<p>Créé et développé par les barbiers du Dillinger pour hydrater votre peau, prévenir les pellicules de barbe et ajouter un parfum agréable et revigorant de pamplemousse et de genévrier<\/p><p><strong>-100% Naturel<\/strong><\/p><p><strong>-Sans parfum<\/strong><\/p><p><strong>-Fait au Canada<\/strong><\/p><p> 50 ml<\/p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -69,7 +69,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Specifications",
-            "content": "<p>Developed by Dillinger's boutique & barbershop grooming experts in collaboration with Educated beards the first fragrance of our Nelson & Floyd Grooming co brand is based on a fresh citrusy gin.<\/p><p>We named this fragrance  <strong>Old Tom<\/strong> in memory of an ancient gin type that was considered the ''missing link'' between the dutch genever and the london dry. Made from <strong>100% natural carrier oils and essential oils<\/strong>, this grapefruit bark & juniper fragrance is fresh, not overpowering and will certainly help to wake up your senses on a rough morning!<\/p><p>Shine: Medium<\/p><p>Fragrance: Grapefruit & Juniper<\/p>",
+            "content": "<p>Développé par les experts en grooming de la boutique et du barbiershop Dillinger's, en collaboration avec Educated beards, le premier parfum de notre marque Nelson & Floyd Grooming co est basé sur un gin frais aux agrumes.<\/p><p>En fait le Gin de type Ol Tom était considéré comme le 'chaînon manquant'' entre le Dutch genever et le london dry.<\/p><p> Fabriqué à partir d'huiles de support et d'huiles essentielles 100 % naturelles, ce parfum d'écorce de pamplemousse et de genévrier est frais, pas trop fort et aidera certainement à réveiller vos sens par une matinée difficile !<\/p><p><\/p><p>pamplemousse et genévrier<\/p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -110,7 +110,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T141808.991.png",
             "title": "",
-            "text": "<p>Non Tested <\/p><p>On Rabbits<\/p>"
+            "text": "<p>Non Testé<\/p><p>sur Lapins<\/p>"
           }
         },
         "1644001972cd333b52-1": {
@@ -118,7 +118,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142005.015.png",
             "title": "",
-            "text": "<p>No Harsh<\/p><p>Chemicals<\/p>"
+            "text": "<p>Pas une Potion<\/p><p>Magique<\/p>"
           }
         },
         "1644001972cd333b52-2": {
@@ -126,7 +126,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142126.499.png",
             "title": "",
-            "text": "<p>Developped<\/p><p>by Barbers<\/p>"
+            "text": "<p>Developpé par des<\/p><p>Barbiers<\/p>"
           }
         },
         "7f8ebea7-cdff-46ba-9d85-0783194b8970": {
@@ -143,7 +143,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142310.874.png",
             "title": "",
-            "text": "<p>Made of Natural<\/p><p>Ingredients<\/p>"
+            "text": "<p>Ingrédients<\/p><p>naturels<\/p>"
           }
         }
       },
@@ -172,16 +172,16 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/burro-di-karite.jpeg.pagespeed.ce.0632cS99cK.jpg",
-            "title": "Shea butter*",
-            "text": "<p>Moisturize, hydrate and has anti-inflammatory properties which is great for any rashes or itchiness on your skin. <em>*organic<\/em><\/p>"
+            "title": "Beurre de Karité*",
+            "text": "<p>Hydrate et a des propriétés anti-inflammatoires qui sont idéales pour les éruptions cutanées ou les démangeaisons sur votre peau. *BIO<\/p>"
           }
         },
         "23bc9449-e2da-420b-8c2e-d6cf7ef0ffb5": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/istockphoto-539365448-612x612.jpg",
-            "title": "Sweet almond oil*",
-            "text": "<p>Will help nourrish the skin and facial hair and provide added shine to your beard. <em>*organic<\/em><\/p>"
+            "title": "L'huile d'amande Douce*",
+            "text": "<p>Aidera à nourrir la peau et les poils du visage et apportera un éclat supplémentaire à votre barbe. *BIO<\/p>"
           }
         },
         "693bfdf3-0dbb-4ae7-8e2f-5f6bcb3bace1": {
@@ -217,7 +217,7 @@
         "16439075811b954e10-2"
       ],
       "settings": {
-        "title": "Old Tom Beard Balm Ingredients list",
+        "title": "Les ingrédients de notre huile à  barbe",
         "image_width": "half",
         "image_ratio": "square",
         "column_alignment": "center",
