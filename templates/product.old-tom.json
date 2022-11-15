@@ -269,6 +269,16 @@
         "soft_background": false,
         "show_view_all": false
       }
+    },
+    "d7082acf-5a3f-4a1a-9e73-08863a4a6f37": {
+      "type": "video",
+      "settings": {
+        "heading": "Mais pourquoi je me servirais de ça?",
+        "cover_image": "shopify:\/\/shop_images\/sa_von_a_barbe.png",
+        "video_url": "https:\/\/youtu.be\/tdzVMc19dMI",
+        "description": "savon a  barbe",
+        "full_width": false
+      }
     }
   },
   "order": [
@@ -277,6 +287,7 @@
     "164390758276813c05",
     "1644002186c85921dd",
     "product-recommendations",
-    "77bbd9d5-ec4c-4adc-b49c-b052711de5d3"
+    "77bbd9d5-ec4c-4adc-b49c-b052711de5d3",
+    "d7082acf-5a3f-4a1a-9e73-08863a4a6f37"
   ]
 }
