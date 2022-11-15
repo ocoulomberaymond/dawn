@@ -355,8 +355,8 @@
     "164398193391bef5bf": {
       "type": "video",
       "settings": {
-        "heading": "DO YOU NEED A BEARD OIL OR A BEARD BALM?",
-        "cover_image": "shopify:\/\/shop_images\/YouTube_Thumbnail_6.png",
+        "heading": "HUILE OU BAUME , LEQUEL CHOISIR?",
+        "cover_image": "shopify:\/\/shop_images\/2022-11-14_21-15-07.png",
         "video_url": "https:\/\/youtu.be\/4-oQFdSirfg",
         "description": "beard balm vs beard oil video",
         "full_width": false
@@ -365,7 +365,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "You may also like",
+        "heading": "Tant qu'à être rendu...",
         "image_ratio": "square",
         "show_secondary_image": false,
         "add_image_padding": false,
