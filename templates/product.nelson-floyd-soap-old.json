@@ -221,24 +221,24 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/beeswax.jpg",
-            "title": "Beeswax",
-            "text": "<p>Used in very small amount to make soap harder and longer lasting.<\/p>"
+            "title": "Cire d'abeille",
+            "text": "<p>Utilisé en très petite quantité pour rendre le savon plus dur et plus durable.<\/p>"
           }
         },
         "16439075811b954e10-1": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/grapefruit_760d5a3f-0e30-42d4-8b63-1dc039de6133.jpg",
-            "title": "Grapefruit bark oil",
-            "text": "<p>The grapefruit bark oil not only invigorate your senses but has antimicrobial properties and is also extremely good for your skin.<\/p>"
+            "title": "Huile d'écorce de Pamplemousse",
+            "text": "<p>L'huile d'écorce de pamplemousse non seulement revigore vos sens, mais possède des propriétés antimicrobiennes et est également extrêmement bonne pour votre peau.<\/p>"
           }
         },
         "16439075811b954e10-2": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/spice-juniper-berries-2.jpg",
-            "title": "Juniper berry oil",
-            "text": "<p>Juniper is the main ingredient used in producing Gin. Combined with je grapefruit bark oil, we get a bit of a citrus gin fragrance that is verry pleasant. It also promote blood circulation<\/p>"
+            "title": "Huile de Genévrier",
+            "text": "<p>Le genévrier est le principal ingrédient utilisé dans la production de Gin. Combiné avec de l'huile d'écorce de pamplemousse je, on obtient un petit parfum de gin aux agrumes très agréable. Il favorise également la circulation sanguine<\/p>"
           }
         }
       },
