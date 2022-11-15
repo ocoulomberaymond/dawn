@@ -360,13 +360,13 @@
         "164563110344fa6cb7-0": {
           "type": "heading",
           "settings": {
-            "heading": "The Fragrance"
+            "heading": "Le Parfum"
           }
         },
         "164563110344fa6cb7-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The <strong>Old Tom Gin<\/strong> was once considered the ''<em>missing link<\/em>'' of the gin world! Popular in the late 1800's and early 1900's, it is now making a comeback on the craft cocktail scene!<\/p><p>We decided to pay tribute to this iconic beverage by combining the <strong>juniper berry and grapefruit bark<\/strong> fragrances into a fresh, sweet and invigorating perfume!<\/p>"
+            "text": "<p>Le <strong>Old Tom<\/strong> Gin était autrefois considéré comme le ''chaînon manquant'' du monde du gin ! Populaire à la fin des années 1800 et au début des années 1900, il fait maintenant son grand retour sur la scène des cocktails artisanaux !<br\/><br\/>Nous avons décidé de rendre hommage à cette boisson iconique en associant les senteurs de baies de genévrier et d'écorce de pamplemousse dans un parfum frais, doux et vivifiant !<\/p>"
           }
         },
         "164563110344fa6cb7-2": {
@@ -385,7 +385,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-10T150452.636.png",
         "height": "adapt",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "layout": "image_first"
       }
     },
@@ -403,7 +403,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "You may also like",
+        "heading": "Si jamais  ça te tente...",
         "image_ratio": "square",
         "show_secondary_image": false,
         "add_image_padding": false,
