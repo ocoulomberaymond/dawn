@@ -348,7 +348,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-10T150452.636.png",
         "height": "adapt",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "layout": "image_first"
       }
     },
