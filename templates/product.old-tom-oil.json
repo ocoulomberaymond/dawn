@@ -60,7 +60,7 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Description",
-            "content": "<p>Créé et développé par les barbiers du Dillinger pour hydrater votre peau, prévenir les pellicules de barbe et ajouter un parfum agréable et revigorant de pamplemousse et de genévrier<\/p><p><strong>-100% Naturel<\/strong><\/p><p><strong>-Sans parfum<\/strong><\/p><p><strong>-Fait au Canada<\/strong><\/p><p> 30ml<\/p>",
+            "content": "<p>Créé et développé par les barbiers du Dillinger pour hydrater votre peau, prévenir les pellicules de barbe et ajouter un parfum agréable et revigorant de pamplemousse et de genévrier<\/p><p><strong>-100% Naturel<\/strong><\/p><p><strong>-Sans parfum artificiel<\/strong><\/p><p><strong>-Fait au Canada<\/strong><\/p><p> 30ml<\/p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -250,7 +250,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "secondary",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": true
@@ -376,7 +376,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-10T150452.636.png",
         "height": "adapt",
-        "color_scheme": "background-2",
+        "color_scheme": "inverse",
         "layout": "image_first"
       }
     },
