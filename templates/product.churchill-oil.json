@@ -336,13 +336,26 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "You may also like",
+        "heading": "Tant qu'à faire...",
         "image_ratio": "square",
         "show_secondary_image": false,
         "add_image_padding": false,
         "show_image_outline": true,
         "show_vendor": false,
         "show_rating": false
+      }
+    },
+    "e1a37321-c2a2-4de0-a971-861a60d9bc51": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Sur le Blogue",
+        "blog": "soins-barbe",
+        "post_limit": 3,
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "soft_background": false,
+        "show_view_all": false
       }
     }
   },
@@ -354,6 +367,7 @@
     "1644002186c85921dd",
     "1645631103ed7ac15b",
     "164398193391bef5bf",
-    "product-recommendations"
+    "product-recommendations",
+    "e1a37321-c2a2-4de0-a971-861a60d9bc51"
   ]
 }
