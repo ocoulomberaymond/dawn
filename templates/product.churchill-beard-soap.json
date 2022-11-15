@@ -357,6 +357,53 @@
         "soft_background": false,
         "show_view_all": false
       }
+    },
+    "0017afed-5db8-4039-8d57-4fa60654ccc6": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16845867057467__0017afed-5db8-4039-8d57-4fa60654ccc6-1668489739e381e08a-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "template--16845867057467__0017afed-5db8-4039-8d57-4fa60654ccc6-1668489739e381e08a-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "template--16845867057467__0017afed-5db8-4039-8d57-4fa60654ccc6-1668489739e381e08a-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16845867057467__0017afed-5db8-4039-8d57-4fa60654ccc6-1668489739e381e08a-0",
+        "template--16845867057467__0017afed-5db8-4039-8d57-4fa60654ccc6-1668489739e381e08a-1",
+        "template--16845867057467__0017afed-5db8-4039-8d57-4fa60654ccc6-1668489739e381e08a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COLLAB_2_73ab1691-1f30-47f6-9567-5961732ee44f.png",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -368,6 +415,7 @@
     "1645631103ed7ac15b",
     "164398193391bef5bf",
     "product-recommendations",
-    "754ff5ee-ba95-4f7a-bc41-6b0a72805e8d"
+    "754ff5ee-ba95-4f7a-bc41-6b0a72805e8d",
+    "0017afed-5db8-4039-8d57-4fa60654ccc6"
   ]
 }
