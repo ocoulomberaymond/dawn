@@ -344,6 +344,19 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "754ff5ee-ba95-4f7a-bc41-6b0a72805e8d": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Sur le Blogue",
+        "blog": "soins-barbe",
+        "post_limit": 3,
+        "show_image": true,
+        "show_date": true,
+        "show_author": true,
+        "soft_background": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -354,6 +367,7 @@
     "1644002186c85921dd",
     "1645631103ed7ac15b",
     "164398193391bef5bf",
-    "product-recommendations"
+    "product-recommendations",
+    "754ff5ee-ba95-4f7a-bc41-6b0a72805e8d"
   ]
 }
