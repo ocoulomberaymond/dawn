@@ -233,6 +233,14 @@
             "title": "Tocopherol - Vitamine E",
             "text": "<p>Connu comme un super-héros antioxydant qui offre une protection impressionnante à votre peau lorsqu'il est inclus dans les produits de soins corporels. Il aide aussi à réduire les dommages causés par les radicaux libres liés à la pollution.<\/p>"
           }
+        },
+        "7c8d32f4-c87f-4978-a1cc-50bdb6565449": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-14T234918.729.png",
+            "title": "Huile d'Écorce de Pamplemousse",
+            "text": "<p>Nous n'utilisons PAS de parfums artificiels dans nos produits pour la barbe. L'huile d'écorce de pamplemousse non seulement revigore vos sens, mais possède des propriétés antimicrobiennes et est également extrêmement bonne pour votre peau.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -242,7 +250,8 @@
         "6c6e1b35-b7e0-4a13-a4a4-8653c38c4f77",
         "c83a2165-650b-4349-9dbb-e3b563bc6a5f",
         "d67cf6d7-e469-48d2-a876-9fd9c1b9def1",
-        "5516857a-9bcc-47de-8ad5-0995f22fd6b2"
+        "5516857a-9bcc-47de-8ad5-0995f22fd6b2",
+        "7c8d32f4-c87f-4978-a1cc-50bdb6565449"
       ],
       "settings": {
         "title": "Liste d'ingrédients",
