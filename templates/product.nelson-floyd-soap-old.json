@@ -110,7 +110,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T141808.991.png",
             "title": "",
-            "text": "<p>Non Tested <\/p><p>On Rabbits<\/p>"
+            "text": "<p>Non Testé<\/p><p>sur Lapins<\/p>"
           }
         },
         "1644001972cd333b52-1": {
@@ -118,7 +118,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142005.015.png",
             "title": "",
-            "text": "<p>No Harsh<\/p><p>Chemicals<\/p>"
+            "text": "<p>Pas une Potion<\/p><p>Magique<\/p>"
           }
         },
         "1644001972cd333b52-2": {
@@ -126,7 +126,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142126.499.png",
             "title": "",
-            "text": "<p>Developped<\/p><p>by Barbers<\/p>"
+            "text": "<p>Developpé par des <\/p><p>Barbiers<\/p>"
           }
         },
         "7f8ebea7-cdff-46ba-9d85-0783194b8970": {
@@ -143,7 +143,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142310.874.png",
             "title": "",
-            "text": "<p>Made of Natural<\/p><p>Ingredients<\/p>"
+            "text": "<p>Ingrédients <\/p><p>naturels<\/p>"
           }
         }
       },
@@ -172,24 +172,24 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/olive-oil__79818.1586289416.jpg",
-            "title": "Olive Oil",
-            "text": "<p>Used in soap fabrication for centuries, olive oil is the perfect skin moisturizer and so lite on the skin that it can be used on babies!<\/p>"
+            "title": "Huile d'Olive",
+            "text": "<p>Utilisée dans la fabrication du savon depuis des siècles, l'huile d'olive est l'hydratant parfait pour la peau et si légère sur la peau qu'elle peut être utilisée sur les bébés !<\/p>"
           }
         },
         "6d5f2d3d-e058-4b74-b535-4636504f6e3a": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/health-benefits-of-coconut-guide-main-image-700-350-a1efd38.jpg",
-            "title": "Coconut Oil",
-            "text": "<p>Great for its cleansing properties, coconut oils and also leave a protective layer on your skin.<\/p>"
+            "title": "Huile de Coco",
+            "text": "<p>Idéal pour ses propriétés nettoyantes, ses huiles de noix de coco et laisse également une couche protectrice sur votre peau.<\/p>"
           }
         },
         "c8fdb13b-3174-4419-9171-54ab43246979": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/calendula_marigold_480x352_ecf4f954-c217-457e-88df-df85305720c1.jpg",
-            "title": "Calendula infused oil",
-            "text": "<p>Chosed for it's antifungal, anti-inflammatory, and antibacterial properties that make it useful in <strong>healing wounds, soothing eczema, and relieving rashes<\/strong>.<\/p>"
+            "title": "Huile infusée au Calendule",
+            "text": "<p>Choisi pour ses propriétés antifongiques, anti-inflammatoires et antibactériennes qui le rendent utile pour cicatriser les plaies, apaiser l'eczéma et soulager les éruptions cutanées.<\/p>"
           }
         },
         "36bfbbd5-eb01-40db-a345-f7740d8f3ca3": {
@@ -254,7 +254,7 @@
         "16439075811b954e10-2"
       ],
       "settings": {
-        "title": "Old Tom Soap Ingredients",
+        "title": "Les ingrédients du savon à Barbe Old Tom",
         "image_width": "third",
         "image_ratio": "square",
         "column_alignment": "center",
