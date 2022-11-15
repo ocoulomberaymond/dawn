@@ -165,16 +165,6 @@
         "swipe_on_mobile": true
       }
     },
-    "d7082acf-5a3f-4a1a-9e73-08863a4a6f37": {
-      "type": "video",
-      "settings": {
-        "heading": "Mais pourquoi je me servirais de ça?",
-        "cover_image": "shopify:\/\/shop_images\/sa_von_a_barbe.png",
-        "video_url": "https:\/\/youtu.be\/tdzVMc19dMI",
-        "description": "savon a  barbe",
-        "full_width": false
-      }
-    },
     "164390758276813c05": {
       "type": "multicolumn",
       "blocks": {
@@ -194,12 +184,12 @@
             "text": "<p><strong>Hydrate la peau sèche<\/strong>, y compris chez les personnes souffrant d'affections telles que l'eczéma. <strong>réduit l'inflammation<\/strong>, qui peut résulter des rayons UVB. Favoris e la cicatrisation des plaies et  possède  des propriétées <strong>antibactériennes, antifongiques et antivirales.<\/strong><\/p>"
           }
         },
-        "16439075811b954e10-2": {
+        "c83a2165-650b-4349-9dbb-e3b563bc6a5f": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/spice-juniper-berries-2.jpg",
-            "title": "Juniper berry oil",
-            "text": "<p>Juniper is the main ingredient used in producing Gin. Combined with je grapefruit bark oil, we get a bit of a citrus gin fragrance that is verry pleasant. It also promote blood circulation<\/p>"
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-14T232718.390.png",
+            "title": "Huile de Cannabis Sativa",
+            "text": "<p>Bénéfique pour tous les types de peau car il <strong>hydrate sans obstruer les pores<\/strong>. Il aidera à réguler une peau grasse, tout en la gardant hydratée, équilibrée et à distance des bactéries responsables de l'acné.<\/p>"
           }
         },
         "6c6e1b35-b7e0-4a13-a4a4-8653c38c4f77": {
@@ -210,12 +200,20 @@
             "text": "<p>Cette huile aux propriétées<strong> anti-inflammatoires<\/strong> qui aident à apprivoiser les frottements et les gerçures, à réduire les rougeurs causées par le dessèchement, à atténuer les effets de l'eczéma et de la rosacée et à garder la peau calme et confortable.<\/p>"
           }
         },
-        "c83a2165-650b-4349-9dbb-e3b563bc6a5f": {
+        "7c8d32f4-c87f-4978-a1cc-50bdb6565449": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-14T232718.390.png",
-            "title": "Huile de Cannabis Sativa",
-            "text": "<p>Bénéfique pour tous les types de peau car il <strong>hydrate sans obstruer les pores<\/strong>. Il aidera à réguler une peau grasse, tout en la gardant hydratée, équilibrée et à distance des bactéries responsables de l'acné.<\/p>"
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-14T234918.729.png",
+            "title": "Huile d'Écorce de Pamplemousse",
+            "text": "<p>Nous n'utilisons PAS de parfums artificiels dans nos produits pour la barbe. L'huile d'écorce de pamplemousse non seulement revigore vos sens, mais possède des propriétés antimicrobiennes et est également extrêmement bonne pour votre peau.<\/p>"
+          }
+        },
+        "16439075811b954e10-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spice-juniper-berries-2.jpg",
+            "title": "Juniper berry oil",
+            "text": "<p>Juniper is the main ingredient used in producing Gin. Combined with je grapefruit bark oil, we get a bit of a citrus gin fragrance that is verry pleasant. It also promote blood circulation<\/p>"
           }
         },
         "d67cf6d7-e469-48d2-a876-9fd9c1b9def1": {
@@ -234,14 +232,6 @@
             "text": "<p>Connu comme un super-héros antioxydant qui offre une protection impressionnante à votre peau lorsqu'il est inclus dans les produits de soins corporels. Il aide aussi à réduire les dommages causés par les radicaux libres liés à la pollution.<\/p>"
           }
         },
-        "7c8d32f4-c87f-4978-a1cc-50bdb6565449": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-14T234918.729.png",
-            "title": "Huile d'Écorce de Pamplemousse",
-            "text": "<p>Nous n'utilisons PAS de parfums artificiels dans nos produits pour la barbe. L'huile d'écorce de pamplemousse non seulement revigore vos sens, mais possède des propriétés antimicrobiennes et est également extrêmement bonne pour votre peau.<\/p>"
-          }
-        },
         "a3f0b528-e828-4be0-adbb-0600f987339c": {
           "type": "column",
           "settings": {
@@ -254,23 +244,69 @@
       "block_order": [
         "16439075811b954e10-0",
         "16439075811b954e10-1",
-        "16439075811b954e10-2",
-        "6c6e1b35-b7e0-4a13-a4a4-8653c38c4f77",
         "c83a2165-650b-4349-9dbb-e3b563bc6a5f",
+        "6c6e1b35-b7e0-4a13-a4a4-8653c38c4f77",
+        "7c8d32f4-c87f-4978-a1cc-50bdb6565449",
+        "16439075811b954e10-2",
         "d67cf6d7-e469-48d2-a876-9fd9c1b9def1",
         "5516857a-9bcc-47de-8ad5-0995f22fd6b2",
-        "7c8d32f4-c87f-4978-a1cc-50bdb6565449",
         "a3f0b528-e828-4be0-adbb-0600f987339c"
       ],
       "settings": {
         "title": "Liste d'ingrédients",
-        "image_width": "full",
-        "image_ratio": "adapt",
+        "image_width": "third",
+        "image_ratio": "square",
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": true
+      }
+    },
+    "d7082acf-5a3f-4a1a-9e73-08863a4a6f37": {
+      "type": "video",
+      "settings": {
+        "heading": "Mais pourquoi je me servirais de ça?",
+        "cover_image": "shopify:\/\/shop_images\/sa_von_a_barbe.png",
+        "video_url": "https:\/\/youtu.be\/tdzVMc19dMI",
+        "description": "savon a  barbe",
+        "full_width": false
+      }
+    },
+    "1644002186c85921dd": {
+      "type": "rich-text",
+      "blocks": {
+        "1644002186d2b9b50c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nelson & Floyd produits grooming",
+            "heading_size": "h1"
+          }
+        },
+        "1644002186d2b9b50c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Développé par les experts en grooming de la boutique et du barbershop  Dillinger's, en collaboration avec Educated beards, le premier trio de produits de notre marque maison Nelson & Floyd Grooming Co a été mis à la disposition du public en juin 2021. <\/p><p>Notre mission est d'offrir des produits de qualité professionnelle qui sont développés sur la base non seulement des commentaires que nous recevons de nos clients, mais également de nos connaissances approfondies            et de notre expertise en tant que barbiers professionnels!<\/p>"
+          }
+        },
+        "1644002186d2b9b50c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1644002186d2b9b50c-0",
+        "1644002186d2b9b50c-1",
+        "1644002186d2b9b50c-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
       }
     },
     "77bbd9d5-ec4c-4adc-b49c-b052711de5d3": {
@@ -286,42 +322,6 @@
         "show_view_all": false
       }
     },
-    "1644002186c85921dd": {
-      "type": "rich-text",
-      "blocks": {
-        "1644002186d2b9b50c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Développé par les experts en grooming de la boutique et du barbershop  Dillinger's, en collaboration avec Educated beards, le premier trio de produits de notre marque maison Nelson & Floyd Grooming Co a été mis à la disposition du public en juin 2021. <\/p><p>Notre mission est d'offrir des produits de qualité professionnelle qui sont développés sur la base non seulement des commentaires que nous recevons de nos clients, mais également de nos connaissances approfondies            et de notre expertise en tant que barbiers professionnels!<\/p>"
-          }
-        },
-        "1644002186d2b9b50c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Nelson & Floyd produits grooming",
-            "heading_size": "h1"
-          }
-        },
-        "1644002186d2b9b50c-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "1644002186d2b9b50c-1",
-        "1644002186d2b9b50c-0",
-        "1644002186d2b9b50c-2"
-      ],
-      "settings": {
-        "color_scheme": "background-2",
-        "full_width": true
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -333,15 +333,105 @@
         "show_vendor": false,
         "show_rating": false
       }
+    },
+    "634f332f-a561-4552-b574-e212cf74acac": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "template--14343700021313__634f332f-a561-4552-b574-e212cf74acac-16684856844f86fe08-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video",
+            "image_padding": false
+          }
+        },
+        "template--14343700021313__634f332f-a561-4552-b574-e212cf74acac-16684856844f86fe08-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "template--14343700021313__634f332f-a561-4552-b574-e212cf74acac-16684856844f86fe08-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14343700021313__634f332f-a561-4552-b574-e212cf74acac-16684856844f86fe08-0",
+        "template--14343700021313__634f332f-a561-4552-b574-e212cf74acac-16684856844f86fe08-1",
+        "template--14343700021313__634f332f-a561-4552-b574-e212cf74acac-16684856844f86fe08-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
+    "9394a1f5-755c-4127-97bb-bab4e778905b": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14343700021313__9394a1f5-755c-4127-97bb-bab4e778905b-1668485684ad46f002-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "template--14343700021313__9394a1f5-755c-4127-97bb-bab4e778905b-1668485684ad46f002-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "template--14343700021313__9394a1f5-755c-4127-97bb-bab4e778905b-1668485684ad46f002-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14343700021313__9394a1f5-755c-4127-97bb-bab4e778905b-1668485684ad46f002-0",
+        "template--14343700021313__9394a1f5-755c-4127-97bb-bab4e778905b-1668485684ad46f002-1",
+        "template--14343700021313__9394a1f5-755c-4127-97bb-bab4e778905b-1668485684ad46f002-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COLLAB_2.png",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "main",
     "16440019724958e8e1",
-    "d7082acf-5a3f-4a1a-9e73-08863a4a6f37",
     "164390758276813c05",
-    "77bbd9d5-ec4c-4adc-b49c-b052711de5d3",
+    "d7082acf-5a3f-4a1a-9e73-08863a4a6f37",
     "1644002186c85921dd",
-    "product-recommendations"
+    "77bbd9d5-ec4c-4adc-b49c-b052711de5d3",
+    "product-recommendations",
+    "634f332f-a561-4552-b574-e212cf74acac",
+    "9394a1f5-755c-4127-97bb-bab4e778905b"
   ]
 }
