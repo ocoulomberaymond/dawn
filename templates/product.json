@@ -143,18 +143,11 @@
         "show_vendor": false,
         "show_rating": false
       }
-    },
-    "social_widget_49763": {
-      "type": "social-widget",
-      "settings": {
-        "social_widget_id": "49763"
-      }
     }
   },
   "order": [
     "main",
     "164390758276813c05",
-    "product-recommendations",
-    "social_widget_49763"
+    "product-recommendations"
   ]
 }
