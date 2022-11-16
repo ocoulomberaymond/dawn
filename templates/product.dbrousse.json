@@ -834,6 +834,53 @@
         "soft_background": false,
         "show_view_all": true
       }
+    },
+    "b01bc32f-0aae-4471-9c79-1a48fb2027ab": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14599022805057__b01bc32f-0aae-4471-9c79-1a48fb2027ab-1668568989c5005a8a-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "template--14599022805057__b01bc32f-0aae-4471-9c79-1a48fb2027ab-1668568989c5005a8a-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "template--14599022805057__b01bc32f-0aae-4471-9c79-1a48fb2027ab-1668568989c5005a8a-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14599022805057__b01bc32f-0aae-4471-9c79-1a48fb2027ab-1668568989c5005a8a-0",
+        "template--14599022805057__b01bc32f-0aae-4471-9c79-1a48fb2027ab-1668568989c5005a8a-1",
+        "template--14599022805057__b01bc32f-0aae-4471-9c79-1a48fb2027ab-1668568989c5005a8a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/J_ai_le_pocho_n_tellement_lisse_que_ma_blonde_a_commencer_a_me_l_emprunter.png",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -855,6 +902,7 @@
     "1646777085d7a226d0",
     "16467708824b3f450b",
     "1644002186c85921dd",
-    "48e5f94f-2028-4f79-bf47-61c440acfdaf"
+    "48e5f94f-2028-4f79-bf47-61c440acfdaf",
+    "b01bc32f-0aae-4471-9c79-1a48fb2027ab"
   ]
 }
