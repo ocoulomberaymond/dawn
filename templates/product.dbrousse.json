@@ -948,6 +948,41 @@
         "color_scheme": "inverse",
         "full_width": true
       }
+    },
+    "f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14599022805057__f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce-1668570602699ca588-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "NELSON & FLOYD",
+            "heading_size": "h0"
+          }
+        },
+        "template--14599022805057__f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce-1668570602699ca588-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p>Développé par les experts en grooming de la boutique et du barbershop Dillinger's, en collaboration avec Educated beards, le premier trio de produits de notre marque maison Nelson & Floyd Grooming Co a été mis à la disposition du public en juin 2021.<\/p><p>Notre mission est d'offrir des produits de qualité professionnelle qui sont développés sur la base non seulement des commentaires que nous recevons de nos clients, mais également de nos connaissances approfondies et de notre expertise en tant que barbiers professionnels!<\/p>"
+          }
+        },
+        "template--14599022805057__f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce-1668570602699ca588-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14599022805057__f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce-1668570602699ca588-0",
+        "template--14599022805057__f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce-1668570602699ca588-1",
+        "template--14599022805057__f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce-1668570602699ca588-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -971,6 +1006,7 @@
     "1646777085d7a226d0",
     "48e5f94f-2028-4f79-bf47-61c440acfdaf",
     "16467708824b3f450b",
-    "1644002186c85921dd"
+    "1644002186c85921dd",
+    "f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce"
   ]
 }
