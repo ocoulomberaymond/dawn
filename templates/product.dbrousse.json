@@ -499,59 +499,6 @@
         "layout": "text_first"
       }
     },
-    "1645630746bab70900": {
-      "type": "multicolumn",
-      "blocks": {
-        "1645630746dad2172b-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/bearded-man-in-sun-and-shadow.jpg",
-            "title": "⭐⭐⭐⭐⭐",
-            "text": "<p>Je m'en suis servi sur mon chat, Ça marche!<\/p><p><em>Tom G.<\/em><\/p>"
-          }
-        },
-        "1645630746dad2172b-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/man-scratches-head-in-front-of-yellow-door.jpg",
-            "title": "⭐⭐⭐⭐⭐",
-            "text": "<p>J'ai les bouttes fragiles. Grace au débrousse, je n'ai plus peur quand vien le temps de les tondres!<\/p><p><em>Matthew Wilder<\/em><\/p>"
-          }
-        },
-        "1645630746dad2172b-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/profile-of-a-man-with-beard-and-styled-hair.jpg",
-            "title": "⭐⭐⭐⭐⭐",
-            "text": "<p>J'ai tondu ma touffe en forme de parallélogramme, Un rêve enfin réalisé!<\/p><p><em>Claude B.<\/em><\/p>"
-          }
-        },
-        "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/women-smiling-in-front-of-silver-background.jpg",
-            "title": "⭐⭐⭐⭐⭐",
-            "text": "<p>J'aime la forme....quand je suis mal prise je m'en sert pour....me raser!<\/p><p><em>Samatha D.<\/em><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1645630746dad2172b-0",
-        "1645630746dad2172b-1",
-        "1645630746dad2172b-2",
-        "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b"
-      ],
-      "settings": {
-        "title": "Témoignages plus ou moins cédribles",
-        "image_width": "third",
-        "image_ratio": "circle",
-        "column_alignment": "center",
-        "background_style": "secondary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "1645631103ed7ac15b": {
       "type": "image-with-text",
       "disabled": true,
@@ -779,6 +726,127 @@
         "full_width": true
       }
     },
+    "1645630746bab70900": {
+      "type": "multicolumn",
+      "blocks": {
+        "1645630746dad2172b-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bearded-man-in-sun-and-shadow.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>Je m'en suis servi sur mon chat, Ça marche!<\/p><p><em>Tom G.<\/em><\/p>"
+          }
+        },
+        "1645630746dad2172b-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/man-scratches-head-in-front-of-yellow-door.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>J'ai les bouttes fragiles. Grace au débrousse, je n'ai plus peur quand vien le temps de les tondres!<\/p><p><em>Matthew Wilder<\/em><\/p>"
+          }
+        },
+        "1645630746dad2172b-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/profile-of-a-man-with-beard-and-styled-hair.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>J'ai tondu ma touffe en forme de parallélogramme, Un rêve enfin réalisé!<\/p><p><em>Claude B.<\/em><\/p>"
+          }
+        },
+        "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/women-smiling-in-front-of-silver-background.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>J'aime la forme....quand je suis mal prise je m'en sert pour....me raser!<\/p><p><em>Samatha D.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1645630746dad2172b-0",
+        "1645630746dad2172b-1",
+        "1645630746dad2172b-2",
+        "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b"
+      ],
+      "settings": {
+        "title": "Témoignages plus ou moins cédribles",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "e222bb52-d887-4254-867b-4ddcaa403916": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-0",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-1",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-2",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-3",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-4",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-5",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-6",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-7"
+      ],
+      "settings": {
+        "product": "nelson-floyd-d-brousse",
+        "secondary_background": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
     "1657035989f0d7a5a9": {
       "type": "video",
       "settings": {
@@ -814,6 +882,19 @@
       "settings": {
         "color_scheme": "inverse",
         "full_width": true
+      }
+    },
+    "48e5f94f-2028-4f79-bf47-61c440acfdaf": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Sur le blogue",
+        "blog": "peau-et-corps",
+        "post_limit": 3,
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "soft_background": false,
+        "show_view_all": true
       }
     },
     "16467708824b3f450b": {
@@ -867,19 +948,6 @@
         "color_scheme": "inverse",
         "full_width": true
       }
-    },
-    "48e5f94f-2028-4f79-bf47-61c440acfdaf": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "Sur le blogue",
-        "blog": "peau-et-corps",
-        "post_limit": 3,
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "soft_background": false,
-        "show_view_all": true
-      }
     }
   },
   "order": [
@@ -890,7 +958,6 @@
     "1647385412b7dba3c3",
     "164390758276813c05",
     "1656463261d257612b",
-    "1645630746bab70900",
     "1645631103ed7ac15b",
     "164398193391bef5bf",
     "product-recommendations",
@@ -898,10 +965,12 @@
     "1646776622eee3f0cf",
     "1656465053e1f04712",
     "164677687497f7fbe9",
+    "1645630746bab70900",
+    "e222bb52-d887-4254-867b-4ddcaa403916",
     "1657035989f0d7a5a9",
     "1646777085d7a226d0",
+    "48e5f94f-2028-4f79-bf47-61c440acfdaf",
     "16467708824b3f450b",
-    "1644002186c85921dd",
-    "48e5f94f-2028-4f79-bf47-61c440acfdaf"
+    "1644002186c85921dd"
   ]
 }
