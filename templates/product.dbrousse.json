@@ -247,8 +247,8 @@
         "template--14599022805057__b01bc32f-0aae-4471-9c79-1a48fb2027ab-1668568989c5005a8a-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/J_ai_le_pocho_n_tellement_lisse_que_ma_blonde_a_commencer_a_me_l_emprunter_1.png",
-        "adapt_height_first_image": false,
+        "image": "shopify:\/\/shop_images\/J_ai_le_pocho_n_tellement_lisse_que_ma_blonde_a_commencer_a_me_l_emprunter_2.png",
+        "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": true,
         "image_overlay_opacity": 0,
