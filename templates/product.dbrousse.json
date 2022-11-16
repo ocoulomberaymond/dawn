@@ -983,6 +983,28 @@
         "color_scheme": "inverse",
         "full_width": true
       }
+    },
+    "1668571329f903d673": {
+      "type": "apps",
+      "blocks": {
+        "64787da7-3314-4532-bdaa-c066815bc429": {
+          "type": "shopify:\/\/apps\/tikfeed-shoppable-tiktok-feed\/blocks\/app-block\/a4b51ea1-59d6-4f6f-8b98-a3d0aa912af8",
+          "settings": {
+            "heading_font": "helvetica_n4",
+            "heading_size": 20,
+            "feed_width": 100,
+            "section_top_padding": 0,
+            "section_bottom_padding": 0,
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "64787da7-3314-4532-bdaa-c066815bc429"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -1007,6 +1029,7 @@
     "1646777085d7a226d0",
     "48e5f94f-2028-4f79-bf47-61c440acfdaf",
     "16467708824b3f450b",
-    "1644002186c85921dd"
+    "1644002186c85921dd",
+    "1668571329f903d673"
   ]
 }
