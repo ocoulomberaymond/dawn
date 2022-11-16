@@ -983,6 +983,50 @@
         "color_scheme": "inverse",
         "full_width": true
       }
+    },
+    "cf6e7738-8f06-4247-9850-430f9bda8fda": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14599022805057__cf6e7738-8f06-4247-9850-430f9bda8fda-16685689909ea077ab-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-06-28T211818.952.png",
+            "title": "De la Tête aux Noix",
+            "text": "<p><\/p><p>Votre ensemble D-Brousse comprend 4 sabots de longueur différentes! <\/p><p>Vous serez en mesure de tailler tous les endroits de votre corps à la longueur désirée !<\/p>"
+          }
+        },
+        "template--14599022805057__cf6e7738-8f06-4247-9850-430f9bda8fda-16685689909ea077ab-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-06-28T211032.171.png",
+            "title": "À l'Épreuve de l'Eau",
+            "text": "<p>Utilisez votre D-Brousse sous la douche et nettoyez le sous l'eau sans problème! 90 minutes d'utilisation après seulement 120 minutes de charge!<\/p>"
+          }
+        },
+        "template--14599022805057__cf6e7738-8f06-4247-9850-430f9bda8fda-16685689909ea077ab-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-06-28T205719.956.png",
+            "title": "Technologie Testi-Guard",
+            "text": "<p>La combinaison de lames en céramique ajustées spécialement pour prévenir l'irritation, les poils incarnés et les coupures et une rotation de 7000 tours par minute permet de minimiser les risques de coupures!<\/p><p>Pour une utilisation optimale, placez la lame parallèle à la surface et bien étirez la peau!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14599022805057__cf6e7738-8f06-4247-9850-430f9bda8fda-16685689909ea077ab-0",
+        "template--14599022805057__cf6e7738-8f06-4247-9850-430f9bda8fda-16685689909ea077ab-1",
+        "template--14599022805057__cf6e7738-8f06-4247-9850-430f9bda8fda-16685689909ea077ab-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
     }
   },
   "order": [
@@ -1007,6 +1051,7 @@
     "1646777085d7a226d0",
     "48e5f94f-2028-4f79-bf47-61c440acfdaf",
     "16467708824b3f450b",
-    "1644002186c85921dd"
+    "1644002186c85921dd",
+    "cf6e7738-8f06-4247-9850-430f9bda8fda"
   ]
 }
