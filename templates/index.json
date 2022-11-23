@@ -3,18 +3,17 @@
     "abe1f877-f53d-41ce-ba68-cd86f0774dd5": {
       "type": "image-banner",
       "blocks": {
-        "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-1": {
           "type": "text",
           "settings": {
             "text": "C'EST LE TEMPS DE FAIRE LE PLEIN!"
+          }
+        },
+        "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "DU 25 AU 30 NOVEMBRE",
+            "heading_size": "medium"
           }
         },
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-2": {
@@ -22,7 +21,7 @@
           "settings": {
             "button_label_1": "COLLECTION 20% DE RABAIS",
             "button_link_1": "",
-            "button_style_secondary_1": false,
+            "button_style_secondary_1": true,
             "button_label_2": "COLLECTION 30% À 50% DE RABAIS",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -30,8 +29,8 @@
         }
       },
       "block_order": [
-        "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-0",
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-1",
+        "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-0",
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-2"
       ],
       "settings": {
