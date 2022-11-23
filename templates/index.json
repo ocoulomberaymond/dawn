@@ -2,7 +2,6 @@
   "sections": {
     "abe1f877-f53d-41ce-ba68-cd86f0774dd5": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-0": {
           "type": "heading",
@@ -14,19 +13,17 @@
         },
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "C'EST LE TEMPS DE FAIRE LE PLEIN!"
           }
         },
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-2": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "COLLECTION 20% DE RABAIS",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "COLLECTION 30% À 50% DE RABAIS",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -38,7 +35,7 @@
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Black_and_White_Simple_Black_Friday_Sale_Facebook_Ad_2.png",
+        "image": "shopify:\/\/shop_images\/Black_and_White_Simple_Black_Friday_Sale_Facebook_Ad_3.png",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
