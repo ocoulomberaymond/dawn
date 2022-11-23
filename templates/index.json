@@ -107,6 +107,7 @@
     },
     "image_text": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -142,6 +143,7 @@
     },
     "1628276279d0771e33": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "1628276279d0771e33-0": {
           "type": "heading",
@@ -230,6 +232,7 @@
     },
     "16282766713aa8f699": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Vêtements & Accessoires Dillinger's",
         "collection": "dillingers-vetements-et-accessoires",
@@ -246,6 +249,7 @@
     },
     "16282767578a916cae": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16282767578a916cae-0": {
           "type": "heading",
