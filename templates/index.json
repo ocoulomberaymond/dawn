@@ -2,12 +2,11 @@
   "sections": {
     "abe1f877-f53d-41ce-ba68-cd86f0774dd5": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-1": {
           "type": "text",
           "settings": {
-            "text": "C'EST LE TEMPS DE FAIRE LE PLEIN!"
+            "text": "25 AU 30 NOVEMBRE"
           }
         },
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-0": {
@@ -35,7 +34,7 @@
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Black_and_White_Simple_Black_Friday_Sale_Facebook_Ad_1920_x_1080_px_1_64e93de3-cb25-4392-8ca7-91431f9ae952.png",
+        "image": "shopify:\/\/shop_images\/Black_and_White_Simple_Black_Friday_Sale_Facebook_Ad_1920_x_1080_px_2.png",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
