@@ -2,7 +2,6 @@
   "sections": {
     "abe1f877-f53d-41ce-ba68-cd86f0774dd5": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-1": {
           "type": "text",
@@ -37,7 +36,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Black_and_White_Simple_Black_Friday_Sale_Facebook_Ad_7.png",
         "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-start",
+        "desktop_text_box_position": "center",
         "show_text_box": true,
         "image_overlay_opacity": 0,
         "color_scheme": "background-1",
