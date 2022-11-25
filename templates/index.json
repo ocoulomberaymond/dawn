@@ -2,6 +2,7 @@
   "sections": {
     "abe1f877-f53d-41ce-ba68-cd86f0774dd5": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-1": {
           "type": "text",
@@ -20,7 +21,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "20% DE RABAIS",
-            "button_link_1": "",
+            "button_link_1": "https:\/\/dillingers.ca\/fr\/collections\/vendredi-fou-20",
             "button_style_secondary_1": false,
             "button_label_2": "30% À 50% DE RABAIS",
             "button_link_2": "https:\/\/dillingers.ca\/fr\/collections\/vendredi-fou-30-a-50",
