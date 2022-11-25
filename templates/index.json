@@ -2,7 +2,6 @@
   "sections": {
     "abe1f877-f53d-41ce-ba68-cd86f0774dd5": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-1": {
           "type": "text",
@@ -47,6 +46,7 @@
     },
     "image_banner": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "f2196971-6ba4-4471-8014-0b4d02dc9e8a": {
           "type": "text",
