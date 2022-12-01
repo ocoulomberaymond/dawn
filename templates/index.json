@@ -18,10 +18,9 @@
         },
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-2": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "COLLECTION ENSEMBLES CADEAU",
-            "button_link_1": "https:\/\/dillingers.ca\/fr\/collections\/vendredi-fou-20",
+            "button_label_1": "",
+            "button_link_1": "",
             "button_style_secondary_1": false,
             "button_label_2": "COLLECTION BAS DE NOWEL",
             "button_link_2": "",
