@@ -30,7 +30,7 @@
             "type": "announcement",
             "settings": {
               "text": "LIVRAISON GRATUITE SUR LES COMMANDES DE 75$+",
-              "color_scheme": "inverse",
+              "color_scheme": "accent-1",
               "link": "shopify:\/\/pages\/livraison"
             }
           },
@@ -54,6 +54,7 @@
           },
           "4cb53e0d-1f4d-450b-b43d-861d9d02343c": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "COMMANDE AVANT LE 16 DÉCEMBRE              POUR RECEVOIR AVANT NOËL!",
               "color_scheme": "accent-1",
