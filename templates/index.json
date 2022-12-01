@@ -6,24 +6,24 @@
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-1": {
           "type": "text",
           "settings": {
-            "text": "RABAIS APPLICABLE AU PASSAGE À LA CAISSE"
+            "text": "Tu ne sais pas quoi lui acheter?!?!"
           }
         },
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-0": {
           "type": "heading",
           "settings": {
-            "heading": "C'EST LE TEMPS DE FAIRE LE PLEIN!",
+            "heading": "C'EST LE TEMPS D'EN PROFITER!",
             "heading_size": "medium"
           }
         },
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "20% DE RABAIS",
+            "button_label_1": "COLLECTION ENSEMBLES CADEAU",
             "button_link_1": "https:\/\/dillingers.ca\/fr\/collections\/vendredi-fou-20",
             "button_style_secondary_1": false,
-            "button_label_2": "30% À 50% DE RABAIS",
-            "button_link_2": "https:\/\/dillingers.ca\/fr\/collections\/vendredi-fou-30-a-50",
+            "button_label_2": "COLLECTION BAS DE NOWEL",
+            "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
@@ -34,7 +34,7 @@
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Black_and_White_Simple_Black_Friday_Sale_Facebook_Ad_1920_x_1080_px_2.png",
+        "image": "shopify:\/\/shop_images\/Black_and_White_Simple_Black_Friday_Sale_Facebook_Ad_1920_x_1080_px_3.png",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
