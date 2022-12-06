@@ -109,6 +109,53 @@
         "enable_video_looping": false
       }
     },
+    "bc442f04-f98b-4e18-a306-3daac59393cd": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-0",
+        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-1",
+        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COLLAB_7.png",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "16440019724958e8e1": {
       "type": "multicolumn",
       "disabled": true,
@@ -1029,57 +1076,11 @@
         "color_scheme": "inverse",
         "full_width": true
       }
-    },
-    "bc442f04-f98b-4e18-a306-3daac59393cd": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
-        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-0",
-        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-1",
-        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/COLLAB_5.png",
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
     "main",
+    "bc442f04-f98b-4e18-a306-3daac59393cd",
     "16440019724958e8e1",
     "1656466173b9e0cbe0",
     "cf6e7738-8f06-4247-9850-430f9bda8fda",
@@ -1101,7 +1102,6 @@
     "1646777085d7a226d0",
     "48e5f94f-2028-4f79-bf47-61c440acfdaf",
     "16467708824b3f450b",
-    "1644002186c85921dd",
-    "bc442f04-f98b-4e18-a306-3daac59393cd"
+    "1644002186c85921dd"
   ]
 }
