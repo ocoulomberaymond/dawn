@@ -44,6 +44,42 @@
         "show_text_below": true
       }
     },
+    "1cc43137-b255-4821-8f75-ba39eeb309c0": {
+      "type": "collection-list",
+      "blocks": {
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "nelson-floyd"
+          }
+        },
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ensembles-cadeaux"
+          }
+        },
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bas-de-noel"
+          }
+        }
+      },
+      "block_order": [
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-0",
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-1",
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-2"
+      ],
+      "settings": {
+        "title": "MAGASINEZ NOS COLLECTIONS DE NOÊL!",
+        "image_ratio": "portrait",
+        "color_scheme": "accent-1",
+        "swipe_on_mobile": true,
+        "image_padding": false,
+        "show_view_all": false
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "disabled": true,
@@ -91,6 +127,7 @@
     },
     "featured_products": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "OUR BEST SELLERS",
         "collection": "home-page-best-sellers",
@@ -312,46 +349,11 @@
         "soft_background": false,
         "show_view_all": true
       }
-    },
-    "1cc43137-b255-4821-8f75-ba39eeb309c0": {
-      "type": "collection-list",
-      "blocks": {
-        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "nelson-floyd"
-          }
-        },
-        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ensembles-cadeaux"
-          }
-        },
-        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bas-de-noel"
-          }
-        }
-      },
-      "block_order": [
-        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-0",
-        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-1",
-        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-2"
-      ],
-      "settings": {
-        "title": "MAGASINEZ NOS COLLECTIONS DE NOÊL!",
-        "image_ratio": "portrait",
-        "color_scheme": "accent-1",
-        "swipe_on_mobile": true,
-        "image_padding": false,
-        "show_view_all": false
-      }
     }
   },
   "order": [
     "abe1f877-f53d-41ce-ba68-cd86f0774dd5",
+    "1cc43137-b255-4821-8f75-ba39eeb309c0",
     "image_banner",
     "featured_products",
     "image_text",
@@ -361,7 +363,6 @@
     "16282766713aa8f699",
     "16282767578a916cae",
     "16282767802ca61852",
-    "1628276968f87e8743",
-    "1cc43137-b255-4821-8f75-ba39eeb309c0"
+    "1628276968f87e8743"
   ]
 }
