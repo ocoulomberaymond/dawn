@@ -1,0 +1,1107 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "7c637ab4-a8a8-4620-8d2d-b50ba68ef093": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "4f054b65-21d3-416c-9df5-61ce565afd62": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Description",
+            "content": "<p><strong>Le D-Brousse est l'outil idéal pour tailler ou tondre tous vos poils et ce jusque dans les moindres recoins de votre anatomie!<\/strong><\/p><p><strong>Un outil petit, ergonomique, à l'épreuve de l'eau et munie d'une lame en céramique spécialement ajustée pour minimiser l'irritation, les poils incarnés et les coupures!<\/strong><\/p><p><strong>Est-ce que votre poil sera taillé aussi court qu'avec un rasoir? Non! Le but est de prévenir l'irritation et les poils incarnés. Un tonte sans sabot, parallèle à la peau, vous permettra de vous départir des poils les plus coriaces sans les désagréments et les coûts et l’empreinte écologique du rasoir jetable!<\/strong><\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "14d1a802-5ed7-4260-8f8d-08ebd10cfa9e": {
+          "type": "shopify:\/\/apps\/product-reviews\/blocks\/reviews\/bae150af-8da8-48b2-9867-398188115e5f",
+          "settings": {
+          }
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Fragrance",
+            "content": "<p><strong>Sage, Patchouli & Star Anis + <\/strong><em>coffee scrub<\/em><\/p><p>This fragrance will remind you of the famous Sambuca Flambé shooter with a grain of coffee!<\/p><p><\/p>",
+            "page": "",
+            "icon": "leaf"
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "7c637ab4-a8a8-4620-8d2d-b50ba68ef093",
+        "vendor",
+        "title",
+        "subtitle",
+        "price",
+        "4f054b65-21d3-416c-9df5-61ce565afd62",
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "14d1a802-5ed7-4260-8f8d-08ebd10cfa9e",
+        "description",
+        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72",
+        "share"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "16440019724958e8e1": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1644001972cd333b52-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T141808.991.png",
+            "title": "",
+            "text": "<p>Non Tested <\/p><p>On Rabbits<\/p>"
+          }
+        },
+        "1644001972cd333b52-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142005.015.png",
+            "title": "",
+            "text": "<p>No Harsh<\/p><p>Chemicals<\/p>"
+          }
+        },
+        "1644001972cd333b52-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142126.499.png",
+            "title": "",
+            "text": "<p>Developped<\/p><p>by Barbers<\/p>"
+          }
+        },
+        "7f8ebea7-cdff-46ba-9d85-0783194b8970": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142222.816.png",
+            "title": "",
+            "text": "<p>Locally Produced<\/p>"
+          }
+        },
+        "f9f293ad-7e89-4411-ba07-f8403e5bfab2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142310.874.png",
+            "title": "",
+            "text": "<p>Made of Natural<\/p><p>Ingredients<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1644001972cd333b52-0",
+        "1644001972cd333b52-1",
+        "1644001972cd333b52-2",
+        "7f8ebea7-cdff-46ba-9d85-0783194b8970",
+        "f9f293ad-7e89-4411-ba07-f8403e5bfab2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1656466173b9e0cbe0": {
+      "type": "rich-text",
+      "blocks": {
+        "1656466173ef1eb9d2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "LE D-BROUSSE",
+            "heading_size": "h1"
+          }
+        },
+        "1656466173ef1eb9d2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Le D-Brousse est l'outil idéal pour tailler ou tondre tous vos poils et ce jusque dans les moindres recoins de votre anatomie!<\/strong><\/p><p><strong>Un outil petit, ergonomique, à l'épreuve de l'eau et munie d'une lame en céramique spécialement ajustée pour minimiser l'irritation, les poils incarnés et les coupures!<\/strong><\/p><p><strong>Est-ce que votre poil sera taillé aussi court qu'avec un rasoir? Non! Le but est de prévenir l'irritation et les poils incarnés. Un tonte sans sabot, parallèle à la peau, vous permettra de vous départir des poils les plus coriaces sans les désagréments et les coûts et l’empreinte écologique du rasoir jetable!<\/strong><\/p>"
+          }
+        },
+        "1656466173ef1eb9d2-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1656466173ef1eb9d2-0",
+        "1656466173ef1eb9d2-1",
+        "1656466173ef1eb9d2-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "cf6e7738-8f06-4247-9850-430f9bda8fda": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14599022805057__cf6e7738-8f06-4247-9850-430f9bda8fda-16685689909ea077ab-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-06-28T211818.952.png",
+            "title": "De la Tête aux Noix",
+            "text": "<p><\/p><p>Votre ensemble D-Brousse comprend 4 sabots de longueur différentes! <\/p><p>Vous serez en mesure de tailler tous les endroits de votre corps à la longueur désirée !<\/p>"
+          }
+        },
+        "template--14599022805057__cf6e7738-8f06-4247-9850-430f9bda8fda-16685689909ea077ab-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-06-28T211032.171.png",
+            "title": "À l'Épreuve de l'Eau",
+            "text": "<p>Utilisez votre D-Brousse sous la douche et nettoyez le sous l'eau sans problème! 90 minutes d'utilisation après seulement 120 minutes de charge!<\/p>"
+          }
+        },
+        "template--14599022805057__cf6e7738-8f06-4247-9850-430f9bda8fda-16685689909ea077ab-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-06-28T205719.956.png",
+            "title": "Technologie Testi-Guard",
+            "text": "<p>La combinaison de lames en céramique ajustées spécialement pour prévenir l'irritation, les poils incarnés et les coupures et une rotation de 7000 tours par minute permet de minimiser les risques de coupures!<\/p><p>Pour une utilisation optimale, placez la lame parallèle à la surface et bien étirez la peau!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14599022805057__cf6e7738-8f06-4247-9850-430f9bda8fda-16685689909ea077ab-0",
+        "template--14599022805057__cf6e7738-8f06-4247-9850-430f9bda8fda-16685689909ea077ab-1",
+        "template--14599022805057__cf6e7738-8f06-4247-9850-430f9bda8fda-16685689909ea077ab-2"
+      ],
+      "settings": {
+        "title": "DÉVELOPPÉ PAR UNE ENTREPRISE D'ICI, POUR DES TOUFFES D'ICI!",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "b01bc32f-0aae-4471-9c79-1a48fb2027ab": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14599022805057__b01bc32f-0aae-4471-9c79-1a48fb2027ab-1668568989c5005a8a-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "template--14599022805057__b01bc32f-0aae-4471-9c79-1a48fb2027ab-1668568989c5005a8a-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "template--14599022805057__b01bc32f-0aae-4471-9c79-1a48fb2027ab-1668568989c5005a8a-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14599022805057__b01bc32f-0aae-4471-9c79-1a48fb2027ab-1668568989c5005a8a-0",
+        "template--14599022805057__b01bc32f-0aae-4471-9c79-1a48fb2027ab-1668568989c5005a8a-1",
+        "template--14599022805057__b01bc32f-0aae-4471-9c79-1a48fb2027ab-1668568989c5005a8a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/J_ai_le_pocho_n_tellement_lisse_que_ma_blonde_a_commencer_a_me_l_emprunter_3.png",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1647385412b7dba3c3": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1647385412746459ab-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Technologie Testi-Guard"
+          }
+        },
+        "1647385412746459ab-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La combinaison de lames en céramique ajustées spécialement pour prévenir l'irritation, les poils incarnés et les coupures et une rotation de 7000 tours par minute permet de minimiser les risques de coupures!<\/p><p>Pour une utilisation optimale, placez la lame parallèle à la surface et bien étirez la peau!<\/p>"
+          }
+        },
+        "1647385412746459ab-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1647385412746459ab-0",
+        "1647385412746459ab-1",
+        "1647385412746459ab-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-06-28T205719.956.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
+    "164390758276813c05": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1864a5f4-0e53-40ed-9236-ef9897724222": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/olive-oil__79818.1586289416.jpg",
+            "title": "Olive Oil",
+            "text": "<p>Used in soap fabrication for centuries, olive oil is the perfect skin moisturizer and so lite on the skin that it can be used on babies!<\/p>"
+          }
+        },
+        "6d5f2d3d-e058-4b74-b535-4636504f6e3a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/health-benefits-of-coconut-guide-main-image-700-350-a1efd38.jpg",
+            "title": "Coconut Oil",
+            "text": "<p>Great for its cleansing properties, coconut oils and also leave a protective layer on your skin.<\/p>"
+          }
+        },
+        "c8fdb13b-3174-4419-9171-54ab43246979": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/calendula_marigold_480x352_ecf4f954-c217-457e-88df-df85305720c1.jpg",
+            "title": "Calendula infused oil",
+            "text": "<p>Chosed for it's antifungal, anti-inflammatory, and antibacterial properties that make it useful in <strong>healing wounds, soothing eczema, and relieving rashes<\/strong>.<\/p>"
+          }
+        },
+        "36bfbbd5-eb01-40db-a345-f7740d8f3ca3": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/burro-di-karite.jpeg.pagespeed.ce.0632cS99cK.jpg",
+            "title": "Shea butter*",
+            "text": "<p>Moisturize, hydrate and has anti-inflammatory properties which is great for any rashes or itchiness on your skin. <em>*organic<\/em><\/p>"
+          }
+        },
+        "23bc9449-e2da-420b-8c2e-d6cf7ef0ffb5": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-539365448-612x612.jpg",
+            "title": "Sweet almond oil*",
+            "text": "<p>Will help nourrish the skin and facial hair and provide added shine to your beard. <em>*organic<\/em><\/p>"
+          }
+        },
+        "2584eaf5-f544-4d00-bf07-5cccc2aca5ef": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_x700_70bcab56-effe-4a8f-a19d-0e10fdf709db.jpg",
+            "title": "Sodium Hydroxide",
+            "text": "<p>This is the ingredient that allow everything to bond togheter. It is neutralized in the process of saponification when the oils and fats are combined during the fabrication. <\/p>"
+          }
+        },
+        "693bfdf3-0dbb-4ae7-8e2f-5f6bcb3bace1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/beeswax.jpg",
+            "title": "Beeswax",
+            "text": "<p>Used in very small amount to make soap harder and longer lasting.<\/p>"
+          }
+        },
+        "16439075811b954e10-1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/grapefruit_760d5a3f-0e30-42d4-8b63-1dc039de6133.jpg",
+            "title": "Grapefruit bark oil",
+            "text": "<p>The grapefruit bark oil not only invigorate your senses but has antimicrobial properties and is also extremely good for your skin.<\/p>"
+          }
+        },
+        "16439075811b954e10-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spice-juniper-berries-2.jpg",
+            "title": "Juniper berry oil",
+            "text": "<p>Juniper is the main ingredient used in producing Gin. Combined with je grapefruit bark oil, we get a bit of a citrus gin fragrance that is verry pleasant. It also promote blood circulation<\/p>"
+          }
+        },
+        "82dece00-a5a1-4cd5-98c5-1b83608b75c2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/balsam_fir_480x352_587a9ec1-dea2-4069-bccb-82dc33725c3d.jpg",
+            "title": "Balsam Fir Oil",
+            "text": "<p>Excellent to releive stress and has excellent relaxing properties<\/p>"
+          }
+        },
+        "b1081bd1-7b36-4f75-b408-a5f051f3ffc1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/spruce_branch_480x320_acc0da1e-cc3b-45a2-b215-2c455b23c8a4.jpg",
+            "title": "Black Spruce",
+            "text": "<p>Spruce Black Essential Oil has a very pleasant scent, and can be used by aromatherapists in baths to revive tired muscles.<\/p>"
+          }
+        },
+        "602335e0-baf2-45f6-98ce-d9a30fe29b34": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/lump-charcoal.png",
+            "title": "Charcoal",
+            "text": "<p>Absorb toxins, which is why activated charcoal in soap <strong>binds to dirt and oil on the skin and helps clear out pores<\/strong>.<\/p>"
+          }
+        },
+        "0f69f356-2ab8-4bbc-8570-d969ddf78e7f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/il_794xN.1158431590_aea8.jpg",
+            "title": "Patchouli Oil",
+            "text": "<p>It's aroma is warm, spicy, musky and earthy. It's other properties include anti-biotic, anti-depressant, anti-infectious, anti-inflammatory, anti-fungal, anti-microbial, anti-septic, anti-viral, astringent, bactericidal and deodorizing properties.<\/p>"
+          }
+        },
+        "7f1f21e7-e049-4df8-bd15-7e83e31af69f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/sage.png",
+            "title": "Sage Oil",
+            "text": "<p>Add a warm and herbaceous scent to our soap. Sage Essential Oil is known to stimulate and clarify the mind while exhibiting a balancing, uplifting, soothing, and strengthening effect on the senses to ease negative moods.<\/p>"
+          }
+        },
+        "d3dba182-2f2c-437b-83d8-f80888f26e77": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/anise_star_480x320_a0aa5f1f-baa2-449f-bd55-ab8fe41e5870.jpg",
+            "title": "Stan Anise Oil",
+            "text": "<p>Star anise essential oil offers a wide range of health benefits, including <strong>promoting healthy skin, supporting respiratory health, boosting immune system function, maintaining healthy digestion, fighting fungal infections, and improving sleep quality<\/strong>.<\/p>"
+          }
+        },
+        "a67910f4-4292-431c-ad25-ec4aacdb3147": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/istockphoto-501597744-170667a.jpg",
+            "title": "Coffee Scrub",
+            "text": "<p>This soap contains added crushed coffee grains. This natural exfoliant will remove dead skin and debris and will smooth, and soften the skin naturally.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1864a5f4-0e53-40ed-9236-ef9897724222",
+        "6d5f2d3d-e058-4b74-b535-4636504f6e3a",
+        "c8fdb13b-3174-4419-9171-54ab43246979",
+        "36bfbbd5-eb01-40db-a345-f7740d8f3ca3",
+        "23bc9449-e2da-420b-8c2e-d6cf7ef0ffb5",
+        "2584eaf5-f544-4d00-bf07-5cccc2aca5ef",
+        "693bfdf3-0dbb-4ae7-8e2f-5f6bcb3bace1",
+        "16439075811b954e10-1",
+        "16439075811b954e10-2",
+        "82dece00-a5a1-4cd5-98c5-1b83608b75c2",
+        "b1081bd1-7b36-4f75-b408-a5f051f3ffc1",
+        "602335e0-baf2-45f6-98ce-d9a30fe29b34",
+        "0f69f356-2ab8-4bbc-8570-d969ddf78e7f",
+        "7f1f21e7-e049-4df8-bd15-7e83e31af69f",
+        "d3dba182-2f2c-437b-83d8-f80888f26e77",
+        "a67910f4-4292-431c-ad25-ec4aacdb3147"
+      ],
+      "settings": {
+        "title": "Sambuca Soap Ingredients",
+        "image_width": "third",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1656463261d257612b": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "16564632617727ede3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "À L'ÉPREUVE DE L'EAU"
+          }
+        },
+        "16564632617727ede3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Utilisez votre D-Brousse sous la douche et nettoyez le sous l'eau sans problème! 90 minutes d'utilisation après seulement 120 minutes de charge!<\/p>"
+          }
+        },
+        "16564632617727ede3-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16564632617727ede3-0",
+        "16564632617727ede3-1",
+        "16564632617727ede3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-06-28T211032.171.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "text_first"
+      }
+    },
+    "1645631103ed7ac15b": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "164563110344fa6cb7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Fragrance"
+          }
+        },
+        "164563110344fa6cb7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The <strong>Old Tom Gin<\/strong> was once considered the ''<em>missing link<\/em>'' of the gin world! Popular in the late 1800's and early 1900's, it is now making a comeback on the craft cocktail scene!<\/p><p>We decided to pay tribute to this iconic beverage by combining the <strong>juniper berry and grapefruit bark<\/strong> fragrances into a fresh, sweet and invigorating perfume!<\/p>"
+          }
+        },
+        "164563110344fa6cb7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164563110344fa6cb7-0",
+        "164563110344fa6cb7-1",
+        "164563110344fa6cb7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-10T150452.636.png",
+        "height": "adapt",
+        "color_scheme": "background-2",
+        "layout": "image_first"
+      }
+    },
+    "164398193391bef5bf": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "DO YOU NEED A BEARD OIL OR A BEARD BALM?",
+        "cover_image": "shopify:\/\/shop_images\/YouTube_Thumbnail_6.png",
+        "video_url": "https:\/\/youtu.be\/4-oQFdSirfg",
+        "description": "beard balm vs beard oil video",
+        "full_width": false
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "heading": "You may also like",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
+    "1646776603e6adb2cd": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1646776603521defba-0": {
+          "type": "column",
+          "settings": {
+            "title": "Parabens",
+            "text": "<p>These ingredients are estrogen mimickers—meaning that once applied to the skin, they enter the bloodstream, and the body mistakes them for estrogen. When the body thinks there is an abnormally high amount of estrogen present in the bloodstream due to the presence of these hormone disrupters, it reacts in various ways: decreasing muscle mass, increasing fat deposits, causing early onset of puberty and spurring reproductive difficulties in both men and women. <\/p>"
+          }
+        },
+        "1646776603521defba-1": {
+          "type": "column",
+          "settings": {
+            "title": "Sulfates",
+            "text": "<p>These chemicals are used to produce lather and bubbles in soap. Some common sulfates are SLS (sodium lauryl sulfate) and SLES (sodium laureth sulfate). Sulfates strip the skin of its natural oils and increase penetration of the skin’s surface. They are also irritants for people with sensitive skin or eczema.<\/p>"
+          }
+        },
+        "1646776603521defba-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1646776603521defba-0",
+        "1646776603521defba-1",
+        "1646776603521defba-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1646776622eee3f0cf": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "16467766228d4e3ab5-0": {
+          "type": "column",
+          "settings": {
+            "title": "Tricoslan",
+            "text": "<p> This chemical is most often found in antibacterial soap. Recent studies have found that triclosan actually promotes the emergence and growth of bacteria resistant to antibiotic cleansers. It also creates dioxin, a carcinogen that has been found in high levels in human breast milk. Dioxins have disruptive effects on the endocrine system and negatively affect thyroid functions. And here’s a fun fact: dioxin is the primary toxic component of Agent Orange!<\/p>"
+          }
+        },
+        "16467766228d4e3ab5-1": {
+          "type": "column",
+          "settings": {
+            "title": "Fragrances",
+            "text": "<p>Bottom line: If the ingredient is vague, it’s probably hiding something. “Fragrance”could actually be a cocktail of chemicals and you’d never know it. The FDA doesn’t require companies to disclose the breakdown of a fragrance’s ingredients to consumers because the chemicals that produce fragrance are considered “trade secrets.” Most of the time, synthetic chemicals and cancer-causing toxins (like phthalates, used to make fragrances last longer) are hiding under that one sneaky term. Constant exposure to fragrances has been shown to negatively impact the central nervous system and can trigger allergies, migraines and asthma symptoms.<\/p>"
+          }
+        },
+        "16467766228d4e3ab5-2": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "39412510-a10f-42a5-96e4-5999f2998956": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16467766228d4e3ab5-0",
+        "16467766228d4e3ab5-1",
+        "16467766228d4e3ab5-2",
+        "39412510-a10f-42a5-96e4-5999f2998956"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "1656465053e1f04712": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "165646505357be8a12-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "De La Tête Aux Noix!"
+          }
+        },
+        "165646505357be8a12-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Votre ensemble D-Brousse comprend 4 sabots de longueur différentes! <\/strong><\/p><p><strong>Vous serez en mesure de tailler tous les endroits de votre corps à la longueur désirée !<\/strong><\/p>"
+          }
+        },
+        "165646505357be8a12-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "165646505357be8a12-0",
+        "165646505357be8a12-1",
+        "165646505357be8a12-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-06-28T211818.952.png",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
+    "164677687497f7fbe9": {
+      "type": "rich-text",
+      "blocks": {
+        "164677687468249c7d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "COMMENT UTILISER VOTRE D-BROUSSE",
+            "heading_size": "h2"
+          }
+        },
+        "164677687468249c7d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p><strong>1- Assurez-vous que votre D-Brousse est bien chargé!<\/strong><\/p><p><strong>2- Pour des raisons d'hygiène, nettoyez bien les zones à tondre afin d'éviter les risques de coupures et d'infections. Utiliser soit sous la douche ou sur une peau sèche<\/strong><\/p><p><strong>3-Passez la lame parallèle à la zone à tondre. Comme avec tout type de rasoir, plus l'angle de coupe est prononcé, plus la coupe est agressive!<\/strong><\/p><p><strong>4-Si vous rasez des endroits plus sensibles, bien tendre la peau afin d'éviter les risques de coupures<\/strong><\/p><p><\/p>"
+          }
+        },
+        "164677687468249c7d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "164677687468249c7d-0",
+        "164677687468249c7d-1",
+        "164677687468249c7d-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "1645630746bab70900": {
+      "type": "multicolumn",
+      "blocks": {
+        "1645630746dad2172b-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bearded-man-in-sun-and-shadow.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>Je m'en suis servi sur mon chat, Ça marche!<\/p><p><em>Tom G.<\/em><\/p>"
+          }
+        },
+        "1645630746dad2172b-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/man-scratches-head-in-front-of-yellow-door.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>J'ai les bouttes fragiles. Grace au débrousse, je n'ai plus peur quand vien le temps de les tondres!<\/p><p><em>Matthew Wilder<\/em><\/p>"
+          }
+        },
+        "1645630746dad2172b-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/profile-of-a-man-with-beard-and-styled-hair.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>J'ai tondu ma touffe en forme de parallélogramme, Un rêve enfin réalisé!<\/p><p><em>Claude B.<\/em><\/p>"
+          }
+        },
+        "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/women-smiling-in-front-of-silver-background.jpg",
+            "title": "⭐⭐⭐⭐⭐",
+            "text": "<p>J'aime la forme....quand je suis mal prise je m'en sert pour....me raser!<\/p><p><em>Samatha D.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1645630746dad2172b-0",
+        "1645630746dad2172b-1",
+        "1645630746dad2172b-2",
+        "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b"
+      ],
+      "settings": {
+        "title": "Témoignages plus ou moins crédibles:",
+        "image_width": "third",
+        "image_ratio": "circle",
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
+    "e222bb52-d887-4254-867b-4ddcaa403916": {
+      "type": "featured-product",
+      "blocks": {
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-1": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-0",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-1",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-2",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-3",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-4",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-5",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-6",
+        "template--14599022805057__e222bb52-d887-4254-867b-4ddcaa403916-1668570602dad5da64-7"
+      ],
+      "settings": {
+        "product": "nelson-floyd-d-brousse",
+        "secondary_background": true,
+        "hide_variants": false,
+        "enable_video_looping": false
+      }
+    },
+    "1657035989f0d7a5a9": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/500.png",
+        "video_url": "https:\/\/youtu.be\/dgbi45sQ4BQ",
+        "description": "",
+        "full_width": false
+      }
+    },
+    "f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14599022805057__f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce-1668570602699ca588-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "NELSON & FLOYD",
+            "heading_size": "h0"
+          }
+        },
+        "template--14599022805057__f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce-1668570602699ca588-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><\/p><p>Développé par les experts en grooming de la boutique et du barbershop Dillinger's, en collaboration avec Educated beards, le premier trio de produits de notre marque maison Nelson & Floyd Grooming Co a été mis à la disposition du public en juin 2021.<\/p><p>Notre mission est d'offrir des produits de qualité professionnelle qui sont développés sur la base non seulement des commentaires que nous recevons de nos clients, mais également de nos connaissances approfondies et de notre expertise en tant que barbiers professionnels!<\/p>"
+          }
+        },
+        "template--14599022805057__f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce-1668570602699ca588-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "En savoir plus",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14599022805057__f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce-1668570602699ca588-0",
+        "template--14599022805057__f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce-1668570602699ca588-1",
+        "template--14599022805057__f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce-1668570602699ca588-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "1646777085d7a226d0": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "16467770856c041075-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "The time is now!!!",
+            "heading_size": "h1"
+          }
+        },
+        "16467770856c041075-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>So take the leap now and join thousands of mens that have made the switch to natural soap! Women's will love you, your body will ask for more and the environnement will thank you!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16467770856c041075-0",
+        "16467770856c041075-1"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "48e5f94f-2028-4f79-bf47-61c440acfdaf": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Sur le blogue",
+        "blog": "peau-et-corps",
+        "post_limit": 3,
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "soft_background": false,
+        "show_view_all": true
+      }
+    },
+    "16467708824b3f450b": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Collection de produits pour la...",
+        "collection": "below-the-belt",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true
+      }
+    },
+    "1644002186c85921dd": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "1644002186d2b9b50c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nelson & Floyd Grooming Co",
+            "heading_size": "h1"
+          }
+        },
+        "1644002186d2b9b50c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Developed by Dillinger's boutique & barber shop grooming experts in collaboration with savonnerie des Dilligences. We combined our grooming expertise with their 15+ years of natural soap making experience to bring to the market <\/p><p>Our mission is to offer professional grade products that are developed based not only on the feedback we get from our customers but also from our extensive knowledge, expertise of professional barbers & grooming experts of our growing grooming enthusiast clientele.<\/p>"
+          }
+        },
+        "1644002186d2b9b50c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "OUR COLLECTION",
+            "button_link": "shopify:\/\/collections\/nelson-floyd-grooming-co",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1644002186d2b9b50c-0",
+        "1644002186d2b9b50c-1",
+        "1644002186d2b9b50c-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
+      }
+    },
+    "bc442f04-f98b-4e18-a306-3daac59393cd": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-0",
+        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-1",
+        "template--14599022805057__bc442f04-f98b-4e18-a306-3daac59393cd-1668568989c5005a8a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/COLLAB_5.png",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16440019724958e8e1",
+    "1656466173b9e0cbe0",
+    "cf6e7738-8f06-4247-9850-430f9bda8fda",
+    "b01bc32f-0aae-4471-9c79-1a48fb2027ab",
+    "1647385412b7dba3c3",
+    "164390758276813c05",
+    "1656463261d257612b",
+    "1645631103ed7ac15b",
+    "164398193391bef5bf",
+    "product-recommendations",
+    "1646776603e6adb2cd",
+    "1646776622eee3f0cf",
+    "1656465053e1f04712",
+    "164677687497f7fbe9",
+    "1645630746bab70900",
+    "e222bb52-d887-4254-867b-4ddcaa403916",
+    "1657035989f0d7a5a9",
+    "f7c9e2e8-9c08-4e3f-8646-c9e85c0964ce",
+    "1646777085d7a226d0",
+    "48e5f94f-2028-4f79-bf47-61c440acfdaf",
+    "16467708824b3f450b",
+    "1644002186c85921dd",
+    "bc442f04-f98b-4e18-a306-3daac59393cd"
+  ]
+}
