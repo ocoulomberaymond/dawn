@@ -312,6 +312,42 @@
         "soft_background": false,
         "show_view_all": true
       }
+    },
+    "1cc43137-b255-4821-8f75-ba39eeb309c0": {
+      "type": "collection-list",
+      "blocks": {
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bas-de-noel"
+          }
+        }
+      },
+      "block_order": [
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-0",
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-1",
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -325,6 +361,7 @@
     "16282766713aa8f699",
     "16282767578a916cae",
     "16282767802ca61852",
-    "1628276968f87e8743"
+    "1628276968f87e8743",
+    "1cc43137-b255-4821-8f75-ba39eeb309c0"
   ]
 }
