@@ -1,5 +1,49 @@
 {
   "sections": {
+    "86a12a85-3991-420d-b87e-1bc6e1ef09a1": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "ÉDITION LIMITÉE",
+            "heading_size": "medium"
+          }
+        },
+        "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-1": {
+          "type": "text",
+          "settings": {
+            "text": "BOXER EN BAMBOO UNDZ + DBROUSSE NELSON&FLOYD"
+          }
+        },
+        "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "COMMANDE L'ENSEMBLE MAINTENANT",
+            "button_link_1": "https:\/\/dillingers.ca\/fr\/products\/nelons-floyd-x-undz-dbrousse-et-bamboo?_pos=1&_psq=UNDZ&_ss=e&_v=1.0",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-0",
+        "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-1",
+        "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Black_and_White_Simple_Black_Friday_Sale_Facebook_Ad_1920_x_1080_px_Facebook_Cover.png",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "abe1f877-f53d-41ce-ba68-cd86f0774dd5": {
       "type": "image-banner",
       "blocks": {
@@ -349,54 +393,10 @@
         "soft_background": false,
         "show_view_all": true
       }
-    },
-    "86a12a85-3991-420d-b87e-1bc6e1ef09a1": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "ÉDITION SPÉCIALE",
-            "heading_size": "medium"
-          }
-        },
-        "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-1": {
-          "type": "text",
-          "settings": {
-            "text": "BOXER EN BAMBOO UNDZ + DBROUSSE NELSON&FLOYD"
-          }
-        },
-        "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "OUI JE LE VEUX!",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-0",
-        "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-1",
-        "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Black_and_White_Simple_Black_Friday_Sale_Facebook_Ad_1920_x_1080_px_Facebook_Cover.png",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
+    "86a12a85-3991-420d-b87e-1bc6e1ef09a1",
     "abe1f877-f53d-41ce-ba68-cd86f0774dd5",
     "1cc43137-b255-4821-8f75-ba39eeb309c0",
     "image_banner",
@@ -408,7 +408,6 @@
     "16282766713aa8f699",
     "16282767578a916cae",
     "16282767802ca61852",
-    "1628276968f87e8743",
-    "86a12a85-3991-420d-b87e-1bc6e1ef09a1"
+    "1628276968f87e8743"
   ]
 }
