@@ -33,6 +33,13 @@
           "settings": {
           }
         },
+        "b6d789ce-1818-4f18-940d-14d94fcdafe8": {
+          "type": "text",
+          "settings": {
+            "text": "Quoi de mieux qu'on boxer léger et confortable après  t'être DBROUSSÉ!",
+            "text_style": "body"
+          }
+        },
         "4f054b65-21d3-416c-9df5-61ce565afd62": {
           "type": "collapsible_tab",
           "settings": {
@@ -94,6 +101,7 @@
         "title",
         "subtitle",
         "price",
+        "b6d789ce-1818-4f18-940d-14d94fcdafe8",
         "4f054b65-21d3-416c-9df5-61ce565afd62",
         "variant_picker",
         "quantity_selector",
