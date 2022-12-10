@@ -8,6 +8,19 @@
           "settings": {
           }
         },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "subtitle": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "{{ product.metafields.descriptors.subtitle.value }}",
+            "text_style": "uppercase"
+          }
+        },
         "vendor": {
           "type": "text",
           "disabled": true,
@@ -16,28 +29,9 @@
             "text_style": "uppercase"
           }
         },
-        "title": {
-          "type": "title",
-          "settings": {
-          }
-        },
-        "subtitle": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
-          }
-        },
-        "b6d789ce-1818-4f18-940d-14d94fcdafe8": {
-          "type": "text",
-          "settings": {
-            "text": "Quoi de mieux qu'on boxer léger et confortable après  t'être DBROUSSÉ!",
-            "text_style": "body"
           }
         },
         "4f054b65-21d3-416c-9df5-61ce565afd62": {
@@ -58,6 +52,13 @@
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {
+          }
+        },
+        "b6d789ce-1818-4f18-940d-14d94fcdafe8": {
+          "type": "text",
+          "settings": {
+            "text": "PRÉ-COMMANDE EXPÉDITION LE 16 DÉCEMBRE",
+            "text_style": "uppercase"
           }
         },
         "buy_buttons": {
@@ -97,14 +98,14 @@
       },
       "block_order": [
         "7c637ab4-a8a8-4620-8d2d-b50ba68ef093",
-        "vendor",
         "title",
         "subtitle",
+        "vendor",
         "price",
-        "b6d789ce-1818-4f18-940d-14d94fcdafe8",
         "4f054b65-21d3-416c-9df5-61ce565afd62",
         "variant_picker",
         "quantity_selector",
+        "b6d789ce-1818-4f18-940d-14d94fcdafe8",
         "buy_buttons",
         "14d1a802-5ed7-4260-8f8d-08ebd10cfa9e",
         "description",
