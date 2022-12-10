@@ -2,7 +2,6 @@
   "sections": {
     "86a12a85-3991-420d-b87e-1bc6e1ef09a1": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-0": {
           "type": "heading",
@@ -14,7 +13,7 @@
         "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-1": {
           "type": "text",
           "settings": {
-            "text": "BOXER EN BAMBOO UNDZ + DBROUSSE NELSON&FLOYD"
+            "text": "BOXER UNDZ + DBROUSSE NELSON&FLOYD"
           }
         },
         "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-2": {
@@ -47,6 +46,7 @@
     },
     "abe1f877-f53d-41ce-ba68-cd86f0774dd5": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--14143708528705__abe1f877-f53d-41ce-ba68-cd86f0774dd5-1669167477c631331f-1": {
           "type": "text",
