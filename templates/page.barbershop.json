@@ -83,7 +83,7 @@
         "16346721612f2293e8-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Square_Photo_34.png",
+        "image": "shopify:\/\/shop_images\/Image_2.jpg",
         "height": "adapt",
         "color_scheme": "inverse",
         "layout": "image_first"
@@ -107,8 +107,8 @@
         "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-2": {
           "type": "button",
           "settings": {
-            "button_label": "Instagram de Louis",
-            "button_link": "https:\/\/www.instagram.com\/nolackcuts\/"
+            "button_label": "Réserve avec Louis",
+            "button_link": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109"
           }
         }
       },
@@ -118,7 +118,7 @@
         "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-10T162215.532.png",
+        "image": "shopify:\/\/shop_images\/Image_3_c02c45e2-d518-452e-b788-2242d9d25cea.jpg",
         "height": "adapt",
         "color_scheme": "inverse",
         "layout": "image_first"
@@ -231,18 +231,6 @@
     },
     "166811648749d5ea0c": {
       "type": "apps",
-      "blocks": {
-        "242fa987-7db7-44c2-bdc8-1ee176238489": {
-          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/9d35f684-f743-45ca-9cc2-c5409bb241a8",
-          "settings": {
-            "heading": "SUIVEZ-NOUS SUR INSTAGRAM!",
-            "feeds_type": "REELS"
-          }
-        }
-      },
-      "block_order": [
-        "242fa987-7db7-44c2-bdc8-1ee176238489"
-      ],
       "settings": {
         "include_margins": true
       }
