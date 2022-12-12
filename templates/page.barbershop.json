@@ -156,7 +156,7 @@
         "image": "shopify:\/\/shop_images\/Image.jpg",
         "height": "adapt",
         "color_scheme": "inverse",
-        "layout": "text_first"
+        "layout": "image_first"
       }
     },
     "46e592ac-6dee-4011-a757-e6405b49f497": {
