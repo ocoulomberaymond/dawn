@@ -107,7 +107,7 @@
         "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-2": {
           "type": "button",
           "settings": {
-            "button_label": "Réserve avec Louis",
+            "button_label": "RÉSERVE AVEC LOUIS",
             "button_link": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109"
           }
         }
@@ -136,14 +136,14 @@
         "163467226132f6acef-1": {
           "type": "text",
           "settings": {
-            "text": "<p><br\/><strong>Latest addition to the family, Danny joined us after barbering school and went through all the challenges that newbies have to endure to prove to us they are strong enough to be part of our team. After many months behind the chair, he's recently been upgraded to our level 2 pricing and is on his way to the top!<\/strong><br\/><\/p>"
+            "text": "<p><strong>Danny joined us after barbering school and went through all the challenges that newbies have to endure to prove to us they are strong enough to be part of our team. After many months behind the chair, he's recently been upgraded to our level 2 pricing and is on his way to the top!<\/strong><br\/><\/p>"
           }
         },
         "163467226132f6acef-2": {
           "type": "button",
           "settings": {
             "button_label": "RÉSERVE AVEC DANNY",
-            "button_link": ""
+            "button_link": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109"
           }
         }
       },
@@ -153,7 +153,7 @@
         "163467226132f6acef-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Square_Photo_35.png",
+        "image": "shopify:\/\/shop_images\/Image.jpg",
         "height": "adapt",
         "color_scheme": "inverse",
         "layout": "text_first"
@@ -161,6 +161,7 @@
     },
     "46e592ac-6dee-4011-a757-e6405b49f497": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--14143717769281__46e592ac-6dee-4011-a757-e6405b49f497-1668113869e538f6a0-0": {
           "type": "heading",
@@ -212,8 +213,8 @@
         "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-2": {
           "type": "button",
           "settings": {
-            "button_label": "Instagram de Cory",
-            "button_link": ""
+            "button_label": "RÉSERVER AVEC CORY",
+            "button_link": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109"
           }
         }
       },
@@ -223,7 +224,7 @@
         "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/2022-11-10_16-27-22.png",
+        "image": "shopify:\/\/shop_images\/Image_1_7f79bcb2-caa9-4138-bd01-57c381af7df1.jpg",
         "height": "adapt",
         "color_scheme": "inverse",
         "layout": "image_first"
