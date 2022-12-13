@@ -335,6 +335,22 @@
             "title": "Huile d'Eucalyptus",
             "text": "<p>Parmi les plus courants, l'on retrouve des bienfaits  <strong>décongestionnant, expectorant, antiseptique, anti-inflammatoire, antibactérien et antioxydant<\/strong>.<\/p>"
           }
+        },
+        "42365ffb-db09-469d-8226-54046c1e3b96": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/images_7b4640cf-1f9b-4fb5-9a8e-cdf2359a4b58.jpg",
+            "title": "Pierre Ponce",
+            "text": "<p> En utilisant la pierre ponce pour exfolier votre peau, vous pouvez l'aider à se débarrasser des cellules mortes et autres impuretés qui peuvent obstruer les pores et causer des imperfections.<\/p>"
+          }
+        },
+        "51b522ba-6f73-4983-9d53-994682ab9469": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
         }
       },
       "block_order": [
@@ -346,7 +362,9 @@
         "2584eaf5-f544-4d00-bf07-5cccc2aca5ef",
         "693bfdf3-0dbb-4ae7-8e2f-5f6bcb3bace1",
         "16439075811b954e10-1",
-        "16439075811b954e10-2"
+        "16439075811b954e10-2",
+        "42365ffb-db09-469d-8226-54046c1e3b96",
+        "51b522ba-6f73-4983-9d53-994682ab9469"
       ],
       "settings": {
         "title": "Les ingrédients",
