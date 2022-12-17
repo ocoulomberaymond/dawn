@@ -2,7 +2,7 @@
   "current": {
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#cc0e0e",
-    "colors_accent_2": "#e22120",
+    "colors_accent_2": "#00873e",
     "colors_text": "#3e3e3e",
     "colors_outline_button_labels": "#ff9100",
     "colors_background_1": "#ffffff",
@@ -30,7 +30,7 @@
             "type": "announcement",
             "settings": {
               "text": "LIVRAISON GRATUITE SUR LES COMMANDES DE 75$+",
-              "color_scheme": "accent-1",
+              "color_scheme": "accent-2",
               "link": "shopify:\/\/pages\/livraison"
             }
           },
@@ -54,9 +54,8 @@
           },
           "4cb53e0d-1f4d-450b-b43d-861d9d02343c": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "COMMANDE AVANT LE 16 DÉCEMBRE              POUR RECEVOIR AVANT NOËL!",
+              "text": "Utilisez le code NOEL20% à la caisse pour obtenir 20% sur votre commande",
               "color_scheme": "accent-1",
               "link": ""
             }
