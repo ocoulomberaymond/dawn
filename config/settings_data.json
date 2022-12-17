@@ -54,6 +54,15 @@
           },
           "4cb53e0d-1f4d-450b-b43d-861d9d02343c": {
             "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Utilisez le code NOEL20% à la caisse pour obtenir 20% sur votre commande.",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          },
+          "23babadc-7488-466c-ac5f-9446d6eef85a": {
+            "type": "announcement",
             "settings": {
               "text": "Utilisez le code NOEL20% à la caisse pour obtenir 20% sur votre commande.",
               "color_scheme": "accent-1",
@@ -65,7 +74,8 @@
           "announcement-bar-0",
           "39926070-f5b2-4572-bc54-3ce2f916df91",
           "cfa90a03-1867-4b72-b077-6376a4fafcfc",
-          "4cb53e0d-1f4d-450b-b43d-861d9d02343c"
+          "4cb53e0d-1f4d-450b-b43d-861d9d02343c",
+          "23babadc-7488-466c-ac5f-9446d6eef85a"
         ],
         "settings": {
         }
