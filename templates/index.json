@@ -92,12 +92,6 @@
     "1cc43137-b255-4821-8f75-ba39eeb309c0": {
       "type": "collection-list",
       "blocks": {
-        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "ensembles-cadeaux"
-          }
-        },
         "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-2": {
           "type": "featured_collection",
           "settings": {
@@ -109,12 +103,18 @@
           "settings": {
             "collection": "solde-dapres-noel-20"
           }
+        },
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ensembles-cadeaux"
+          }
         }
       },
       "block_order": [
-        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-1",
         "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-2",
-        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-0"
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-0",
+        "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-1"
       ],
       "settings": {
         "title": "MAGASINEZ NOS MEGA SOLDES",
