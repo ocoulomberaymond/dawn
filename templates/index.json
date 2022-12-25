@@ -101,7 +101,7 @@
         "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "bas-de-noel"
+            "collection": "solde-apres-noel-30-a-50"
           }
         },
         "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-0": {
@@ -117,7 +117,7 @@
         "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-0"
       ],
       "settings": {
-        "title": "MAGASINEZ NOS COLLECTIONS DE NOËL!",
+        "title": "MAGASINEZ NOS MEGA SOLDES",
         "image_ratio": "adapt",
         "color_scheme": "accent-1",
         "swipe_on_mobile": true,
