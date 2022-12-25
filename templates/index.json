@@ -6,7 +6,7 @@
         "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-1": {
           "type": "text",
           "settings": {
-            "text": "20% À 50% SUR TOUS LES PRODUITS"
+            "text": "20% À 50% SUR PRESQUE TOUS LES PRODUITS"
           }
         },
         "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-0": {
@@ -22,7 +22,7 @@
             "button_label_1": "COLLECTION 30% À 50%",
             "button_link_1": "https:\/\/dillingers.ca\/fr\/collections\/solde-apres-noel-30-a-50",
             "button_style_secondary_1": false,
-            "button_label_2": "",
+            "button_label_2": "COLLECTION 20%",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
