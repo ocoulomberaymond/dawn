@@ -63,6 +63,7 @@
           },
           "23babadc-7488-466c-ac5f-9446d6eef85a": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Économisez 20% sur tout ! Rabais appliqué au panier et au paiement",
               "color_scheme": "accent-1",
