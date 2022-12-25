@@ -29,9 +29,9 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "LIVRAISON GRATUITE SUR LES COMMANDES DE 100$$+",
+              "text": "LIVRAISON GRATUITE SUR LES COMMANDES DE PLUS DE 100$*$",
               "color_scheme": "accent-2",
-              "link": "shopify:\/\/pages\/livraison"
+              "link": "shopify:\/\/policies\/shipping-policy"
             }
           },
           "39926070-f5b2-4572-bc54-3ce2f916df91": {
