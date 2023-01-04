@@ -19,11 +19,11 @@
         "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "COLLECTION 30% À 50%",
-            "button_link_1": "https:\/\/dillingers.ca\/fr\/collections\/solde-apres-noel-30-a-50",
+            "button_label_1": "VOIR L’ENSEMBLE",
+            "button_link_1": "https:\/\/dillingers.ca\/fr\/products\/nelons-floyd-x-undz-dbrousse-et-bamboo",
             "button_style_secondary_1": false,
-            "button_label_2": "COLLECTION 20%",
-            "button_link_2": "https:\/\/dillingers.ca\/fr\/collections\/solde-dapres-noel-20",
+            "button_label_2": "",
+            "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
@@ -95,7 +95,7 @@
         "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "solde-apres-noel-30-a-50"
+            "collection": "nelson-floyd"
           }
         },
         "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-0": {
@@ -117,7 +117,7 @@
         "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-1"
       ],
       "settings": {
-        "title": "MAGASINEZ NOS MEGA SOLDES",
+        "title": "NOS PRODUITS LES PLUS POPULAIRES",
         "image_ratio": "adapt",
         "color_scheme": "accent-1",
         "swipe_on_mobile": true,
