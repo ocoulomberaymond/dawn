@@ -36,10 +36,9 @@
           },
           "39926070-f5b2-4572-bc54-3ce2f916df91": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "La destination pours tous vos besoin en produits et services grooming",
-              "color_scheme": "background-1",
+              "text": "La destination pour tous vos besoins en produits et services grooming",
+              "color_scheme": "inverse",
               "link": ""
             }
           },
