@@ -18,7 +18,7 @@
           "type": "column",
           "settings": {
             "title": "Opening Hours",
-            "text": "<p>Mon: CLOSED<\/p><p>Tue: CLOSED<\/p><p>Wed-Frid : 11am - 9pm<br\/>Sat: 10am-6pm<br\/>Sun: 10AM-5PM<br\/><\/p>"
+            "text": "<p>Sun: CLOSED<\/p><p>Mon: CLOSED<\/p><p>Tue-Fri: 10:00-20:00<br\/>Sat: 10:00-17:00pm<br\/><br\/><\/p>"
           }
         },
         "1628806316826b165f-1": {
