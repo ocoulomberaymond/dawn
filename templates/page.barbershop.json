@@ -89,8 +89,44 @@
         "layout": "image_first"
       }
     },
+    "df3f3529-98a9-48bd-965e-fe3ebada642f": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "CORY a.k.a  DeadFace"
+          }
+        },
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Cory s'est joint à l'équipe du Dillinger's en 2022. Originaire de Halifax avec 9 ans d’expérience dans le domaine et à eu la chance d'apprendre auprès de plusieurs barbiers de renommée internationale! Il est maintenant copropriétaire du Dillinger's et porte aussi le chapeau Directeur Artistique!<\/p>"
+          }
+        },
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "RÉSERVER AVEC CORY",
+            "button_link": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109"
+          }
+        }
+      },
+      "block_order": [
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-0",
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-1",
+        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Image_1_7f79bcb2-caa9-4138-bd01-57c381af7df1.jpg",
+        "height": "adapt",
+        "color_scheme": "inverse",
+        "layout": "image_first"
+      }
+    },
     "4093784b-c8fd-4ff6-a98c-59c496085368": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-0": {
           "type": "heading",
@@ -136,7 +172,7 @@
         "163467226132f6acef-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Danny joined us after barbering school and went through all the challenges that newbies have to endure to prove to us they are strong enough to be part of our team. After many months behind the chair, he's recently been upgraded to our level 2 pricing and is on his way to the top!<\/strong><br\/><\/p>"
+            "text": "<p><strong>Danny joined us after barbering school and went through all the challenges that newbies have to endure to prove to us they are strong enough to be part of our team. After many months behind the chair, he's recently been upgraded to our level 2 pricing and is on his way to the top! <\/strong><br\/><\/p>"
           }
         },
         "163467226132f6acef-2": {
@@ -190,41 +226,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-11-10T160107.260.png",
-        "height": "adapt",
-        "color_scheme": "inverse",
-        "layout": "image_first"
-      }
-    },
-    "df3f3529-98a9-48bd-965e-fe3ebada642f": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "CORY a.k.a  DeadFace"
-          }
-        },
-        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Originaire de Halifax avec 9 ans d’expérience dans le domaine, Cory  matrise les coupes courtes et mi-longues en plus d'exceller avec la lame!<\/p>"
-          }
-        },
-        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "RÉSERVER AVEC CORY",
-            "button_link": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109"
-          }
-        }
-      },
-      "block_order": [
-        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-0",
-        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-1",
-        "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Image_1_7f79bcb2-caa9-4138-bd01-57c381af7df1.jpg",
         "height": "adapt",
         "color_scheme": "inverse",
         "layout": "image_first"
@@ -506,10 +507,10 @@
     "1628278188a3a19b75",
     "16346740645f881ea6",
     "16346721612f2293e8",
+    "df3f3529-98a9-48bd-965e-fe3ebada642f",
     "4093784b-c8fd-4ff6-a98c-59c496085368",
     "163467226132f6acef",
     "46e592ac-6dee-4011-a757-e6405b49f497",
-    "df3f3529-98a9-48bd-965e-fe3ebada642f",
     "166811648749d5ea0c",
     "16282780497614c9f4",
     "1628803000fd1f1b3b",
