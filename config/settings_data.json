@@ -16,12 +16,12 @@
     "social_tiktok_link": "https:\/\/www.tiktok.com\/@pwelnation",
     "social_youtube_link": "https:\/\/www.youtube.com\/c\/DillingersBoutiqueetBarbier",
     "favicon": "shopify:\/\/shop_images\/android-chrome-192x192.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/dillingers-logo-2.0fondblanc_87e508b3-215b-43df-90aa-2dc8f7309771.png",
     "language_switcher_enabled": true,
     "language_switcher_position": "bottom-right",
     "language_switcher_spacing_right": "50",
     "language_switcher_flags": false,
     "language_switcher_border_width": 0,
-    "checkout_logo_image": "shopify:\/\/shop_images\/dillingers-logo-2.0fondblanc_87e508b3-215b-43df-90aa-2dc8f7309771.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -155,22 +155,28 @@
         "settings": {
         }
       },
+      "6406956604159796213": {
+        "type": "shopify:\/\/apps\/smartseo\/blocks\/smartseo\/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
+        "disabled": false,
+        "settings": {
+        }
+      },
       "8765772171712610185": {
         "type": "shopify:\/\/apps\/t-lab-ai-language-translate\/blocks\/language_switcher\/b5b83690-efd4-434d-8c6a-a5cef4019faf",
-        "disabled": true,
+        "disabled": false,
         "settings": {
           "enable_language_switcher": true,
           "enable_country_region_switcher": false,
           "use_modal_dialog": false,
           "use_currency_for_region": false,
-          "switcher_position": "custom",
-          "show_flags": true,
+          "switcher_position": "header",
+          "show_flags": false,
           "language_label": "language-name",
           "language_country_mapping": "",
           "countries_filter": "",
           "custom_css": "",
-          "header_switcher_reference_element": "",
-          "header_switcher_relative_position": "before",
+          "header_switcher_reference_element": "#shopify-section-header > sticky-header > header > nav > div > nav > ul > li:nth-child(5)",
+          "header_switcher_relative_position": "after",
           "mobile_menu_switcher_reference_element": "",
           "mobile_switcher_relative_position": "before",
           "header_switcher_border_width": 1,
@@ -184,12 +190,6 @@
           "custom_switcher_text_color": "#ff9100",
           "custom_switcher_background_color": "#ffffff",
           "custom_switcher_border_color": "#000000"
-        }
-      },
-      "6406956604159796213": {
-        "type": "shopify:\/\/apps\/smartseo\/blocks\/smartseo\/7b0a6064-ca2e-4392-9a1d-8c43c942357b",
-        "disabled": false,
-        "settings": {
         }
       }
     }
