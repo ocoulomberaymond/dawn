@@ -1,7 +1,53 @@
 {
   "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "f2196971-6ba4-4471-8014-0b4d02dc9e8a": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "LE BLACK FRIDAY S'EN VIENT"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "FAIT DE LA PLACE DANS TA PHARMACIE!",
+            "heading_size": "medium"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "https:\/\/dillingers.ca\/collections\/3-years-anniversary-sale-vente-anniversaire-3-ans",
+            "button_style_secondary_1": true,
+            "button_label_2": "BOOK NOW",
+            "button_link_2": "https:\/\/dillingers.ca\/collections\/3-years-anniversary-sale-vente-anniversaire-3-ans",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "f2196971-6ba4-4471-8014-0b4d02dc9e8a",
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HD_Banner_93.png",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "flex-end",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "86a12a85-3991-420d-b87e-1bc6e1ef09a1": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--14143708528705__86a12a85-3991-420d-b87e-1bc6e1ef09a1-16705132943f066535-1": {
           "type": "text",
@@ -123,51 +169,6 @@
         "swipe_on_mobile": true,
         "image_padding": false,
         "show_view_all": false
-      }
-    },
-    "image_banner": {
-      "type": "image-banner",
-      "disabled": true,
-      "blocks": {
-        "f2196971-6ba4-4471-8014-0b4d02dc9e8a": {
-          "type": "text",
-          "settings": {
-            "text": "LE BLACK FRIDAY S'EN VIENT"
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "FAIT DE LA PLACE DANS TA PHARMACIE!",
-            "heading_size": "medium"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "SHOP NOW",
-            "button_link_1": "https:\/\/dillingers.ca\/collections\/3-years-anniversary-sale-vente-anniversaire-3-ans",
-            "button_style_secondary_1": true,
-            "button_label_2": "BOOK NOW",
-            "button_link_2": "https:\/\/dillingers.ca\/collections\/3-years-anniversary-sale-vente-anniversaire-3-ans",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "f2196971-6ba4-4471-8014-0b4d02dc9e8a",
-        "heading",
-        "button"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/HD_Banner_93.png",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-end",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "featured_products": {
@@ -397,10 +398,10 @@
     }
   },
   "order": [
+    "image_banner",
     "86a12a85-3991-420d-b87e-1bc6e1ef09a1",
     "abe1f877-f53d-41ce-ba68-cd86f0774dd5",
     "1cc43137-b255-4821-8f75-ba39eeb309c0",
-    "image_banner",
     "featured_products",
     "image_text",
     "1628276279d0771e33",
