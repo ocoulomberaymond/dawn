@@ -21,10 +21,10 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "SHOP",
-            "button_link_1": "",
+            "button_link_1": "https:\/\/dillingers.ca\/fr\/collections\/nelson-floyd-tous-nos-produits",
             "button_style_secondary_1": true,
             "button_label_2": "BOOK NOW",
-            "button_link_2": "https:\/\/dillingers.ca\/collections\/3-years-anniversary-sale-vente-anniversaire-3-ans",
+            "button_link_2": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109",
             "button_style_secondary_2": false
           }
         }
