@@ -170,7 +170,7 @@
           "use_modal_dialog": false,
           "use_currency_for_region": false,
           "switcher_position": "header",
-          "show_flags": false,
+          "show_flags": true,
           "language_label": "auto",
           "language_country_mapping": "",
           "countries_filter": "",
