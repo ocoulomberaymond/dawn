@@ -174,7 +174,7 @@
           "language_label": "auto",
           "language_country_mapping": "",
           "countries_filter": "",
-          "custom_css": "header-drawer {\n  display: flex;\n  align-items: center;\n}",
+          "custom_css": "header-drawer {\n  display: flex;\n  align-items: center;\n}\n@media (max-width: 749px) {\n  .tl-select .tl-label {\n    display: none;\n  }\n}",
           "header_switcher_reference_element": "header .tmenu_nav",
           "header_switcher_relative_position": "in-element",
           "mobile_menu_switcher_reference_element": "header-drawer",
