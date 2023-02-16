@@ -177,7 +177,7 @@
           "custom_css": "",
           "header_switcher_reference_element": "header .tmenu_nav",
           "header_switcher_relative_position": "in-element",
-          "mobile_menu_switcher_reference_element": ".menu-drawer-container",
+          "mobile_menu_switcher_reference_element": "header-drawer",
           "mobile_switcher_relative_position": "in-element",
           "header_switcher_border_width": 0,
           "switcher_viewport_position": "bottom-left",
