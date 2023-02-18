@@ -13,7 +13,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "FAIT DE LA PLACE DANS TA PHARMACIE!",
+            "heading": "MAKE ROOM IN YOUR MEDICINE CABINET!",
             "heading_size": "medium"
           }
         },
@@ -163,7 +163,7 @@
         "template--14143708528705__1cc43137-b255-4821-8f75-ba39eeb309c0-16702950084231c8ae-0"
       ],
       "settings": {
-        "title": "NOS PRODUITS LES PLUS POPULAIRES",
+        "title": "OUR MOST POPULAR PRODUCTS",
         "image_ratio": "adapt",
         "color_scheme": "accent-1",
         "swipe_on_mobile": true,
