@@ -205,9 +205,9 @@
         "settings": {
         }
       },
-      "judgeme_core_76db7c98": {
+      "judgeme_core_dd3ea0a7": {
         "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": true,
+        "disabled": false,
         "settings": {
         }
       }
