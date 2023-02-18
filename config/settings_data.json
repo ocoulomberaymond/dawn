@@ -199,14 +199,14 @@
           "position": "bottom"
         }
       },
-      "judgeme_core_76db7c98": {
-        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": false,
+      "6065014864672580889": {
+        "type": "shopify:\/\/apps\/slide-cart-cart-upsell-tcc\/blocks\/app-embed\/0a410b8d-7dc4-4f2d-b4e8-c12d34fd2255",
+        "disabled": true,
         "settings": {
         }
       },
-      "6065014864672580889": {
-        "type": "shopify:\/\/apps\/slide-cart-cart-upsell-tcc\/blocks\/app-embed\/0a410b8d-7dc4-4f2d-b4e8-c12d34fd2255",
+      "judgeme_core_76db7c98": {
+        "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": true,
         "settings": {
         }
