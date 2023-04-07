@@ -126,7 +126,6 @@
     },
     "4093784b-c8fd-4ff6-a98c-59c496085368": {
       "type": "image-with-text",
-      "disabled": true,
       "blocks": {
         "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-0": {
           "type": "heading",
@@ -167,13 +166,13 @@
         "163467226132f6acef-0": {
           "type": "heading",
           "settings": {
-            "heading": "DANNY"
+            "heading": "David a.k.a ''Spidey''"
           }
         },
         "163467226132f6acef-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Danny joined us after barbering school and went through all the challenges that newbies have to endure to prove to us they are strong enough to be part of our team. After many months behind the chair, he's recently been upgraded to our level 2 pricing and is on his way to the top! <\/strong><br\/><\/p>"
+            "text": "<p>With an impressive 18 years of experience in the industry. This seasoned professional has spent nearly two decades perfecting their craft, delivering impeccable haircuts and grooming services that reflect their vast expertise. A true virtuoso in the field, ready to create exceptional styles tailored to each client's unique personality and preferences.<br\/><\/p>"
           }
         },
         "163467226132f6acef-2": {
@@ -190,7 +189,7 @@
         "163467226132f6acef-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image.jpg",
+        "image": "shopify:\/\/shop_images\/Untitled_design_1_721bde39-8fd2-4ea5-8de9-848c7af70910.png",
         "height": "adapt",
         "color_scheme": "inverse",
         "layout": "image_first"
