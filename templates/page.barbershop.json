@@ -83,7 +83,7 @@
         "16346721612f2293e8-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_2.jpg",
+        "image": "shopify:\/\/shop_images\/3_a04b1f20-a49c-4675-95dc-b4eac56f0c7e.png",
         "height": "adapt",
         "color_scheme": "inverse",
         "layout": "image_first"
@@ -118,7 +118,7 @@
         "template--14143717769281__df3f3529-98a9-48bd-965e-fe3ebada642f-1668113869e538f6a0-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_1_7f79bcb2-caa9-4138-bd01-57c381af7df1.jpg",
+        "image": "shopify:\/\/shop_images\/1_5638bf3d-1b20-4cf7-8fb2-0250fc4c446a.png",
         "height": "adapt",
         "color_scheme": "inverse",
         "layout": "image_first"
@@ -131,13 +131,13 @@
         "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-0": {
           "type": "heading",
           "settings": {
-            "heading": "Louis a.k.a NoLack"
+            "heading": "Ty (apprenti)"
           }
         },
         "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Si vous cherchez des lignes tracées au laser, un service 5 étoiles et attentionné, Louis is your man!    <\/strong>                                                                                       <\/p>"
+            "text": "<p>Meet our talented apprentice barber, boasting 2 years of hands-on experience in the industry. With excellent communication skills and a burning passion for learning and honing their craft, a dedicated individual eager to continually evolve and provide top-notch haircuts and grooming experiences!                                                                            <\/p>"
           }
         },
         "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-2": {
@@ -154,7 +154,7 @@
         "template--14143717769281__4093784b-c8fd-4ff6-a98c-59c496085368-1668113869e538f6a0-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Image_3_c02c45e2-d518-452e-b788-2242d9d25cea.jpg",
+        "image": "shopify:\/\/shop_images\/2_ac1a1271-5874-4f71-97d8-39b77dd3c6df.png",
         "height": "adapt",
         "color_scheme": "inverse",
         "layout": "image_first"
