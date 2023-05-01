@@ -11,8 +11,7 @@
       "disabled": true,
       "settings": {
         "heading": "",
-        "cover_image": "shopify:\/\/shop_images\/Untitled_design_-_2020-05-16T001455.638.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "https:\/\/youtu.be\/L3MsUe2iMd4",
         "description": "Video presentation of dillingers barbershop",
         "full_width": false
       }
@@ -500,6 +499,53 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "344835c8-80ff-41af-8245-d6f1dec18661": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14143717769281__344835c8-80ff-41af-8245-d6f1dec18661-168295692136ab22fa-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "template--14143717769281__344835c8-80ff-41af-8245-d6f1dec18661-168295692136ab22fa-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "template--14143717769281__344835c8-80ff-41af-8245-d6f1dec18661-168295692136ab22fa-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14143717769281__344835c8-80ff-41af-8245-d6f1dec18661-168295692136ab22fa-0",
+        "template--14143717769281__344835c8-80ff-41af-8245-d6f1dec18661-168295692136ab22fa-1",
+        "template--14143717769281__344835c8-80ff-41af-8245-d6f1dec18661-168295692136ab22fa-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Vintage_Newspaper_Style_Classic_Menu.png",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -519,6 +565,7 @@
     "1628278298baf1e149",
     "1628803052f8535be1",
     "1650400407be51ad31",
-    "1628804250dd5b25a2"
+    "1628804250dd5b25a2",
+    "344835c8-80ff-41af-8245-d6f1dec18661"
   ]
 }
