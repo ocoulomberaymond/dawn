@@ -6,16 +6,6 @@
       "settings": {
       }
     },
-    "1628278188a3a19b75": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "video_url": "https:\/\/youtu.be\/L3MsUe2iMd4",
-        "description": "Video presentation of dillingers barbershop",
-        "full_width": false
-      }
-    },
     "16346740645f881ea6": {
       "type": "rich-text",
       "blocks": {
@@ -235,6 +225,16 @@
         "include_margins": true
       }
     },
+    "1628278188a3a19b75": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "video_url": "https:\/\/youtu.be\/L3MsUe2iMd4",
+        "description": "Video presentation of dillingers barbershop",
+        "full_width": false
+      }
+    },
     "16282780497614c9f4": {
       "type": "rich-text",
       "blocks": {
@@ -396,6 +396,7 @@
     },
     "16282781904aff6db8": {
       "type": "image-with-text",
+      "disabled": true,
       "blocks": {
         "16282781904aff6db8-0": {
           "type": "heading",
@@ -551,7 +552,6 @@
   },
   "order": [
     "main",
-    "1628278188a3a19b75",
     "16346740645f881ea6",
     "16346721612f2293e8",
     "df3f3529-98a9-48bd-965e-fe3ebada642f",
@@ -559,6 +559,7 @@
     "163467226132f6acef",
     "46e592ac-6dee-4011-a757-e6405b49f497",
     "166811648749d5ea0c",
+    "1628278188a3a19b75",
     "16282780497614c9f4",
     "1628803000fd1f1b3b",
     "344835c8-80ff-41af-8245-d6f1dec18661",
