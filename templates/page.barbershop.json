@@ -6,6 +6,41 @@
       "settings": {
       }
     },
+    "16282780497614c9f4": {
+      "type": "rich-text",
+      "blocks": {
+        "16282780497614c9f4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "THE MENS GROOMING SANCTUARY",
+            "heading_size": "h1"
+          }
+        },
+        "16282780497614c9f4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From waxed tip mustaches, to scraggly surfer cuts, to bushy beards, rest assured that the competency of our stylists will deliver any style you may desire from traditional barber haircuts, to more modern approach. We strive to better our craft everyday, priding ourselves on versatility and personalization.<br\/><br\/>We strive to make the conscious effort to implement stringent safety, hygiene, grooming and styling standards, distinguishing us from the rest of the herd and paying tribute to the centuries old tradition of barbering.<\/p>"
+          }
+        },
+        "16282780497614c9f4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK NOW",
+            "button_link": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "16282780497614c9f4-0",
+        "16282780497614c9f4-1",
+        "16282780497614c9f4-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
     "16346740645f881ea6": {
       "type": "rich-text",
       "blocks": {
@@ -236,39 +271,53 @@
         "full_width": false
       }
     },
-    "16282780497614c9f4": {
-      "type": "rich-text",
+    "1628278298baf1e149": {
+      "type": "multicolumn",
       "blocks": {
-        "16282780497614c9f4-0": {
-          "type": "heading",
+        "1628278298baf1e149-0": {
+          "type": "column",
           "settings": {
-            "heading": "THE MENS GROOMING SANCTUARY",
-            "heading_size": "h1"
+            "title": "Hugo",
+            "text": "<p>Très bon service et produits, staff super sympa !<\/p>"
           }
         },
-        "16282780497614c9f4-1": {
-          "type": "text",
+        "1628278298baf1e149-1": {
+          "type": "column",
           "settings": {
-            "text": "<p>From waxed tip mustaches, to scraggly surfer cuts, to bushy beards, rest assured that the competency of our stylists will deliver any style you may desire from traditional barber haircuts, to more modern approach. We strive to better our craft everyday, priding ourselves on versatility and personalization.<br\/><br\/>We strive to make the conscious effort to implement stringent safety, hygiene, grooming and styling standards, distinguishing us from the rest of the herd and paying tribute to the centuries old tradition of barbering.<\/p>"
+            "title": "Francis Riel",
+            "text": "<p>Très bonne expérience, beaucoup de produit très intéressant.<\/p>"
           }
         },
-        "16282780497614c9f4-2": {
-          "type": "button",
+        "1628278298baf1e149-2": {
+          "type": "column",
           "settings": {
-            "button_label": "BOOK NOW",
-            "button_link": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109",
-            "button_style_secondary": false
+            "title": "David Brebant",
+            "text": "<p>Toujours un excellent service. Que ce soit la barbe, les cheveux ou pour les enfants, le travail est impeccable.<br\/>Ambiance +++<br\/><\/p>"
+          }
+        },
+        "89f9391e-a13d-475c-bcdb-7e8fccbc4a3a": {
+          "type": "column",
+          "settings": {
+            "title": "Nancy V.",
+            "text": "<p>Les gars sont très sympas et très professionnel, j'adore ma coupe pour la première fois de ma vie 😀<\/p>"
           }
         }
       },
       "block_order": [
-        "16282780497614c9f4-0",
-        "16282780497614c9f4-1",
-        "16282780497614c9f4-2"
+        "1628278298baf1e149-0",
+        "1628278298baf1e149-1",
+        "1628278298baf1e149-2",
+        "89f9391e-a13d-475c-bcdb-7e8fccbc4a3a"
       ],
       "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
+        "title": "SEE WHAT PEOPLE ARE SAYING!",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false
       }
     },
     "1628803000fd1f1b3b": {
@@ -431,55 +480,6 @@
         "layout": "image_first"
       }
     },
-    "1628278298baf1e149": {
-      "type": "multicolumn",
-      "blocks": {
-        "1628278298baf1e149-0": {
-          "type": "column",
-          "settings": {
-            "title": "Hugo",
-            "text": "<p>Très bon service et produits, staff super sympa !<\/p>"
-          }
-        },
-        "1628278298baf1e149-1": {
-          "type": "column",
-          "settings": {
-            "title": "Francis Riel",
-            "text": "<p>Très bonne expérience, beaucoup de produit très intéressant.<\/p>"
-          }
-        },
-        "1628278298baf1e149-2": {
-          "type": "column",
-          "settings": {
-            "title": "David Brebant",
-            "text": "<p>Toujours un excellent service. Que ce soit la barbe, les cheveux ou pour les enfants, le travail est impeccable.<br\/>Ambiance +++<br\/><\/p>"
-          }
-        },
-        "89f9391e-a13d-475c-bcdb-7e8fccbc4a3a": {
-          "type": "column",
-          "settings": {
-            "title": "Nancy V.",
-            "text": "<p>Les gars sont très sympas et très professionnel, j'adore ma coupe pour la première fois de ma vie 😀<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1628278298baf1e149-0",
-        "1628278298baf1e149-1",
-        "1628278298baf1e149-2",
-        "89f9391e-a13d-475c-bcdb-7e8fccbc4a3a"
-      ],
-      "settings": {
-        "title": "SEE WHAT PEOPLE ARE SAYING!",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "1628803052f8535be1": {
       "type": "image-with-text",
       "disabled": true,
@@ -563,6 +563,7 @@
   },
   "order": [
     "main",
+    "16282780497614c9f4",
     "16346740645f881ea6",
     "16346721612f2293e8",
     "df3f3529-98a9-48bd-965e-fe3ebada642f",
@@ -571,12 +572,11 @@
     "46e592ac-6dee-4011-a757-e6405b49f497",
     "166811648749d5ea0c",
     "1628278188a3a19b75",
-    "16282780497614c9f4",
+    "1628278298baf1e149",
     "1628803000fd1f1b3b",
     "344835c8-80ff-41af-8245-d6f1dec18661",
     "1628803003e52b1a8c",
     "16282781904aff6db8",
-    "1628278298baf1e149",
     "1628803052f8535be1",
     "1650400407be51ad31",
     "1628804250dd5b25a2",
