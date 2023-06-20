@@ -12,8 +12,9 @@
         },
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "heading": "FATHER'S DAY IS AROUND THE CORNER",
+            "heading": "",
             "heading_size": "medium"
           }
         },
@@ -35,7 +36,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Final_Design_1.png",
+        "image": "shopify:\/\/shop_images\/IMG_0529_cd0915b1-96b2-4076-ac09-f022bb2bd7b3.jpg",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
