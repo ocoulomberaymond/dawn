@@ -58,18 +58,10 @@
         },
         "4f054b65-21d3-416c-9df5-61ce565afd62": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Description",
             "content": "<p>Créé et développé par les barbiers du Dillinger pour hydrater votre peau, prévenir les pellicules de barbe et ajouter un parfum agréable et revigorant de pamplemousse et de genévrier<\/p><p><strong>-100% Naturel<\/strong><\/p><p><strong>-Sans parfum artificiel<\/strong><\/p><p><strong>-Fait au Canada<\/strong><\/p><p> 30ml<\/p>",
-            "page": "",
-            "icon": "check_mark"
-          }
-        },
-        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Spécifications",
-            "content": "<p>Développé par les experts en grooming de la boutique et du barbiershop Dillinger's, en collaboration avec Educated beards, le premier parfum de notre marque Nelson & Floyd Grooming co est basé sur un gin frais aux agrumes.<\/p><p>En fait le Gin de type Ol Tom était considéré comme le 'chaînon manquant'' entre le Dutch genever et le london dry.<\/p><p> Fabriqué à partir d'huiles de support et d'huiles essentielles 100 % naturelles, ce parfum d'écorce de pamplemousse et de genévrier est frais, pas trop fort et aidera certainement à réveiller vos sens par une matinée difficile !<\/p><p><\/p><p>pamplemousse et genévrier<\/p>",
             "page": "",
             "icon": "check_mark"
           }
@@ -84,7 +76,7 @@
         "abf5bf3a-70a8-4e89-8b8b-966f2caa4d03": {
           "type": "text",
           "settings": {
-            "text": "-Vegetable Tanned",
+            "text": "-Vegetable Tanned in U.S",
             "text_style": "body"
           }
         },
@@ -92,6 +84,30 @@
           "type": "text",
           "settings": {
             "text": "-Hermann Oak Leather",
+            "text_style": "body"
+          }
+        },
+        "82757c8a-a3d3-48f2-85b4-4b99c7b28776": {
+          "type": "text",
+          "settings": {
+            "text": "- Handmade by Corter Leather",
+            "text_style": "body"
+          }
+        },
+        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72": {
+          "type": "collapsible_tab",
+          "disabled": true,
+          "settings": {
+            "heading": "Spécifications",
+            "content": "<p>Développé par les experts en grooming de la boutique et du barbiershop Dillinger's, en collaboration avec Educated beards, le premier parfum de notre marque Nelson & Floyd Grooming co est basé sur un gin frais aux agrumes.<\/p><p>En fait le Gin de type Ol Tom était considéré comme le 'chaînon manquant'' entre le Dutch genever et le london dry.<\/p><p> Fabriqué à partir d'huiles de support et d'huiles essentielles 100 % naturelles, ce parfum d'écorce de pamplemousse et de genévrier est frais, pas trop fort et aidera certainement à réveiller vos sens par une matinée difficile !<\/p><p><\/p><p>pamplemousse et genévrier<\/p>",
+            "page": "",
+            "icon": "check_mark"
+          }
+        },
+        "fa2f8494-04a2-4c94-83b0-bd448b1c0f27": {
+          "type": "text",
+          "settings": {
+            "text": "- 4.25\" x 2.75\" x 1\/4\"",
             "text_style": "body"
           }
         }
@@ -107,15 +123,53 @@
         "buy_buttons",
         "description",
         "4f054b65-21d3-416c-9df5-61ce565afd62",
-        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72",
         "share",
         "abf5bf3a-70a8-4e89-8b8b-966f2caa4d03",
-        "91428fdd-4f41-41de-9478-625869bc1883"
+        "91428fdd-4f41-41de-9478-625869bc1883",
+        "82757c8a-a3d3-48f2-85b4-4b99c7b28776",
+        "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72",
+        "fa2f8494-04a2-4c94-83b0-bd448b1c0f27"
       ],
       "settings": {
         "enable_sticky_info": true,
         "hide_variants": false,
         "enable_video_looping": false
+      }
+    },
+    "804719cb-35c6-4029-a3c1-695b5720bcaa": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19960965005627__804719cb-35c6-4029-a3c1-695b5720bcaa-16891259788feed5c8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Authenticity and Caftsmanship",
+            "heading_size": "h2"
+          }
+        },
+        "template--19960965005627__804719cb-35c6-4029-a3c1-695b5720bcaa-16891259788feed5c8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Drawing inspiration from the simplicity of the past and the time-honoured traditions of skilled craftsmanship, this minimalist leather wallet offers more than just a space for your essentials. It represents the virtue of simplicity and the power of understated elegance. and a respect for the painstaking process of vegetable tanning.<\/p><p><\/p><p><\/p><p>Handmade in Cape Cod with meticulous attention to detail by the one and only Corter Leather, this minimalist wallet is not simply a utilitarian accessory. It's a bold testament to the richness of simplicity and the courage to embrace the fundamentals. Carry this wallet, and make a statement of your respect for quality, heritage, and the timeless appeal of minimalism.<\/p><p><\/p>"
+          }
+        },
+        "template--19960965005627__804719cb-35c6-4029-a3c1-695b5720bcaa-16891259788feed5c8-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19960965005627__804719cb-35c6-4029-a3c1-695b5720bcaa-16891259788feed5c8-0",
+        "template--19960965005627__804719cb-35c6-4029-a3c1-695b5720bcaa-16891259788feed5c8-1",
+        "template--19960965005627__804719cb-35c6-4029-a3c1-695b5720bcaa-16891259788feed5c8-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true
       }
     },
     "164398193391bef5bf": {
@@ -134,14 +188,14 @@
         "1644002186d2b9b50c-0": {
           "type": "heading",
           "settings": {
-            "heading": "Nelson & Floyd Produits Grooming",
-            "heading_size": "h1"
+            "heading": "Why Should You Trust Us ?",
+            "heading_size": "h2"
           }
         },
         "1644002186d2b9b50c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Développé par les experts en grooming de la boutique et du barbershop  Dillinger's, en collaboration avec Educated beards, le premier trio de produits de notre marque maison Nelson & Floyd Grooming Co a été mis à la disposition du public en juin 2021. <\/p><p>Notre mission est d'offrir des produits de qualité professionnelle qui sont développés sur la base non seulement des commentaires que nous recevons de nos clients, mais également de nos connaissances approfondies            et de notre expertise en tant que barbiers professionnels!<\/p>"
+            "text": "<p>At Nelson & Floyd we don't just sell grooming products. We sell a vision of what men can be. A vision of confidence, style, and audacity.<\/p><p>We are on a mission to redefine men's grooming, by creating products that are inspired by the art and craft of barbering. We are barbers ourselves, creating products that are made with the finest ingredients and the highest standards of quality.  <\/p><p>We want to encourage men to elevate their personal style and individuality. We want to help our clients achieve that fresh out-of-the-barber feeling every day, not just on special occasions or once a month. <\/p><p>We are Nelson & Floyed and we invite you to join us.<\/p>"
           }
         },
         "1644002186d2b9b50c-2": {
@@ -178,6 +232,7 @@
     },
     "b37e375b-f350-4bf7-a22f-ba033682e7b2": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Sur le Blogue",
         "blog": "soins-barbe",
@@ -188,13 +243,50 @@
         "soft_background": false,
         "show_view_all": true
       }
+    },
+    "1d252cee-0f8b-4261-ae83-97d06e796edb": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--19960965005627__1d252cee-0f8b-4261-ae83-97d06e796edb-1689125964c1997b9c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "template--19960965005627__1d252cee-0f8b-4261-ae83-97d06e796edb-1689125964c1997b9c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "template--19960965005627__1d252cee-0f8b-4261-ae83-97d06e796edb-1689125964c1997b9c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19960965005627__1d252cee-0f8b-4261-ae83-97d06e796edb-1689125964c1997b9c-0",
+        "template--19960965005627__1d252cee-0f8b-4261-ae83-97d06e796edb-1689125964c1997b9c-1",
+        "template--19960965005627__1d252cee-0f8b-4261-ae83-97d06e796edb-1689125964c1997b9c-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
     "main",
+    "804719cb-35c6-4029-a3c1-695b5720bcaa",
     "164398193391bef5bf",
     "1644002186c85921dd",
     "product-recommendations",
-    "b37e375b-f350-4bf7-a22f-ba033682e7b2"
+    "b37e375b-f350-4bf7-a22f-ba033682e7b2",
+    "1d252cee-0f8b-4261-ae83-97d06e796edb"
   ]
 }
