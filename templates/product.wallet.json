@@ -80,6 +80,20 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "abf5bf3a-70a8-4e89-8b8b-966f2caa4d03": {
+          "type": "text",
+          "settings": {
+            "text": "-Vegetable Tanned",
+            "text_style": "body"
+          }
+        },
+        "91428fdd-4f41-41de-9478-625869bc1883": {
+          "type": "text",
+          "settings": {
+            "text": "-Hermann Oak Leather",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -94,12 +108,24 @@
         "description",
         "4f054b65-21d3-416c-9df5-61ce565afd62",
         "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72",
-        "share"
+        "share",
+        "abf5bf3a-70a8-4e89-8b8b-966f2caa4d03",
+        "91428fdd-4f41-41de-9478-625869bc1883"
       ],
       "settings": {
         "enable_sticky_info": true,
         "hide_variants": false,
         "enable_video_looping": false
+      }
+    },
+    "164398193391bef5bf": {
+      "type": "video",
+      "settings": {
+        "heading": "Handmade by Corter Leather",
+        "cover_image": "shopify:\/\/shop_images\/Copy_of_Ajouter_un_titre.png",
+        "video_url": "https:\/\/youtu.be\/iDpy8JNaKBA",
+        "description": "leather card holder",
+        "full_width": false
       }
     },
     "1644002186c85921dd": {
@@ -138,16 +164,6 @@
         "full_width": true
       }
     },
-    "164398193391bef5bf": {
-      "type": "video",
-      "settings": {
-        "heading": "Handmade by Corter Leather",
-        "cover_image": "shopify:\/\/shop_images\/Copy_of_Ajouter_un_titre.png",
-        "video_url": "https:\/\/youtu.be\/iDpy8JNaKBA",
-        "description": "leather card holder",
-        "full_width": false
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -176,8 +192,8 @@
   },
   "order": [
     "main",
-    "1644002186c85921dd",
     "164398193391bef5bf",
+    "1644002186c85921dd",
     "product-recommendations",
     "b37e375b-f350-4bf7-a22f-ba033682e7b2"
   ]
