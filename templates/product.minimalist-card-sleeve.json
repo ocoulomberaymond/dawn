@@ -83,7 +83,7 @@
         "91428fdd-4f41-41de-9478-625869bc1883": {
           "type": "text",
           "settings": {
-            "text": "-Hermann Oak Leather",
+            "text": "- Hermann Oak Leather",
             "text_style": "body"
           }
         },
@@ -110,6 +110,13 @@
             "text": "- 3.75\" x 3\" 3\/8\" ",
             "text_style": "body"
           }
+        },
+        "3574b043-258c-43e1-91a8-35455e8faafc": {
+          "type": "text",
+          "settings": {
+            "text": "-Fits 6 card to start, more after break in",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -128,7 +135,8 @@
         "91428fdd-4f41-41de-9478-625869bc1883",
         "82757c8a-a3d3-48f2-85b4-4b99c7b28776",
         "3b0dfa5c-7630-4d48-a2e2-415aa9a2df72",
-        "fa2f8494-04a2-4c94-83b0-bd448b1c0f27"
+        "fa2f8494-04a2-4c94-83b0-bd448b1c0f27",
+        "3574b043-258c-43e1-91a8-35455e8faafc"
       ],
       "settings": {
         "enable_sticky_info": true,
