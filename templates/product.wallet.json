@@ -102,213 +102,6 @@
         "enable_video_looping": false
       }
     },
-    "16440019724958e8e1": {
-      "type": "multicolumn",
-      "blocks": {
-        "1644001972cd333b52-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T141808.991.png",
-            "title": "",
-            "text": "<p>Non Testé<\/p><p>sur Lapins<\/p>"
-          }
-        },
-        "1644001972cd333b52-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142005.015.png",
-            "title": "",
-            "text": "<p>Pas une Potion<\/p><p>Magique<\/p>"
-          }
-        },
-        "1644001972cd333b52-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142126.499.png",
-            "title": "",
-            "text": "<p>Developpé par des <\/p><p>Barbiers<\/p>"
-          }
-        },
-        "7f8ebea7-cdff-46ba-9d85-0783194b8970": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142222.816.png",
-            "title": "",
-            "text": "<p>Locally Produced<\/p>"
-          }
-        },
-        "f9f293ad-7e89-4411-ba07-f8403e5bfab2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-08T142310.874.png",
-            "title": "",
-            "text": "<p>Ingrédients naturels<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1644001972cd333b52-0",
-        "1644001972cd333b52-1",
-        "1644001972cd333b52-2",
-        "7f8ebea7-cdff-46ba-9d85-0783194b8970",
-        "f9f293ad-7e89-4411-ba07-f8403e5bfab2"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "secondary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": true
-      }
-    },
-    "4d6779b3-772e-4541-8ccf-e27d74c084b2": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14367387582529__4d6779b3-772e-4541-8ccf-e27d74c084b2-1668523639bba23dec-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
-        "template--14367387582529__4d6779b3-772e-4541-8ccf-e27d74c084b2-1668523639bba23dec-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "template--14367387582529__4d6779b3-772e-4541-8ccf-e27d74c084b2-1668523639bba23dec-2": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14367387582529__4d6779b3-772e-4541-8ccf-e27d74c084b2-1668523639bba23dec-0",
-        "template--14367387582529__4d6779b3-772e-4541-8ccf-e27d74c084b2-1668523639bba23dec-1",
-        "template--14367387582529__4d6779b3-772e-4541-8ccf-e27d74c084b2-1668523639bba23dec-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/COLLAB_2_73ab1691-1f30-47f6-9567-5961732ee44f.png",
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "164390758276813c05": {
-      "type": "multicolumn",
-      "blocks": {
-        "16439075811b954e10-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Jojoba-oil.jpg",
-            "title": "Huiles Porteuses",
-            "text": "<p>La base de notre huile à barbe est composée d'huiles de graines de jojoba, de graines de ricin et de pépins de raisin de première qualité qui ont été choisies pour leurs propriétés hydratantes, antiseptiques et apaisantes.<\/p>"
-          }
-        },
-        "16439075811b954e10-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/grapefruit_760d5a3f-0e30-42d4-8b63-1dc039de6133.jpg",
-            "title": "Huile d'Écorce de Pamplemouse",
-            "text": "<p>Nous n'utilisons PAS de parfums artificiels dans nos produits pour la barbe. L'huile d'écorce de pamplemousse non seulement revigore vos sens, mais possède des propriétés antimicrobiennes et est également extrêmement bonne pour votre peau.<\/p>"
-          }
-        },
-        "16439075811b954e10-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/spice-juniper-berries-2.jpg",
-            "title": "Huile de Genévrier",
-            "text": "<p>Le genévrier est le principal ingrédient utilisé dans la production de Gin. Combiné avec de l'huile d'écorce de pamplemousse je, on obtient un petit parfum de gin aux agrumes très agréable. Il favorise également la circulation sanguine<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16439075811b954e10-0",
-        "16439075811b954e10-1",
-        "16439075811b954e10-2"
-      ],
-      "settings": {
-        "title": "Liste d'ingrédients",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "secondary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": true
-      }
-    },
-    "1645630746bab70900": {
-      "type": "multicolumn",
-      "blocks": {
-        "1645630746dad2172b-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/bearded-man-in-sun-and-shadow.jpg",
-            "title": "⭐⭐⭐⭐⭐",
-            "text": "<p>Depuis que j'utilise de l'huile à barbe, je cours beaucoup plus vite!<\/p><p><em>-Danny <\/em><\/p>"
-          }
-        },
-        "1645630746dad2172b-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/man-scratches-head-in-front-of-yellow-door.jpg",
-            "title": "⭐⭐⭐⭐⭐",
-            "text": "<p>Cette huile à barbe est la plusse meilleure dans toute le monde!<\/p><p><em>-Louis D.<\/em><\/p>"
-          }
-        },
-        "1645630746dad2172b-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/profile-of-a-man-with-beard-and-styled-hair.jpg",
-            "title": "⭐⭐⭐⭐⭐",
-            "text": "<p>J'ai pas de barbe, mais j'en met sur ma poche avant de faire le truc truc<\/p><p><em>-Cory<\/em><\/p>"
-          }
-        },
-        "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/women-smiling-in-front-of-silver-background.jpg",
-            "title": "⭐⭐⭐⭐⭐",
-            "text": "<p>Pour l'huile, je c pas...mais en t k, j'adore jouer avec le bouchon<\/p><p><em>-Tony<\/em><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1645630746dad2172b-0",
-        "1645630746dad2172b-1",
-        "1645630746dad2172b-2",
-        "3aca0ef1-e5d9-41c8-b43b-a0beea84fa9b"
-      ],
-      "settings": {
-        "title": "Si  vous avez besoins de faux témoignages pour vous convaincre....",
-        "image_width": "third",
-        "image_ratio": "circle",
-        "column_alignment": "left",
-        "background_style": "secondary",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false
-      }
-    },
     "1644002186c85921dd": {
       "type": "rich-text",
       "blocks": {
@@ -345,48 +138,13 @@
         "full_width": true
       }
     },
-    "1645631103ed7ac15b": {
-      "type": "image-with-text",
-      "blocks": {
-        "164563110344fa6cb7-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "La Parfum"
-          }
-        },
-        "164563110344fa6cb7-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Le Old Tom Gin était autrefois considéré comme le ''chaînon manquant'' du monde du gin ! Populaire à la fin des années 1800 et au début des années 1900, il fait maintenant son grand retour sur la scène des cocktails artisanaux !<br\/><br\/>Nous avons décidé de rendre hommage à cette boisson iconique en associant les senteurs de baies de genévrier et d'écorce de pamplemousse dans un parfum frais, doux et vivifiant !<\/p>"
-          }
-        },
-        "164563110344fa6cb7-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "164563110344fa6cb7-0",
-        "164563110344fa6cb7-1",
-        "164563110344fa6cb7-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_-_2022-02-10T150452.636.png",
-        "height": "adapt",
-        "color_scheme": "inverse",
-        "layout": "image_first"
-      }
-    },
     "164398193391bef5bf": {
       "type": "video",
       "settings": {
-        "heading": "TU AS BESOIN D'HUILE  OU DE BAUME?",
-        "cover_image": "shopify:\/\/shop_images\/2022-11-14_21-15-07.png",
-        "video_url": "https:\/\/youtu.be\/gKjGp3zvsQE",
-        "description": "baume vs huile",
+        "heading": "Handmade by Corter Leather",
+        "cover_image": "shopify:\/\/shop_images\/Copy_of_Ajouter_un_titre.png",
+        "video_url": "https:\/\/youtu.be\/iDpy8JNaKBA",
+        "description": "leather card holder",
         "full_width": false
       }
     },
@@ -418,12 +176,7 @@
   },
   "order": [
     "main",
-    "16440019724958e8e1",
-    "4d6779b3-772e-4541-8ccf-e27d74c084b2",
-    "164390758276813c05",
-    "1645630746bab70900",
     "1644002186c85921dd",
-    "1645631103ed7ac15b",
     "164398193391bef5bf",
     "product-recommendations",
     "b37e375b-f350-4bf7-a22f-ba033682e7b2"
