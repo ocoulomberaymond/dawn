@@ -5,16 +5,14 @@
       "blocks": {
         "f2196971-6ba4-4471-8014-0b4d02dc9e8a": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "LE BLACK FRIDAY S'EN VIENT"
+            "text": "C'EST LE TEMPS DE FAIRE LE PLEIN!"
           }
         },
         "heading": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "",
+            "heading": "SPÉCIAUX JUSQU'À 75%",
             "heading_size": "medium"
           }
         },
