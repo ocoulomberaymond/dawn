@@ -21,10 +21,10 @@
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "SHOP",
+            "button_label_1": "PROMO",
             "button_link_1": "https:\/\/dillingers.ca\/fr\/collections\/nelson-floyd-tous-nos-produits",
             "button_style_secondary_1": true,
-            "button_label_2": "BOOK NOW",
+            "button_label_2": "",
             "button_link_2": "https:\/\/ca0.meevo.com\/OnlineBookingApp\/?tenantId=300060&locationId=301109",
             "button_style_secondary_2": false
           }
@@ -36,14 +36,14 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_0529_cd0915b1-96b2-4076-ac09-f022bb2bd7b3.jpg",
+        "image": "shopify:\/\/shop_images\/Untitled_design_12_e5609a5f-872d-46a7-9199-9d6b33996ae9.png",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "center",
         "show_text_box": true,
         "image_overlay_opacity": 0,
         "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "86a12a85-3991-420d-b87e-1bc6e1ef09a1": {
