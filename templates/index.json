@@ -34,12 +34,12 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_21_362d0045-9cd0-4ff4-9f92-7882ae3aeca2.png",
+        "image": "shopify:\/\/shop_images\/Untitled_design_23_b54e094a-2d35-4134-8062-2aae8b2ffbc5.png",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-start",
         "show_text_box": true,
         "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
