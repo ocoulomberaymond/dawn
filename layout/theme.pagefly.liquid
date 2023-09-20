@@ -30,7 +30,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<script src="//widget.manychat.com/597930773959197.js" defer="defer"></script>
 	<script src="https://mccdn.me/assets/js/widget.js" defer="defer"></script>
     {% endcomment %}
-    {%- comment -%}smartseo_integration_begin{%- endcomment -%}{% include 'smartseo' %}{%- comment -%}smartseo_integration_end{%- endcomment -%}
+    
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -48,12 +48,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     {%- endunless -%}
 
     {%- comment smartseo_integration_begin_meta_data -%}<title>{{ page_title }}</title>{%- endcomment smartseo_integration_end_meta_data -%}
-    <title>
+    {%- comment smartseo_integration_begin_meta_data -%}<title>
       {{ page_title }}
       {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
       {%- if current_page != 1 %} &ndash; Page {{ current_page }}{% endif -%}
       {%- unless page_title contains shop.name %} &ndash; {{ shop.name }}{% endunless -%}
-    </title>
+    </title>{%- endcomment smartseo_integration_end_meta_data -%}
 
     {% if page_description %}
       {%- comment smartseo_integration_begin_meta_data -%}<meta name="description" content="{{ page_description | escape }}">{%- endcomment smartseo_integration_end_meta_data -%}
@@ -157,6 +157,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	{% comment %}
   {% include "manychat-header" %}
 	{% endcomment %}
+
 
   {% render 'qikify-apps' %}
 <link rel="stylesheet" href="https://checkoutbundles.com/shopify/app/preview_style.css"> 
